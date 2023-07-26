@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/SamsungTVPlus/es.xml"
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://github.com/botallen/epg/releases/download/latest/epg.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/SamsungTVPlus/es.xml"
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV PERU
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
@@ -30,7 +30,7 @@ https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
 http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/216378.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina (geo)
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina o1
@@ -55,7 +55,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://cdnh74.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
@@ -78,7 +78,7 @@ https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 https://ythls.onrender.com/channel/UCNd09h2GugrdeT_80LxOFMw.m3u8
 
 #EXTINF:-1  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="PERU",Senal Peru TV
-https://livestream.perucast.com/hls/stream_mid/index.m3u8
+https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERU",PERU Channel
 https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_w1789375675.m3u8
@@ -162,7 +162,7 @@ https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas YT
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
@@ -674,7 +674,23 @@ http://187.189.125.28:8000/play/a016/index.m3u8
 http://168.194.171.33:8000/play/a09n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34826
+http://45.5.119.202:54321/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
+http://45.176.232.106:45000/play/a03b
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
+http://45.181.122.209:8088/play/a04r
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o3
+http://45.238.20.129:8000/play/a01r
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o4
+http://38.43.140.215:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o5
+http://201.218.137.232:4123/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o6
+http://200.69.87.250:12500/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o7
+http://200.229.147.76:4000/play/a0hc/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o8
+http://200.229.147.76:4000/play/a0fv/index.m3u8
 
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png",Viaje a las estrellas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
