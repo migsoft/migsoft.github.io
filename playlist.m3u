@@ -84,12 +84,6 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_w1789375675.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34743
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes HD
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304302
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes FHD
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304303
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes o1
 http://201.218.137.232:4123/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
@@ -493,8 +487,6 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports
-http://105449856513435680.ohosts.xyz/live/M5P5A69WHY/QGqFXMbC3j/314267.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports o1
 http://168.228.194.33:48001/play/a0bw/index.m3u8
 
 
