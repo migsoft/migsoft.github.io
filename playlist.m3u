@@ -89,6 +89,8 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/34743
 http://hidra.live:80/ilseucuh/J52j6Fslu8/304302
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes FHD
 http://hidra.live:80/ilseucuh/J52j6Fslu8/304303
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes o1
+http://201.218.137.232:4123/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
 http://102.165.51.185:80/live/NbuuHuMf/8fLUiVaBWhugDZS/304304.m3u8
@@ -103,6 +105,8 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/304308
 
 #EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru
 http://177.53.153.21:8001/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru o1
+http://201.218.137.232:4123/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://hidra.live:80/ilseucuh/J52j6Fslu8/304313
@@ -510,6 +514,12 @@ http://45.176.232.106:45000/play/a05c
 http://38.43.140.215:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
 http://209.45.91.207:7878/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o3
+http://201.218.137.232:4123/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o4
+http://200.114.65.7:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o5
+http://200.113.4.75:7210/play/a00y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" group-title="DEPORTES",ESPN2
