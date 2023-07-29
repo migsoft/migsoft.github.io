@@ -77,7 +77,7 @@ https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Peru_21_logo.png" group-title="PERU",Peru21 YT
 https://ythls.onrender.com/channel/UCNd09h2GugrdeT_80LxOFMw.m3u8
 
-#EXTINF:-1  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="PERU",Senal Peru TV
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sur_peru.png" group-title="PERU",Senal Peru TV
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERU",PERU Channel
@@ -255,7 +255,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Techscience
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/536/913/png-transparent-tsc-hd-logo-thumbnail.png" group-title="ARGENTINA",Techscience
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="ARGENTINA",City Sports TV
