@@ -126,11 +126,11 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="PERU",Best Cable TV
-https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tenisdemesa.pe/wp-content/uploads/2021/06/bestcable.jpg" group-title="PERU",Best Cable Sports
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="PERU",Best Cable Music
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
