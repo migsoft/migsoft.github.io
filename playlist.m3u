@@ -466,7 +466,7 @@ http://181.189.243.254:8000/play/a0o1/index.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/772
+https://directos.mitele.es/orilinear22/live/linear22/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1691344875~exp=1691345055~acl=/*~hmac=1b8f171e80f24481811e865964092d2125019651a35be5464b49ecbc36cb409c
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
 http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/786
