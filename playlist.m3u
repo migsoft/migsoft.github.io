@@ -52,13 +52,13 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-https://cdnh74.iblups.com/hls/ptv2.m3u8
+https://cdn74.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
@@ -256,9 +256,6 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/536/913/png-transparent-tsc-hd-logo-thumbnail.png" group-title="ARGENTINA",Techscience
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="ARGENTINA",City Sports TV
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -454,13 +451,9 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
 http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/54380
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 o1
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/768
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",A3S
 http://187.251.240.18:1099/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",A3S o1
-http://181.189.243.254:8000/play/a0o1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",HOLATV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
