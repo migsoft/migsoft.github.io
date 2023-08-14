@@ -28,7 +28,13 @@ https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/a
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/216378.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304290
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304291
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304292
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina (geo)
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
