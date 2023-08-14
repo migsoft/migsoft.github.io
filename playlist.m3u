@@ -33,6 +33,9 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304290
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o2
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304291
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o3
+http://177.53.153.21:8001/play/a03w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina (geo)
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
@@ -87,6 +90,9 @@ https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_w1789375675.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
 http://201.218.137.232:4123/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes o1
+http://177.53.153.21:8001/play/a01b/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
 http://102.165.51.185:80/live/NbuuHuMf/8fLUiVaBWhugDZS/304304.m3u8
@@ -106,6 +112,9 @@ http://201.218.137.232:4123/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://hidra.live:80/ilseucuh/J52j6Fslu8/304313
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N o1
+http://177.53.153.21:8001/play/a01c/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -335,6 +344,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
 http://45.176.232.106:45000/play/a01l
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol o1
+http://177.53.153.21:8001/play/a04a/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
