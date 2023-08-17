@@ -451,14 +451,14 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1 o1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1 o2
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/766
+http://disfruta.net:80/balooshy/yED5hrnYT7/1754
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2 o1
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2 o2
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/767
+http://disfruta.net:80/balooshy/yED5hrnYT7/1755
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -466,34 +466,34 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
-http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/54380
+http://disfruta.net:80/balooshy/yED5hrnYT7/1756
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",A3S
-http://187.251.240.18:1099/play/a04o/index.m3u8
+http://disfruta.net:80/balooshy/yED5hrnYT7/1767
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",HOLATV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
-https://directos.mitele.es/orilinear22/live/linear22/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1691344875~exp=1691345055~acl=/*~hmac=1b8f171e80f24481811e865964092d2125019651a35be5464b49ecbc36cb409c
+http://disfruta.net:80/balooshy/yED5hrnYT7/1761
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/786
+http://disfruta.net:80/balooshy/yED5hrnYT7/1835
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="ESPANA",Divinity
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/774
+http://disfruta.net:80/balooshy/yED5hrnYT7/1764
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/40s4zlU.png" group-title="ESPANA",Energy
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/773
+http://disfruta.net:80/balooshy/yED5hrnYT7/1765
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vquicgg.png" group-title="ESPANA",BeMad
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/840
+http://disfruta.net:80/balooshy/yED5hrnYT7/1766
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="ESPANA",Cuatro
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/769
+http://disfruta.net:80/balooshy/yED5hrnYT7/1757
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco
-http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/770
+http://disfruta.net:80/balooshy/yED5hrnYT7/1758
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
@@ -534,6 +534,8 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/302638
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
 http://hidra.live:80/ilseucuh/J52j6Fslu8/34648
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium o1
+http://disfruta.net:80/balooshy/yED5hrnYT7/1099
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
 http://170.79.235.29:8000/play/209
@@ -595,7 +597,7 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/302689
 http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/798
 
 #EXTINF:-1 tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+http://177.53.153.21:8001/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINEMA",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -701,6 +703,8 @@ http://200.69.87.250:12500/play/a04c/index.m3u8
 http://45.181.122.209:8088/play/a039
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2 o1
 http://45.181.122.145:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2 o2
+http://190.83.116.230:9010/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
 http://168.194.171.33:8000/play/a09n/index.m3u8
