@@ -30,12 +30,7 @@ https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o1
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304290
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o2
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304291
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o3
 http://177.53.153.21:8001/play/a03w/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina (geo)
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
@@ -91,11 +86,10 @@ https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_w1789375675.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
 http://201.218.137.232:4123/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes o1
-http://177.53.153.21:8001/play/a01b/index.m3u8
-
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4322
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
-http://102.165.51.185:80/live/NbuuHuMf/8fLUiVaBWhugDZS/304304.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP YT
 https://ythls.onrender.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA.m3u8
@@ -103,7 +97,7 @@ https://ythls.onrender.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA.m3u8
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/187.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304308
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
 
 #EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru
 http://177.53.153.21:8001/play/a03z/index.m3u8
@@ -111,10 +105,7 @@ http://177.53.153.21:8001/play/a03z/index.m3u8
 http://201.218.137.232:4123/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304313
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N o1
-http://177.53.153.21:8001/play/a01c/index.m3u8
-
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/160
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -208,7 +199,7 @@ https://marine2.miplay.cl/t13/playlist.m3u8
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8?dpssid=b13325894660164a76d8dcfa2f&sid=ba5t1l1xb2161034747564ad9e749f232&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://hidra.live:80/ilseucuh/J52j6Fslu8/35012
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX o1
@@ -229,9 +220,7 @@ https://marine2.miplay.cl/tvr/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8?s=sd&t=&id=77b46b7a-77dc-d0bc-f44a-d30a71f7bcb8&q=&d=u
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://hidra.live:80/ilseucuh/J52j6Fslu8/123888
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile HD
-http://hidra.live:80/ilseucuh/J52j6Fslu8/35180
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
@@ -354,7 +343,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304257
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="COLOMBIA",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -379,10 +368,10 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34690
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34691
+http://177.53.153.21:8001/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz
 http://204.199.120.34:16123/play/ch34
@@ -396,13 +385,15 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo o1
+http://disfruta.net:80/balooshy/yED5hrnYT7/2518
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Int
-http://181.189.243.254:8000/play/a0q9/index.m3u8
+http://disfruta.net:80/balooshy/yED5hrnYT7/2125
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",Univision
 http://168.228.194.33:48001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",Univision o1
-http://181.189.243.254:8000/play/a0v0/index.m3u8
+http://disfruta.net:80/balooshy/yED5hrnYT7/2464
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -446,7 +437,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
-http://hidra.live:80/ilseucuh/J52j6Fslu8/302619
+http://disfruta.net:80/balooshy/yED5hrnYT7/1920
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
