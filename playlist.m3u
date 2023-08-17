@@ -388,6 +388,8 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/34691
 http://204.199.120.34:16123/play/ch34
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz o1
 http://181.78.8.90:16123/play/ch34
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz o2
+http://disfruta.net:80/balooshy/yED5hrnYT7/2114
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",CanelaTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
@@ -530,7 +532,7 @@ http://177.53.153.21:8001/play/a02c/index.m3u8
 http://177.53.153.21:8001/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN MX
-http://hidra.live:80/ilseucuh/J52j6Fslu8/302638
+http://disfruta.net:80/balooshy/yED5hrnYT7/1082
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
 http://hidra.live:80/ilseucuh/J52j6Fslu8/34648
@@ -547,14 +549,16 @@ http://170.79.235.29:8000/play/211
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-premium-us-ar.png" group-title="DEPORTES",Fox Sports Premium
 http://hidra.live:80/ilseucuh/J52j6Fslu8/304554
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/claro_tv_cl.png",Claro Sports
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34618
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/claro_tv_cl.png",Claro Sports MX
+http://disfruta.net:80/balooshy/yED5hrnYT7/1408
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/claro_tv_cl.png",Claro Sports CO
+http://disfruta.net:80/balooshy/yED5hrnYT7/1407
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34701
+http://disfruta.net:80/balooshy/yED5hrnYT7/1810
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN USA
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304510
+http://disfruta.net:80/balooshy/yED5hrnYT7/1400
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN ViX
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
