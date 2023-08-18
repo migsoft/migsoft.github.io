@@ -95,6 +95,8 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
 https://ythls.onrender.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/187.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP o1
+http://177.53.153.21:8001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
@@ -969,6 +971,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/299/166/541/tv-channel-icons-pack-bbc-america-hd-color-png-icon.jpg" group-title="NOTICIAS",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-world-news-logo-10255C2E3B-seeklogo.com.png" group-title="NOTICIAS",BBC World News
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/4254.m3u8
