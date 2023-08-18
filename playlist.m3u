@@ -345,7 +345,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
+http://177.53.153.21:8001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="COLOMBIA",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -366,6 +366,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 #EXTINF:-1 tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece_co.png" group-title="COLOMBIA",Trece
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece-plus-co.png" group-title="COLOMBIA",Trece+
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
