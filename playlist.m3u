@@ -592,6 +592,8 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/302689
 http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/798
 
 #EXTINF:-1 tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Cine o1
 http://177.53.153.21:8001/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINEMA",PlanetaTV Movie
