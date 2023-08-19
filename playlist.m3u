@@ -22,7 +22,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV Noticias YT
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
@@ -782,6 +782,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb
 
 #EXTINF:-1 channel-id="pluto-60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="AUTO",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="CanalMotorTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-motor-tv.no.png" group-title="AUTO",Canal Motor TV
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",Trace Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
