@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/peru.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/SamsungTVPlus/es.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/chile.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://i.mjh.nz/PlutoTV/es.xml,https://i.mjh.nz/SamsungTVPlus/es.xml"
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV PERU
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
@@ -141,45 +141,45 @@ https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red
 https://marine2.miplay.cl/lared/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV HD
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV HD
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE",UCV 2
+#EXTINF:-1 tvg-id="UCV2TV.cl" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE",UCV 2
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
+#EXTINF:-1 tvg-id="TV+.cl" tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas YT
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas YT
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega SD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega SD
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
+#EXTINF:-1 tvg-id="Mega+.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/120px-Meganoticias2019.png" group-title="CHILE",Mega Noticias YT
+#EXTINF:-1 tvg-id="MegaNoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/120px-Meganoticias2019.png" group-title="CHILE",Mega Noticias YT
 https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE",CHV
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE",CHV
 https://marine2.miplay.cl/chvchile/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="CHILE",Chilevision Noticias
@@ -188,48 +188,47 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9d
 #EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="CHILE",Chilevision Contigo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 https://marine2.miplay.cl/c13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 o1
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 o1
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/3088f1b7-6cea-48f9-9475-f120c2f91e03:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://marine2.miplay.cl/t13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13 o1
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13 o1
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8?dpssid=b13325894660164a76d8dcfa2f&sid=ba5t1l1xb2161034747564ad9e749f232&ndvc=0
 
-#EXTINF:-1 tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
+#EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX o1
+#EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX o1
 http://181.78.22.27:8098/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/56_TVU.png" group-title="CHILE",TVU
+#EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://www.m3u.cl/logo/56_TVU.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.uchile.cl/.imaging/default/dam/imagenes/Uchile/imagenes-noticias/172128_1_u-chile-tv-logo-1200px-fondo-negro_S/jcr:content.png" group-title="CHILE",U Chile TV
+#EXTINF:-1 tvg-id="UChile.cl" tvg-logo="https://www.uchile.cl/.imaging/default/dam/imagenes/Uchile/imagenes-noticias/172128_1_u-chile-tv-logo-1200px-fondo-negro_S/jcr:content.png" group-title="CHILE",U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-regional-de-chile-1483.png" group-title="CHILE",TVR HD
+#EXTINF:-1 tvg-id="TVR.cl" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-regional-de-chile-1483.png" group-title="CHILE",TVR HD
 https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-regional-de-chile-1483.png" group-title="CHILE",TVR
+#EXTINF:-1 tvg-id="TVR.cl" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-regional-de-chile-1483.png" group-title="CHILE",TVR
 https://marine2.miplay.cl/tvr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.usach.cl/sites/default/files/field/noticia_image/Foto%20nota%20principal%20logo_TV.jpg" group-title="CHILE",STGO TV
+#EXTINF:-1 tvg-id="STGOTV.cl" tvg-logo="https://www.usach.cl/sites/default/files/field/noticia_image/Foto%20nota%20principal%20logo_TV.jpg" group-title="CHILE",STGO TV
 https://stv.janus.cl/playlist/stream.m3u8?s=sd&t=&id=77b46b7a-77dc-d0bc-f44a-d30a71f7bcb8&q=&d=u
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3
+#EXTINF:-1 tvg-id="CNN.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
+http://177.53.153.21:8001/play/a01q/index.m3u8
 
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w739278878.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w184233679.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w392532980.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
