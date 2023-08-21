@@ -62,6 +62,8 @@ plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
 
+#EXTINF:-1  tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
+http://177.53.153.21:8001/play/a00j/index.m3u8
 #EXTINF:-1  tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1  tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV YT
