@@ -580,9 +580,6 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tu-cine.jpg" group-title="CINEMA",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINEMA",Atrecine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://disfruta.net:80/balooshy/yED5hrnYT7/2204
 
