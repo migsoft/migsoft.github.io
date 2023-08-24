@@ -337,7 +337,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol YT
 https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
-#EXTINF:-1 tvg-id="RCNTV.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
 http://177.53.153.21:8001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="COLOMBIA",RCN Xtra
@@ -360,13 +360,13 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Trece.co" tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece_co.png" group-title="COLOMBIA",Trece
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trece+.co" tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece-plus-co.png" group-title="COLOMBIA",Trece+
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece-plus-co.png" group-title="COLOMBIA",Trece+
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
 
-#EXTINF:-1 tvg-id="WinSports+.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
 http://177.53.153.21:8001/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz
@@ -455,7 +455,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1756
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
 http://disfruta.net:80/balooshy/yED5hrnYT7/1767
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",Hola! TV
+#EXTINF:-1 tvg-id="Hola.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
@@ -543,7 +543,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1400
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports N
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34703
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -976,7 +976,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/geoto/images/custom/Newsmax_Photo.gif" group-title="NOTICIAS",Newsmax
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="http://szegedma.hu/images/gyujto2010_06_01-15/cnn.jpg" group-title="NOTICIAS",CNN
@@ -1020,13 +1020,13 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-quicktake-us.png" group-title="NOTICIAS",Bloomberg QuickTake HD
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kasparov.com/wp-content/uploads/2021/05/Yahoo-Finance.jpeg" group-title="NOTICIAS",Yahoo! Finance
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://www.kasparov.com/wp-content/uploads/2021/05/Yahoo-Finance.jpeg" group-title="NOTICIAS",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg" group-title="NOTICIAS",Yahoo! Finance o1
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png" group-title="NOTICIAS",Weather Nation
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png" group-title="NOTICIAS",Weather Nation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather
