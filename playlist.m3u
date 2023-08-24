@@ -29,7 +29,7 @@ https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",América Television
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AmericaTV o1
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
 http://177.53.153.21:8001/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Frecuencia Latina
@@ -50,7 +50,7 @@ https://ythls.onrender.com/channel/UC3rDtLrcgr3JS3_3JOW4BAw.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 tvg-logo="http://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="PERU",Vision Sur
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="http://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="PERU",Vision Sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
@@ -73,7 +73,7 @@ https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1
 #EXTINF:-1  tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV DM2
 https://www.dailymotion.com/hub/video/x7x4dgx?autoplay=1
 
-#EXTINF:-1  tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO Digital YT
+#EXTINF:-1  tvg-id="PBODigital.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO Digital YT
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="Peru21.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Peru_21_logo.png" group-title="PERU",Peru21 YT
@@ -94,8 +94,6 @@ http://177.53.153.21:8001/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP YT
 https://ythls.onrender.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/187.m3u8
-#EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP o1
 http://177.53.153.21:8001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
