@@ -194,13 +194,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 https://marine2.miplay.cl/c13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 o1
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/3088f1b7-6cea-48f9-9475-f120c2f91e03:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
-
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://marine2.miplay.cl/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13 o1
-https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8?dpssid=b13325894660164a76d8dcfa2f&sid=ba5t1l1xb2161034747564ad9e749f232&ndvc=0
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
