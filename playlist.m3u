@@ -27,9 +27,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV Noticias YT
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",América Television
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",América TV
 http://177.53.153.21:8001/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Frecuencia Latina
@@ -934,7 +932,7 @@ https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="http://szegedma.hu/images/gyujto2010_06_01-15/cnn.jpg" group-title="NOTICIAS",CNN en Español
 http://disfruta.net:80/balooshy/yED5hrnYT7/2354
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle ES
+#EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT HD
@@ -958,13 +956,13 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/9-98175_bbc-america-bbc-america-logo-png.png" group-title="NOTICIAS",BBC America
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://www.pngkit.com/png/detail/9-98175_bbc-america-bbc-america-logo-png.png" group-title="NOTICIAS",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-world-news-logo-10255C2E3B-seeklogo.com.png" group-title="NOTICIAS",BBC World News
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/4254.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://seeklogo.com/images/B/bbc-world-news-logo-10255C2E3B-seeklogo.com.png" group-title="NOTICIAS",BBC World News
+http://190.83.116.230:9010/play/a09y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now
+#EXTINF:-1 tvg-id="FoxLiveNow.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="NOTICIAS",NBC News Now
@@ -985,30 +983,27 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 
-#EXTINF:-1 tvg-name="Reuters TV (EU)" tvg-id="ReutersTVEU.uk" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="NOTICIAS",Reuters TV (EU)
+#EXTINF:-1 tvg-id="ReutersTVEU.uk" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="NOTICIAS",Reuters TV (EU)
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4176VIeeBaL.png" group-title="NOTICIAS",Sky News
+#EXTINF:-1 tvg-id="SkyNews.au" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4176VIeeBaL.png" group-title="NOTICIAS",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle EN
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NOTICIAS",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeera.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NOTICIAS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World o1
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World o1
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510o-769sbL.png" group-title="NOTICIAS",NOTV 41 New Orleans HD
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.TV" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS",Arirang HD (Korea)
@@ -1017,25 +1012,25 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="NOTICIAS",Bloomberg TV HD
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-quicktake-us.png" group-title="NOTICIAS",Bloomberg QuickTake HD
+#EXTINF:-1 tvg-id="BloomQuickTake.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-quicktake-us.png" group-title="NOTICIAS",Bloomberg QuickTake HD
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://www.kasparov.com/wp-content/uploads/2021/05/Yahoo-Finance.jpeg" group-title="NOTICIAS",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg" group-title="NOTICIAS",Yahoo! Finance o1
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg" group-title="NOTICIAS",Yahoo! Finance o1
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png" group-title="NOTICIAS",Weather Nation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather o1
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather o1
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://seeklogo.com/images/A/accuweather-logo-045E9BB207-seeklogo.com.png" group-title="NOTICIAS",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="NOTICIAS",WeatherSpy
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="NOTICIAS",WeatherSpy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
