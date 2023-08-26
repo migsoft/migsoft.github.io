@@ -415,7 +415,7 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-id="Canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-id="N+Media.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1902800913.png" group-title="MEXICO",N+ Media
+#EXTINF:-1 tvg-id="NmasMedia.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1902800913.png" group-title="MEXICO",N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milenio-tv-mx.png" group-title="MEXICO",Milenio
@@ -427,7 +427,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/az_clic_mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/az_clic_mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
@@ -435,6 +435,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
 http://disfruta.net:80/balooshy/yED5hrnYT7/1920
+
+#EXTINF:-1 tvg-id="AztecaCinema.mx" tvg-logo="https://forounivers.com/uploads/monthly_2023_06/large.Cinema.png.4de1b4671b2a5c2b9f9e2c88994bb473.png",Azteca Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -454,6 +457,9 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1755
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h o1
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://estaticos.tdt1.com/canales/logolaotra.jpg" group-title="ESPANA",La Otra
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
 http://disfruta.net:80/balooshy/yED5hrnYT7/1756
@@ -619,11 +625,14 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/2254
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
 http://177.53.153.21:8001/play/a03o/index.m3u8
 
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden TV
-https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINEMA",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovies.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My time Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
