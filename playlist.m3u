@@ -35,7 +35,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV Noticias YT
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",América TV PE
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
 http://177.53.153.21:8001/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Frecuencia Latina
@@ -60,7 +60,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-https://cdn74.iblups.com/hls/ptv2.m3u8
+https://cdn75.iblups.com/hls/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
@@ -74,10 +74,6 @@ http://177.53.153.21:8001/play/a00j/index.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV YT
 https://ythls.onrender.com/channel/UCort3mldTtMErPqprSlSfng.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV DM
-https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV DM2
-https://www.dailymotion.com/hub/video/x7x4dgx?autoplay=1
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO Digital YT
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
@@ -107,8 +103,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
 
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru
 http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru
-http://201.218.137.232:4123/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/160
@@ -664,6 +658,9 @@ http://177.53.153.21:8001/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel
 http://177.53.153.21:8001/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel HD
+http://38.56.118.88:4000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
 http://177.53.153.21:8001/play/a02y/index.m3u8
 
@@ -694,8 +691,6 @@ http://45.181.122.209:8088/play/a038
 http://45.181.122.145:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History Channel o4
 http://38.7.131.2:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History Channel o5
-http://38.56.118.88:4000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History Channel o6
 http://200.69.87.250:12500/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History Channel o7
@@ -708,21 +703,15 @@ http://45.181.122.145:8000/play/a00x/index.m3u8
 http://190.83.116.230:9010/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
-http://168.194.171.33:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
 http://45.65.137.206:8000/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o2
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
 http://38.43.140.215:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o3
-http://201.218.137.232:4123/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://45.181.122.209:8088/play/a04r
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
 http://38.43.140.215:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
-http://201.218.137.232:4123/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o3
 http://200.69.87.250:12500/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png",Viaje a las estrellas
@@ -871,13 +860,13 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenHolaPlay.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Hola Play - Rakuten
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenAccion.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Accion - Rakuten
+#EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Accion - Rakuten
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenComedia.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Comedia - Rakuten
+#EXTINF:-1 tvg-id="RakutenComedyMovies" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Comedia - Rakuten
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenDrama.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",TV Drama - Rakuten
+#EXTINF:-1 tvg-id="RakutenTVShows.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",TV Drama - Rakuten
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenFamilia.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Familia - Rakuten
+#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Familia - Rakuten
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenSpotlight.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",SpotLight - Rakuten
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8
@@ -918,7 +907,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Accion
+#EXTINF:-1 tvg-id="CineAccion" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Animal
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -1040,9 +1029,6 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://www.kasparov.com/wp-content/uploads/2021/05/Yahoo-Finance.jpeg" group-title="NOTICIAS",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg" group-title="NOTICIAS",Yahoo! Finance o1
-https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png" group-title="NOTICIAS",Weather Nation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
