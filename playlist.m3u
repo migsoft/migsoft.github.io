@@ -499,11 +499,11 @@ http://45.5.151.150:8000/play/a01c/index.m3u8
 http://177.53.153.21:8001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports
-http://hidra.live:80/ilseucuh/J52j6Fslu8/123872
+http://muka03.wanicelife.com:8880/DAA6M2664/v93cKuUxVq/49731
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports 2
-http://hidra.live:80/ilseucuh/J52j6Fslu8/34612
+http://muka03.wanicelife.com:8880/DAA6M2664/v93cKuUxVq/49729
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports Plus
-http://hidra.live:80/ilseucuh/J52j6Fslu8/123871
+http://muka03.wanicelife.com:8880/DAA6M2664/v93cKuUxVq/49730
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://38.43.140.215:8000/play/a035/index.m3u8
@@ -625,7 +625,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINEMA",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimeMovies.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My time Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Español
@@ -706,6 +706,8 @@ http://190.83.116.230:9010/play/a03l/index.m3u8
 http://45.65.137.206:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
 http://38.43.140.215:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://45.181.122.209:8088/play/a04r
