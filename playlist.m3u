@@ -239,9 +239,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTVLCOPT:http-user-agent=iPhone
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
-http://45.238.20.129:8000/play/a027
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
 http://45.176.232.106:45000/play/a029
 
@@ -249,12 +246,15 @@ http://45.176.232.106:45000/play/a029
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 #EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+https://stmv1.cnarlatam.com/mcyttv/mcyttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TECSC.ar" tvg-logo="https://w7.pngwing.com/pngs/536/913/png-transparent-tsc-hd-logo-thumbnail.png" group-title="ARGENTINA",Techscience
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -328,7 +328,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
 http://45.176.232.106:45000/play/a01l
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol o1
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol HD
 http://177.53.153.21:8001/play/a04a/index.m3u8
 
 
@@ -741,8 +741,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73170.jpg" group-title="MISCELANEOS",Nasa TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20210915005659/en/1072318/5/SPACE_CH_LOGO_EARTH-short.jpg" group-title="MISCELANEOS",Space Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 
 #EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av Paseo de la Republica
 https://live.smartechlatam.online/claro/paseodelarepublica/index.m3u8
