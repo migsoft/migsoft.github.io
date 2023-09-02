@@ -521,11 +521,11 @@ http://177.53.153.21:8001/play/a025/index.m3u8
 http://45.5.151.150:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
-http://200.113.4.75:7210/play/a00d/index.m3u8
+http://45.236.175.2:1040/
 #EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-http://131.196.194.14:8001/play/a013
+http://45.236.175.2:1059/
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-http://131.196.194.14:8001/play/a014
+http://45.236.175.2:1034/
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-premium-us-ar.png" group-title="DEPORTES",Fox Sports Premium
 http://177.53.153.21:8001/play/a04e/index.m3u8
