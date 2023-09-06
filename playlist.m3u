@@ -240,9 +240,8 @@ http://45.176.232.106:45000/play/a029
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
 http://138.59.224.12:8000/play/a032/index.m3u8
 
-
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
 https://stmv1.cnarlatam.com/mcyttv/mcyttv/chunklist.m3u8
@@ -362,7 +361,7 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38531.m3u8
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
 http://177.53.153.21:8001/play/a03j/index.m3u8
