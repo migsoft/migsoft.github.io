@@ -226,33 +226,55 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w392
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece YT
+https://ythls.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
+
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública HD
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica YT
+https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
 #EXTVLCOPT:http-user-agent=iPhone
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA",TN YT
+https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
 http://45.176.232.106:45000/play/a029
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV YT
+https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
 http://138.59.224.12:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
+https://ythls.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
 
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
-#EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
-https://stmv1.cnarlatam.com/mcyttv/mcyttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="TECSC.ar" tvg-logo="https://w7.pngwing.com/pngs/536/913/png-transparent-tsc-hd-logo-thumbnail.png" group-title="ARGENTINA",Techscience
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARGENTINA",C5N YT
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LN+ YT
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro YT
+https://ythls.onrender.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV YT
+https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
+https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_07/large.3D_frontal.png.b5c048da0412df259c7aa1bbbeea4476.png" group-title="ARGENTINA",Canal 8 YT
+https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
+https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -274,8 +296,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26 02
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26 03
-http://tv.orbeplay.com:8080/florentino/123456/1155833
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26 YT
+https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -286,34 +308,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://pbs.twimg.com/profile_images/876833569380982785/4nT4SSJU_400x400.jpg" group-title="ARGENTINA",Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA",TN YT
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica YT
-https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARGENTINA",C5N YT
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LN+ YT
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26 YT
-https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro YT
-https://ythls.onrender.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV YT
-https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
-https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_07/large.3D_frontal.png.b5c048da0412df259c7aa1bbbeea4476.png" group-title="ARGENTINA",Canal 8 YT
-https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece YT
-https://ythls.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
-https://ythls.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV YT
-https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
-https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
+https://stmv1.cnarlatam.com/mcyttv/mcyttv/chunklist.m3u8
+#EXTINF:-1 tvg-id="TECSC.ar" tvg-logo="https://w7.pngwing.com/pngs/536/913/png-transparent-tsc-hd-logo-thumbnail.png" group-title="ARGENTINA",Techscience
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
