@@ -379,7 +379,7 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38531.m3u8
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/291092
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
 http://177.53.153.21:8001/play/a03j/index.m3u8
