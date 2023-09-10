@@ -61,7 +61,8 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://cdn75.iblups.com/hls/2/stream.m3u8
-
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://177.53.153.21:8001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
@@ -197,8 +198,14 @@ https://marine2.miplay.cl/t13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
+http://138.59.224.12:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://181.78.22.27:8098/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
+http://138.59.224.12:8000/play/a01l/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://www.m3u.cl/logo/56_TVU.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -646,6 +653,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://media.cdnandroid.com/5a/42/25/07/imagen-tastemade-0big.jpg" group-title="MISCELANEOS",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeGlobo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="MISCELANEOS",Globo Internacional
+http://138.59.224.12:8000/play/a029/index.m3u8
+
 #EXTINF:-1 tvg-id="AESouth.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
 http://177.53.153.21:8001/play/a01s/index.m3u8
 
@@ -712,6 +722,8 @@ http://45.181.122.209:8088/play/a04r
 http://muka03.wanicelife.com:8880/DAA6M2664/v93cKuUxVq/51404
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
 http://200.69.87.250:12500/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o3
+http://138.59.224.12:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png",Viaje a las estrellas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
