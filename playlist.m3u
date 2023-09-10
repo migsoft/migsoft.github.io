@@ -605,6 +605,22 @@ http://177.53.153.21:8001/play/a08l/index.m3u8
 http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2
 http://disfruta.net:80/balooshy/yED5hrnYT7/2223
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o1
+http://45.5.119.228:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o2
+http://45.236.175.2:1022
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o3
+http://131.196.194.14:8001/play/a02o
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o4
+http://138.59.177.34:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o5
+http://149.62.183.194:9293/play/a0dv
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o6
+http://149.62.183.194:9293/play/a0cp
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2 o7
+http://200.123.15.196:8000/play/a00u
+
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus Panamericano HD
 http://disfruta.net:80/balooshy/yED5hrnYT7/2229
 
