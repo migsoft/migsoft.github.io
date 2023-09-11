@@ -40,7 +40,7 @@ https://marine2.miplay.cl/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",Canal 9
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
