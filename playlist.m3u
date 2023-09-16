@@ -267,6 +267,12 @@ https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 http://138.59.224.12:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
 https://ythls.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Córdoba
+https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Salta
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Santa Fé
+https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
