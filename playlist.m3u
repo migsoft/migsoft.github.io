@@ -43,16 +43,14 @@ http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/290954
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Frecuencia Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina o1
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina o2
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina SD
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina YT
-https://ythls.onrender.com/channel/UCWRNdBxB3dbvIfCoehIKHAA.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina Noticias YT
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",LN Digital YT
 https://ythls.onrender.com/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina Deportes YT
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina HD YT
 https://ythls.onrender.com/channel/UC3rDtLrcgr3JS3_3JOW4BAw.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
@@ -62,7 +60,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-https://cdn75.iblups.com/hls/2/stream.m3u8
+https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://177.53.153.21:8001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
