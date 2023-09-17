@@ -776,10 +776,10 @@ https://live.smartechlatam.online/claro/derby/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Popocatepetl.png/120px-Popocatepetl.png?20191012045429" group-title="LIVECAM",Volcan Popocatepetl
 https://ythls.onrender.com/channel/UCm00usB2zrCzuH0bvV0tdlA.m3u8
 
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="AUTO",Velocidad
+https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTINF:-1 tvg-id="62154548a2be360007cb02f0" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="AUTO",Ice Pilots
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="AUTO",Pluto TV Velocidad
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="AUTO",Obsesión por los Autos
 https://i.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
 #EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" group-title="AUTO" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png",Motor
