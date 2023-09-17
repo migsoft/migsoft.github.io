@@ -214,7 +214,6 @@ http://181.78.22.27:8098/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
 http://138.59.224.12:8000/play/a01l/index.m3u8
 
-
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://www.m3u.cl/logo/56_TVU.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
@@ -409,6 +408,22 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/2125
 http://168.228.194.33:48001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",Univision 34
 http://disfruta.net:80/balooshy/yED5hrnYT7/2464
+
+#EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="USA",Archivos Extraterrestres
+https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63a084934734f30007457b2c" tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="USA",Smithsonian Channel
+https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="USA",Historia
+https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="USA",Ciencia
+https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="USA",Investiga
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
