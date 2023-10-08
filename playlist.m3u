@@ -41,9 +41,9 @@ http://177.53.153.21:8001/play/a03w/index.m3u8
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8983
 
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title="PERU",Latele
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9002
+http://187.102.208.107:50001/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Frecuencia Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
@@ -97,7 +97,7 @@ https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_w1789375675.m3u8
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298924
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
-http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/291030
+http://187.102.208.107:50001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166937
@@ -115,7 +115,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8990
 http://streamgo.vip:8008/alfredorodriguez55/77775555627/166609
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8984
+http://187.102.208.107:50001/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/320px-Logo-Liga1Max-Per%C3%BA.png" group-title="PERU",Liga1Max
 http://177.53.153.21:8001/play/a00h/index.m3u8
@@ -526,21 +526,21 @@ http://177.53.153.21:8001/play/a01x/index.m3u8
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3204
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8749
-#EXTINF:-1 tvg-id="TyCSportsInternacional.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports Int
 http://177.53.153.21:8001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/67721
+http://187.102.208.107:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31645
+http://187.102.208.107:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/65750
+http://187.102.208.107:50001/play/a03q/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/61174
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
 http://200.113.4.75:7210/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD
+http://177.53.153.21:8001/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
+http://45.5.151.151:8000/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" group-title="DEPORTES",ESPN2
 http://177.53.153.21:8001/play/a021/index.m3u8
