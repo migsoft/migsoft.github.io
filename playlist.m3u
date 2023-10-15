@@ -143,11 +143,11 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="PERU",Best Cable TV
-https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=56714c341cc5d5e1b660889f72a8c6f6cd0bb654-c68ae87aced87333047e0356a414f027-1697337544-1697326744
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://tenisdemesa.pe/wp-content/uploads/2021/06/bestcable.jpg" group-title="PERU",Best Cable Sports
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=cfe506cb762b30ef179b672549a636838437dfe5-5944fd0902762f3f173e84e11593b874-1697337278-1697326478
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="PERU",Best Cable Music
-https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
+https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=cc0189bd57537fe9904aba9740facd70246e3148-4b97b37a6d3b76da9bac371506e68053-1697337638-1697326838
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
@@ -275,6 +275,8 @@ https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP YT
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
