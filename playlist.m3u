@@ -40,7 +40,7 @@ http://177.53.153.21:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV SD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8983
 
-#EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title="PERU",Latele
+#EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
 http://187.102.208.107:50001/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
@@ -543,6 +543,12 @@ http://200.113.4.75:7210/play/a00y/index.m3u8
 http://177.53.153.21:8001/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://45.5.151.151:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o1
+http://181.119.66.30:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
+http://179.1.68.244:7676/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o3
+http://138.186.20.13:23200/play/a04y
 
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" group-title="DEPORTES",ESPN2
 http://177.53.153.21:8001/play/a021/index.m3u8
