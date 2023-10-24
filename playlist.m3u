@@ -561,7 +561,7 @@ http://177.53.153.21:8001/play/a02u/index.m3u8
 http://177.53.153.21:8001/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298158
+http://45.186.252.17:8000/play/a0bu
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
 http://45.236.175.2:1040/
