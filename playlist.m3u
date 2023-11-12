@@ -36,8 +36,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
-http://177.53.153.21:8001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV SD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8983
 
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
@@ -63,17 +61,13 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-https://cdn75.iblups.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
-http://177.53.153.21:8001/play/a00v/index.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-http://177.53.153.21:8001/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV SD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187026
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
@@ -101,16 +95,10 @@ http://187.102.208.107:50001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166937
-#EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP HD
-http://177.53.153.21:8001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8995
 
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru
-http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru SD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8990
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru HD
 http://streamgo.vip:8008/alfredorodriguez55/77775555627/166609
 
@@ -141,15 +129,6 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="http://2.bp.blogspot.com/_JxEHehPu1dM/SxLn4UoIq1I/AAAAAAAAFAk/QNhuMW_5Ziw/s320/logo_radio_ovacion.JPG" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="PERU",Best Cable TV
-https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=5185db5346643052c329836b44e6ffc0325385ff-f6bdba93c9a4f98beeae71ffb770d735-1699238401-1699227601
-
-#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://tenisdemesa.pe/wp-content/uploads/2021/06/bestcable.jpg" group-title="PERU",Best Cable Sports
-https://mi.godo.net.pe/bestcablesports/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=c4bd18e5cb895f43b169639136cbc4f3823b48d2-961f98b7c16d5d9d35992f739236211b-1699238294-1699227494
-
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="PERU",Best Cable Music
-https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=179.6.164.81&token=fe81c12624eaa828116e57340aad4d989c1b27df-804430835591fdbe54e2963b62aff63d-1699238455-1699227655
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w922385971.m3u8
