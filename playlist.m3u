@@ -214,21 +214,25 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w184
 #EXTINF:-1 tvg-id="RetroPlus3.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w392532980.m3u8
 
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61560
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece YT
 https://ythls.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
 
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública FHD
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61567
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública HD
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública FHD
-http://ultrapremium.cloud:8080/937675570tv/c675tg/61567
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica YT
 https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 
-
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN HD
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61565
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
 #EXTVLCOPT:http-user-agent=iPhone
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -236,6 +240,8 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61553
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV SD
 http://45.176.232.106:45000/play/a029
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV HD
 http://ultrapremium.cloud:8080/937675570tv/c675tg/61552
@@ -253,11 +259,11 @@ https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Santa Fé
 https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 
-#EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP YT
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61571
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
@@ -265,6 +271,9 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LN+ YT
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61563
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV YT
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
@@ -319,7 +328,9 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima Satelital
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima HD 
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61580
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin HD
@@ -334,7 +345,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
 http://45.176.232.106:45000/play/a01l
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol HD
-http://177.53.153.21:8001/play/a04a/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318374
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -342,7 +353,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://177.53.153.21:8001/play/a031/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318383
 
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="COLOMBIA",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -397,7 +408,6 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="USA",Investiga
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 
-
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
@@ -435,7 +445,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
-http://disfruta.net:80/balooshy/yED5hrnYT7/1920
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/135430
 
 #EXTINF:-1 tvg-id="AztecaCinema.mx" tvg-logo="https://comteco.com.bo/img/upload/canales/fIw86S.png" group-title="MEXICO",AZ Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
@@ -444,15 +454,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1 o1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1 o2
-http://disfruta.net:80/balooshy/yED5hrnYT7/1754
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2 o1
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2 o2
-http://disfruta.net:80/balooshy/yED5hrnYT7/1755
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -463,7 +469,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 http://disfruta.net:80/balooshy/yED5hrnYT7/1756
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
-http://disfruta.net:80/balooshy/yED5hrnYT7/1767
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592226
 
 #EXTINF:-1 tvg-id="Hola.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
@@ -579,37 +585,37 @@ http://177.53.153.21:8001/play/a06i/index.m3u8
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
-http://177.53.153.21:8001/play/a08l/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318667
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318652
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2
-http://177.53.153.21:8001/play/a03i/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318642
 
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus Panamericano HD
 http://disfruta.net:80/balooshy/yED5hrnYT7/2229
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
-http://177.53.153.21:8001/play/a022/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318639
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://177.53.153.21:8001/play/a03e/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318697
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://177.53.153.21:8001/play/a02b/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318658
 
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
-http://177.53.153.21:8001/play/a02z/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318679
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
-http://disfruta.net:80/balooshy/yED5hrnYT7/2213
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/322115
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal TV
-http://disfruta.net:80/balooshy/yED5hrnYT7/2254
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/322125
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
-http://177.53.153.21:8001/play/a03o/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318688
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
