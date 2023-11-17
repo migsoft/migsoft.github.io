@@ -205,7 +205,7 @@ https://marine2.miplay.cl/tvr/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8?s=sd&t=&id=77b46b7a-77dc-d0bc-f44a-d30a71f7bcb8&q=&d=u
 
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://177.53.153.21:8001/play/a01q/index.m3u8
+http://138.59.177.34:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlus.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w739278878.m3u8
@@ -466,7 +466,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
-http://disfruta.net:80/balooshy/yED5hrnYT7/1756
+http://138.59.177.34:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592226
@@ -571,7 +571,7 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
-http://disfruta.net:80/balooshy/yED5hrnYT7/2204
+http://138.59.177.34:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="CINEMA",Fox
 http://disfruta.net:80/balooshy/yED5hrnYT7/1782
@@ -579,7 +579,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1782
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Movies
-http://177.53.153.21:8001/play/a06i/index.m3u8
+http://138.59.177.34:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINEMA",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -593,8 +593,8 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318652
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318642
 
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus Panamericano HD
-http://disfruta.net:80/balooshy/yED5hrnYT7/2229
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus
+http://138.59.177.34:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318639
@@ -663,7 +663,7 @@ http://38.56.118.88:4000/play/a00m/index.m3u8
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318661
 
 #EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
-http://177.53.153.21:8001/play/a08b/index.m3u8
+http://181.78.78.105:8000/play/a0bf/index.m3u8
 
 #EXTINF:-1 tvg-id="SofyTV" group-title="MISCELANEOS" tvg-logo="https://sofy.tv/img/share_logo.png",Sofy TV
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
@@ -679,11 +679,17 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318619
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318604
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
+http://138.59.177.34:8000/play/a077/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318611
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
 http://200.69.87.250:12500/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
+http://138.59.177.34:8000/play/a06e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" group-title="MISCELANEOS" tvg-logo="https://i.imgur.com/u8Qh4zF.png",The Walking Dead
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
