@@ -493,12 +493,12 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1758
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
-http://177.53.153.21:8001/play/a01x/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/120424
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports AR
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3204
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
-http://177.53.153.21:8001/play/a03y/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167747
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports
 http://187.102.208.107:50001/play/a03o/index.m3u8
@@ -531,7 +531,7 @@ http://45.236.175.2:1059/
 http://45.236.175.2:1034/
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-http://disfruta.net:80/balooshy/yED5hrnYT7/1810
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN USA
 http://disfruta.net:80/balooshy/yED5hrnYT7/1400
