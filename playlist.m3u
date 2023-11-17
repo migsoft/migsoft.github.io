@@ -78,7 +78,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w560968347.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298924
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/166614
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
 http://187.102.208.107:50001/play/a01d/index.m3u8
@@ -154,6 +154,8 @@ https://marine2.miplay.cl/24horas/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega HD
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/28244
 
 #EXTINF:-1 tvg-id="Megaplus.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
 https://marine2.miplay.cl/megaplus/playlist.m3u8
@@ -163,6 +165,8 @@ https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE",CHV
 https://marine2.miplay.cl/chvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE",CHV HD
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/28251
 
 #EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="CHILE",Chilevision Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -268,6 +272,8 @@ https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 #EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_07/large.3D_frontal.png.b5c048da0412df259c7aa1bbbeea4476.png" group-title="ARGENTINA",Canal 8 YT
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve
+http://ultrapremium.cloud:8080/937675570tv/c675tg/61568
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
 https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 
 
@@ -362,30 +368,19 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
-http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/291092
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167738
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
-http://177.53.153.21:8001/play/a03j/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167739
 
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz
-http://181.78.8.90:16123/play/ch34
-#EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz SD
-http://disfruta.net:80/balooshy/yED5hrnYT7/2114
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/135432
 
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",CanelaTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo
-http://disfruta.net:80/balooshy/yED5hrnYT7/2517
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Internacional
-http://disfruta.net:80/balooshy/yED5hrnYT7/2125
-
-#EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",Univision
-http://168.228.194.33:48001/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="USA",Univision 34
-http://disfruta.net:80/balooshy/yED5hrnYT7/2464
 
 #EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="USA",Archivos Extraterrestres
 https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
@@ -514,26 +509,16 @@ http://187.102.208.107:50001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
 http://200.113.4.75:7210/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD
-http://177.53.153.21:8001/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://45.5.151.151:8000/play/a0bq/index.m3u8
+http://190.187.154.156:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o1
 http://181.119.66.30:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
-http://179.1.68.244:7676/play/a06u/index.m3u8
+http://190.187.154.156:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o3
+http://187.102.209.92:9010/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o4
 http://138.186.20.13:23200/play/a04y
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" group-title="DEPORTES",ESPN2
-http://177.53.153.21:8001/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_3.png" group-title="DEPORTES",ESPN3
-http://177.53.153.21:8001/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_3.png" group-title="DEPORTES",ESPN4
-http://177.53.153.21:8001/play/a02u/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN MX
-http://177.53.153.21:8001/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
 http://45.186.252.17:8000/play/a0bu
@@ -544,9 +529,6 @@ http://45.236.175.2:1040/
 http://45.236.175.2:1059/
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
 http://45.236.175.2:1034/
-
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-premium-us-ar.png" group-title="DEPORTES",Fox Sports Premium
-http://177.53.153.21:8001/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
 http://disfruta.net:80/balooshy/yED5hrnYT7/1810
@@ -659,23 +641,20 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://media.cdnandroid.com/5a/42/25/07/imagen-tastemade-0big.jpg" group-title="MISCELANEOS",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeGlobo" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="MISCELANEOS",Globo Internacional
-http://138.59.224.12:8000/play/a029/index.m3u8
-
 #EXTINF:-1 tvg-id="AESouth.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
-http://177.53.153.21:8001/play/a01s/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318634
 
 #EXTINF:-1 tvg-id="EAndes.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png",E!
-http://177.53.153.21:8001/play/a06b/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318626
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel
-http://177.53.153.21:8001/play/a01t/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318671
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel HD
 http://38.56.118.88:4000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://177.53.153.21:8001/play/a02y/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318661
 
 #EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
 http://177.53.153.21:8001/play/a08b/index.m3u8
@@ -684,35 +663,21 @@ http://177.53.153.21:8001/play/a08b/index.m3u8
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
-http://177.53.153.21:8001/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic SD
-http://177.53.153.21:8001/play/a05r/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318620
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://177.53.153.21:8001/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History Channel SD
-http://177.53.153.21:8001/play/a01r/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318617
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
-http://177.53.153.21:8001/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2 SD
-http://45.181.122.145:8000/play/a00x/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318619
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
-http://177.53.153.21:8001/play/a0ar/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
-http://177.53.153.21:8001/play/a04d/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318604
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
-http://45.181.122.209:8088/play/a04r
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SD
-http://177.53.153.21:8001/play/a09y/index.m3u8
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318611
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
-http://muka03.wanicelife.com:8880/DAA6M2664/v93cKuUxVq/51404
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
 http://200.69.87.250:12500/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o3
-http://138.59.224.12:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" group-title="MISCELANEOS" tvg-logo="https://i.imgur.com/u8Qh4zF.png",The Walking Dead
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -726,23 +691,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91c
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg",Los Archivos del FBI
 https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ec5761aabe4690007f6e047" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png",Viaje a las estrellas
-https://i.mjh.nz/PlutoTV/5ec5761aabe4690007f6e047-alt.m3u8
-
 #EXTINF:-1 tvg-id="619b7db4872c650008eb8b6a" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-6487761d17f5e10008cbc000" tvg-id="6487761d17f5e10008cbc000" tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" group-title="MISCELANEOS",Los Ángeles de Charlie
-https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6489c45766e48500083cceb6" tvg-id="6489c45766e48500083cceb6" tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" group-title="MISCELANEOS",Starsky & Hutch
-https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="MISCELANEOS",MacGyver
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb93a1c111bc0008fe6f5b" tvg-id="63eb93a1c111bc0008fe6f5b" tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" group-title="MISCELANEOS",Beverly Hills 90210
-https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="MISCELANEOS",Hechizada
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
