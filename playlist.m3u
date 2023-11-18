@@ -25,10 +25,13 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8983
+http://187.102.208.107:50001/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
 http://187.102.208.107:50001/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Global
+http://187.102.208.107:50001/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
@@ -53,10 +56,14 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://187.102.208.107:50001/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
 
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
+http://187.102.208.107:50001/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV YT
@@ -81,19 +88,19 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/166614
 http://187.102.208.107:50001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166937
+http://187.102.208.107:50001/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8995
+http://187.102.208.107:50001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru HD
-http://streamgo.vip:8008/alfredorodriguez55/77775555627/166609
+http://187.102.208.107:50001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://187.102.208.107:50001/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/320px-Logo-Liga1Max-Per%C3%BA.png" group-title="PERU",Liga1Max
-http://177.53.153.21:8001/play/a00h/index.m3u8
+http://187.102.208.107:50001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
