@@ -30,7 +30,7 @@ http://187.102.208.107:50001/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
 http://187.102.208.107:50001/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Global
+#EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="PERU",Global
 http://187.102.208.107:50001/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
