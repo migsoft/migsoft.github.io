@@ -99,7 +99,7 @@ http://187.102.208.107:50001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://187.102.208.107:50001/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/320px-Logo-Liga1Max-Per%C3%BA.png" group-title="PERU",Liga1Max
+#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://peru21.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="PERU",Liga1Max
 http://187.102.208.107:50001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
