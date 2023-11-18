@@ -9,9 +9,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="TvPeruNoticias.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERU",TV PERU Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Identidad_Peruana_ipe_2019_2.png" group-title="PERU",IPE HD
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
-
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="PERU",Cultura 24
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1632205145_b564000_sles.m3u8
 
@@ -660,19 +657,16 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318671
 http://38.56.118.88:4000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318661
+http://138.59.177.34:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
 http://181.78.78.105:8000/play/a0bf/index.m3u8
-
-#EXTINF:-1 tvg-id="SofyTV" group-title="MISCELANEOS" tvg-logo="https://sofy.tv/img/share_logo.png",Sofy TV
-https://sofytv-samsunges.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318620
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318617
+http://138.59.177.34:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318619
