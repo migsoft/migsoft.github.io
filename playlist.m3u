@@ -577,8 +577,8 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://138.59.177.34:8000/play/a05f/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="CINEMA",Fox
-http://disfruta.net:80/balooshy/yED5hrnYT7/1782
+#EXTINF:-1 tvg-id="Cimemax.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax.png" group-title="CINEMA",Cinemax
+http://138.59.177.34:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://jhaba.com/Picons/Dishpicons/cinesony.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
