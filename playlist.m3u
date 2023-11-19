@@ -77,7 +77,7 @@ https://ythls.onrender.com/channel/UCNd09h2GugrdeT_80LxOFMw.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://señalperutv.pe/wp-content/uploads/elementor/thumbs/logo_bn-ptinqhf6yif14ffe7z7nx8gn2od1fxfssoxqxgb7uo.png" group-title="PERU",Señal Peru HD
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://señalperutv.pe/wp-content/uploads/elementor/thumbs/logo_bn-ptinqhf6yif14ffe7z7nx8gn2od1fxfssoxqxgb7uo.png" group-title="PERU",Señal Peru 
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="PERU",Señal Peru 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERU",PERU Channel
@@ -682,8 +682,16 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318619
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318604
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
+http://181.78.78.105:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel HD
+http://187.102.208.107:50001/play/a01v/index.m3u8
+
+
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
 http://138.59.177.34:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o2
+http://138.59.177.34:8000/play/a054/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
