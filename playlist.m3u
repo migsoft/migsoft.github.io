@@ -4,10 +4,13 @@
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="TvPeruInternacional.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-id="TvPeruNoticias.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERU",TV PERU Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-id="CanalIpe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Identidad_peruana_ipe_2019.png" group-title="PERU",Ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/multi_web/play_360.m3u8
