@@ -465,7 +465,7 @@ http://138.59.177.34:8000/play/a00s/index.m3u8
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592226
 
 #EXTINF:-1 tvg-id="Hola.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",Hola! TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
 http://disfruta.net:80/balooshy/yED5hrnYT7/1761
@@ -489,7 +489,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1757
 http://disfruta.net:80/balooshy/yED5hrnYT7/1758
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+https://new-international-23.secure2.footprint.net/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/120424
@@ -976,7 +976,7 @@ http://187.102.208.107:50001/play/a01q/index.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElPais.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230208T013051SQUARE.png_20230208013051.png" group-title="NOTICIAS",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
@@ -995,27 +995,35 @@ http://177.53.153.21:8001/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxLiveNow.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLiveNow.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now HD
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="NOTICIAS",NBC News Now
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="NOTICIAS",NBC News Now HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NOTICIAS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.us" tvg-logo="https://s3.amazonaws.com/geoto/images/custom/Newsmax_Photo.gif" group-title="NOTICIAS",Newsmax
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News HD
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="http://szegedma.hu/images/gyujto2010_06_01-15/cnn.jpg" group-title="NOTICIAS",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today HD
+https://lnc-usa-today.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ReutersTVEU.uk" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="NOTICIAS",Reuters TV (EU)
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTVEU.uk" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="NOTICIAS",Reuters TV
+https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.au" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4176VIeeBaL.png" group-title="NOTICIAS",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -1033,6 +1041,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News NY
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
@@ -1061,4 +1071,4 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="NOTICIAS",WeatherSpy
-https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
