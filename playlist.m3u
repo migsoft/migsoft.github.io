@@ -57,7 +57,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi geo)
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://187.102.208.107:50001/play/a02b/index.m3u8
@@ -353,22 +353,22 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA",Cali TV
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/180px-Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",Cablenoticias
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://pbs.twimg.com/profile_images/1570471696024444928/NY9zOixI_200x200.png" group-title="COLOMBIA",Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020d.png" group-title="COLOMBIA",Canal Capital
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-capital-co.png" group-title="COLOMBIA",Canal Capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trece.co" tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece_co.png" group-title="COLOMBIA",Trece
-https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece_co.png" group-title="COLOMBIA",Trece
+https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp02-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="TrecePlus.co" tvg-name="Canal Trece"tvg-id="119"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece-plus-co.png" group-title="COLOMBIA",Trece+
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trece-plus-co.png" group-title="COLOMBIA",Trece+
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
@@ -834,7 +834,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="competencias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="comedias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony Comedias
-https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime cine y series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
@@ -1006,15 +1006,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df978944
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NOTICIAS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="NewsMax.us" tvg-logo="https://s3.amazonaws.com/geoto/images/custom/Newsmax_Photo.gif" group-title="NOTICIAS",Newsmax
+#EXTINF:-1 tvg-id="NewsMax.us" tvg-logo="https://dl.memuplay.com/new_market/img/com.fli.android.newsmaxapp.icon.2021-03-22-10-25-29.png" group-title="NOTICIAS",Newsmax
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News HD
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="http://szegedma.hu/images/gyujto2010_06_01-15/cnn.jpg" group-title="NOTICIAS",CNN
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-news-movies-transparent-png-6.png" group-title="NOTICIAS",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today
