@@ -40,7 +40,7 @@ http://187.102.208.107:50001/play/a043/index.m3u8
 http://187.102.208.107:50001/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b13216228028936575cb29b8afc&ndvc=0&sid=ba5t1l1xb217424212466575cb2d11392
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -255,10 +255,6 @@ http://ultrapremium.cloud:8080/937675570tv/c675tg/61552
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV YT
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://abc123.digital:8080/miguel_villarrea@hotmail.com/Zjzq7KJjpc/574498
-
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
 https://ythls.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Córdoba
@@ -331,8 +327,6 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png" group-title="ARGENTINA",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima HD 
-http://ultrapremium.cloud:8080/937675570tv/c675tg/61580
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
@@ -429,7 +423,9 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-id="Canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-id="Nmas.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1902800913.png" group-title="MEXICO",N+ Media
+#EXTINF:-1 tvg-id="Nmas.mx" tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="MEXICO",N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="NmasMedia.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1902800913.png" group-title="MEXICO",N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milenio-tv-mx.png" group-title="MEXICO",Milenio
