@@ -380,21 +380,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="USA",Archivos Extraterrestres
-https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63a084934734f30007457b2c" tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="USA",Smithsonian Channel
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="USA",Historia
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="USA",Ciencia
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="USA",Investiga
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
@@ -1002,7 +987,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+https://lnc-cheddar.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-news-movies-transparent-png-6.png" group-title="NOTICIAS",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
