@@ -25,7 +25,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV Noticias YT
-https://ythls.onrender.com/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
+https://ythls.armelin.one/channel/UCYG5uXS3xdsoaXIxum1pAEw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
 http://187.102.208.107:50001/play/a02a/index.m3u8
@@ -45,9 +45,9 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",LN Digital YT
-https://ythls.onrender.com/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8
+https://ythls.armelin.one/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina HD YT
-https://ythls.onrender.com/channel/UC3rDtLrcgr3JS3_3JOW4BAw.m3u8
+https://ythls.armelin.one/channel/UC3rDtLrcgr3JS3_3JOW4BAw.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -71,13 +71,13 @@ http://187.102.208.107:50001/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV YT
-https://ythls.onrender.com/channel/UCort3mldTtMErPqprSlSfng.m3u8
+https://ythls.armelin.one/channel/UCort3mldTtMErPqprSlSfng.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO Digital YT
-https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="Peru21.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Peru_21_logo.png" group-title="PERU",Peru21 YT
-https://ythls.onrender.com/channel/UCNd09h2GugrdeT_80LxOFMw.m3u8
+https://ythls.armelin.one/channel/UCNd09h2GugrdeT_80LxOFMw.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="PERU",Señal Peru HD
 https://livestream.perucast.com/hls/stream.m3u8
@@ -156,7 +156,7 @@ https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas YT
-https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas HD
@@ -174,7 +174,7 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/28244
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaNoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/120px-Meganoticias2019.png" group-title="CHILE",Mega Noticias YT
-https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
 https://marine2.miplay.cl/chvchile/playlist.m3u8
@@ -231,55 +231,55 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w392
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece YT
-https://ythls.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
+https://ythls.armelin.one/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública HD
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica YT
-https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
 #EXTVLCOPT:http-user-agent=iPhone
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA",TN YT
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV SD
 http://45.176.232.106:45000/play/a029
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV YT
-https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
-https://ythls.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Córdoba
-https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Salta
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Santa Fé
-https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 
 #EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP YT
-https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+https://ythls.armelin.one/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARGENTINA",C5N YT
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LN+ YT
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV YT
-https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
-https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 #EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_07/large.3D_frontal.png.b5c048da0412df259c7aa1bbbeea4476.png" group-title="ARGENTINA",Canal 8 YT
-https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
-https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8 
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -296,12 +296,12 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w2131508282.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26 YT
-https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro YT
-https://ythls.onrender.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
+https://ythls.armelin.one/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -337,7 +337,7 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318374
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol YT
-https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318383
@@ -727,7 +727,7 @@ https://live.smartechlatam.online/claro/panamericana/index.m3u8
 #EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av El Derby
 https://live.smartechlatam.online/claro/derby/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Popocatepetl.png/120px-Popocatepetl.png?20191012045429" group-title="LIVECAM",Volcan Popocatepetl
-https://ythls.onrender.com/channel/UCm00usB2zrCzuH0bvV0tdlA.m3u8
+https://ythls.armelin.one/channel/UCm00usB2zrCzuH0bvV0tdlA.m3u8
 
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="AUTO",Velocidad
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
@@ -1020,7 +1020,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
-https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS",Arirang HD (Korea)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
