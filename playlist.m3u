@@ -260,7 +260,7 @@ https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT Santa Fé
 https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
 
-#EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP YT
+#EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="ARGENTINA",iP Noticias YT
 https://ythls.armelin.one/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24 YT
@@ -275,7 +275,7 @@ https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
 https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_07/large.3D_frontal.png.b5c048da0412df259c7aa1bbbeea4476.png" group-title="ARGENTINA",Canal 8 YT
+#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_07/large.Ver_3D_ID.png.2cb26292d57c5a42ee831d5104986169.png" group-title="ARGENTINA",Canal 8 YT
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
