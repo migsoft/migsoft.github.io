@@ -998,8 +998,10 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World o1
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World SD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World HD
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
