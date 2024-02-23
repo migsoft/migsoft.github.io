@@ -31,7 +31,7 @@ http://187.102.208.107:50001/play/a02a/index.m3u8
 http://187.102.208.107:50001/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="PERU",Global
-http://187.102.208.107:50001/play/a02k/index.m3u8
+http://190.90.154.73:8080/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b13216228028936575cb29b8afc&ndvc=0&sid=ba5t1l1xb217424212466575cb2d11392
@@ -87,7 +87,7 @@ http://187.102.208.107:50001/play/a02n/index.m3u8
 http://187.102.208.107:50001/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru HD
-http://187.102.208.107:50001/play/a01n/index.m3u8
+http://190.90.154.73:8080/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
 http://187.102.208.107:50001/play/a02o/index.m3u8
@@ -122,6 +122,9 @@ https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w9223
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN HD
+http://190.90.154.73:8080/play/a01r/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -151,6 +154,9 @@ https://marine2.miplay.cl/24horas/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega HD
+http://190.90.154.73:8080/play/a03a/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Megaplus.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
 https://marine2.miplay.cl/megaplus/playlist.m3u8
@@ -169,6 +175,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 HD
+http://190.90.154.73:8080/play/a09c/index.m3u8
+
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://marine2.miplay.cl/t13/playlist.m3u8
@@ -342,19 +352,30 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp02-1500/chunklist.m3u8?DVR
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports 
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167738
+http://190.90.154.73:8080/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="COLOMBIA",Win Sports +
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167739
+http://190.90.154.73:8080/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://cdn.mitvstatic.com/channels/pe_glitz_m.png" group-title="USA",Glitz
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/135432
+http://190.90.154.73:8080/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",CanelaTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Univision
+http://45.190.187.226:58092/play/a011
+
+#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",AMC
+http://45.190.187.226:58092/play/a02d
+
+
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -452,7 +473,7 @@ https://new-international-23.secure2.footprint.net/index.m3u8
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/120424
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167747
+http://190.90.154.73:8080/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports SD
 http://186.190.231.178:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
@@ -471,7 +492,7 @@ http://38.41.8.1:8000/play/a00k
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://181.119.66.30:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o1
-http://187.102.209.92:9010/play/a05a/index.m3u8
+http://190.90.154.73:8080/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
 http://138.186.20.13:23200/play/a04y
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o3
@@ -512,6 +533,7 @@ http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
 http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN MX
 http://181.78.105.146:2000/play/a08j
+
 #EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",Zona TUDN 
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
@@ -520,8 +542,10 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports N
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
+#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlSports.br" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -663,7 +687,7 @@ http://138.59.177.34:8000/play/a054/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318611
+http://190.90.154.73:8080/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
 http://200.69.87.250:12500/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
