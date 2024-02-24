@@ -2765,7 +2765,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png", Britbox Mistery
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fn3oz0ihbtp8pkhpr3jh", Sports Grid
+#EXTINF:-1 , Sports Grid
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/reviews/03UWU9gp9zia9frJZkIubqd-1..v1652280373.png", Shout Factory TV
@@ -2774,7 +2774,7 @@ https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz_logo-fd3325243b.png", Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p.jpg", NBC News Now
+#EXTINF:-1 , NBC News Now
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1321317/NBCLX_Logo.jpg", NBC LX
@@ -2952,7 +2952,6 @@ https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
 https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Cable 1",
 #EXTINF:-1,11 - Repretel
 http://138.59.177.34:8000/play/a03v/index.m3u8
 #EXTINF:-1,13-Sinart
@@ -3383,7 +3382,6 @@ http://138.59.177.34:8000/play/a050/index.m3u8
 http://138.59.177.34:8000/play/a00q/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Cable 2",
 #EXTINF:-1,24/7
 http://138.186.20.13:23200/play/a0f6
 #EXTINF:-1,A&E HD
@@ -3630,7 +3628,6 @@ http://138.186.20.13:23200/play/a0fr
 http://138.186.20.13:23200/play/a0ek
 
 
-#EXTINF:-1 tvg-logo="" group-title="Cable 3",
 #EXTINF:-1,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
 #EXTINF:-1,AMC
@@ -3956,7 +3953,6 @@ http://190.90.154.73:8080/play/a03l/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Cable 4",
 #EXTINF:-1,A&E HD
 http://45.190.187.226:58092/play/a02c
 #EXTINF:-1,AMC HD
