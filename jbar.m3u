@@ -1936,7 +1936,8 @@ https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Colombia", Zoom TV
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Colombia", Mas TV
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Colombia", Mas TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia", Telesangil
@@ -2033,7 +2034,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png" group-title="Costa Rica", Tele Brunca
+#EXTINF:-1 group-title="Costa Rica", Tele Brunca
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvcurrecr.com/wp-content/uploads/2023/02/cropped-logo-curre-pajaro-pz.png" group-title="Costa Rica", TV Curre
