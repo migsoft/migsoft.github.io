@@ -466,7 +466,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1758
 https://new-international-23.secure2.footprint.net/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/120424
+http://138.186.20.13:23200/play/a0c8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://190.90.154.73:8080/play/a062/index.m3u8
@@ -579,34 +579,34 @@ http://138.59.177.34:8000/play/a037/index.m3u8
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318667
+http://138.59.177.34:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318652
+http://138.59.177.34:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318642
+http://138.59.177.34:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus
 http://138.59.177.34:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318639
+http://138.59.177.34:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318697
+http://138.59.177.34:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318658
+http://138.59.177.34:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318679
+http://138.59.177.34:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/322115
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal TV
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/322125
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
+http://138.59.177.34:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
@@ -648,7 +648,7 @@ http://138.186.20.13:23200/play/a04k
 http://138.186.20.13:23200/play/a0bj
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel HD
-http://138.186.20.13:23200/play/a07d
+http://138.59.177.34:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
 http://138.59.177.34:8000/play/a076/index.m3u8
@@ -667,13 +667,11 @@ http://138.186.20.13:23200/play/a08i
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
 http://138.186.20.13:23200/play/a0e6
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
-http://181.78.78.105:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel HD
-http://187.102.208.107:50001/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
-http://138.59.177.34:8000/play/a077/index.m3u8
+http://181.78.78.105:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o2
+http://138.59.177.34:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o3
 http://138.59.177.34:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
