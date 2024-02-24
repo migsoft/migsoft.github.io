@@ -314,7 +314,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
 http://45.176.232.106:45000/play/a01l
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol HD
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318374
+http://190.90.154.73:8080/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -322,7 +322,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/318383
+http://190.90.154.73:8080/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="COLOMBIA",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -488,7 +488,7 @@ http://disfruta.net:80/balooshy/yED5hrnYT7/1757
 http://disfruta.net:80/balooshy/yED5hrnYT7/1758
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid
-https://new-international-23.secure2.footprint.net/index.m3u8
+https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
 http://138.186.20.13:23200/play/a0c8
@@ -705,6 +705,8 @@ http://190.90.154.73:8080/play/a07x/index.m3u8
 http://138.186.20.13:23200/play/a0c1
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
 http://138.59.177.34:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o3
+http://45.5.119.155:8090/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" group-title="MISCELANEOS" tvg-logo="https://i.imgur.com/u8Qh4zF.png",The Walking Dead
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
