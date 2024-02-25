@@ -125,6 +125,9 @@ https://marine2.miplay.cl/tvnchile/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN HD
 http://190.90.154.73:8080/play/a01r/index.m3u8
 
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVChile
+http://138.59.177.34:8000/play/a00t/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -204,7 +207,7 @@ https://marine2.miplay.cl/tvr/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8?s=sd&t=&id=77b46b7a-77dc-d0bc-f44a-d30a71f7bcb8&q=&d=u
 
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://138.59.177.34:8000/play/a02n/index.m3u8
+http://138.186.20.13:23200/play/a04i
 
 #EXTINF:-1 tvg-id="RetroPlus.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w739278878.m3u8
