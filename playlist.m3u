@@ -464,34 +464,37 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592226
+http://138.59.177.34:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="Hola.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hola_tv_es.png" group-title="ESPANA",Hola! TV
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
-http://disfruta.net:80/balooshy/yED5hrnYT7/1761
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
-http://disfruta.net:80/balooshy/yED5hrnYT7/1835
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="ESPANA",Divinity
-http://disfruta.net:80/balooshy/yED5hrnYT7/1764
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="http://i.imgur.com/40s4zlU.png" group-title="ESPANA",Energy
-http://disfruta.net:80/balooshy/yED5hrnYT7/1765
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="http://i.imgur.com/vquicgg.png" group-title="ESPANA",BeMad
-http://disfruta.net:80/balooshy/yED5hrnYT7/1766
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="ESPANA",Cuatro
-http://disfruta.net:80/balooshy/yED5hrnYT7/1757
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco
-http://disfruta.net:80/balooshy/yED5hrnYT7/1758
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:10_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid o1
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
 http://138.186.20.13:23200/play/a0c8
