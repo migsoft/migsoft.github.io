@@ -495,9 +495,8 @@ https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid o1
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
 
-
-#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports CL
-http://138.186.20.13:23200/play/a0c8
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://190.90.154.73:8080/play/a062/index.m3u8
@@ -505,6 +504,9 @@ http://190.90.154.73:8080/play/a062/index.m3u8
 http://186.190.231.178:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
 http://186.28.229.140:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports Int
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports
 http://187.102.208.107:50001/play/a03o/index.m3u8
@@ -513,6 +515,10 @@ http://187.102.208.107:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports Plus
 http://187.102.208.107:50001/play/a03q/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN PE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD
 http://38.41.8.1:8000/play/a00k
@@ -546,9 +552,10 @@ http://138.186.122.70:8000/play/a010
 http://181.224.237.214:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-http://45.236.175.2:1059/
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-http://45.236.175.2:1034/
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
 http://45.189.148.24:8000/play/a027/index.m3u8
