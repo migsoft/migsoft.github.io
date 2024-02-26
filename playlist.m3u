@@ -25,10 +25,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
-http://187.102.208.107:50001/play/a02a/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/205
 
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
-http://187.102.208.107:50001/play/a043/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4351
 
 #EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="PERU",Global
 http://190.90.154.73:8080/play/a00h/index.m3u8
@@ -47,7 +47,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
-http://187.102.208.107:50001/play/a02b/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
@@ -75,22 +75,22 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 https://a.cdni.live/peruchanel/peruchanel/chunklist_w560968347.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/166614
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/203
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
-http://187.102.208.107:50001/play/a01d/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3930
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
-http://187.102.208.107:50001/play/a02n/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/187
 
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",Peru Magico
-http://187.102.208.107:50001/play/a01d/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/186
 
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="PERU",GolPeru HD
 http://190.90.154.73:8080/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_n_pe.png" group-title="PERU",Canal N
-http://187.102.208.107:50001/play/a02o/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/160
 
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://peru21.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="PERU",Liga1Max
 http://187.102.208.107:50001/play/a03y/index.m3u8
@@ -159,6 +159,8 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://marine2.miplay.cl/megacl/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega HD
 http://190.90.154.73:8080/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega FHD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/244
 
 
 #EXTINF:-1 tvg-id="Megaplus.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
@@ -187,10 +189,10 @@ http://190.90.154.73:8080/play/a09c/index.m3u8
 https://marine2.miplay.cl/t13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://138.59.224.12:8000/play/a009/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/52
 
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://138.59.224.12:8000/play/a01l/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/51
 
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -368,10 +370,13 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
 http://45.190.187.226:58092/play/a011
 
-#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC
+#EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC
 http://45.190.187.226:58092/play/a02d
-#EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC East
+#EXTINF:-1 tvg-id="Amc.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC East
 http://190.90.154.73:8080/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/glitz.png" group-title="USA",Glitz
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4278
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
