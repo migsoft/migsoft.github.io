@@ -50,7 +50,7 @@ plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1825602320.m3u8
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
 http://187.102.208.107:50001/play/a028/index.m3u8
