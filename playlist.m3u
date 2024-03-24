@@ -16,16 +16,16 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-pe.png" group-title="PERU",AméricaTV
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/205
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=GJtTDNi8v69xUBNFUWvlUyFSbOv8RH2v&sid=oR4ppKKPXmdGJYJuP7lvy0HSX9bD8xZ9&pid=fp1EUHV71IwksqYIzY4kLAPoaEoS0ANk&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=ea0xlrFW5eFfPJubVZkhYCwyyJcbd6dDcWiNM4tfP5BPFUDATk3Wbqh5WzWlWVvckHa0bo9NlXP&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1711369664575&ot=ajN6PfNP6PW0bTfXjfDU2Q&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="Latele.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latele-pe.png" group-title="PERU",Latele
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4351
