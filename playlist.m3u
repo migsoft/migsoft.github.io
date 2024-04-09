@@ -376,7 +376,7 @@ http://45.190.187.226:58092/play/a02d
 http://190.90.154.73:8080/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/glitz.png" group-title="USA",Glitz
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4278
+https://stream.kirachan.tech/memfs/9d77d905-8596-4236-a44f-2c6b077ebeb1.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -502,6 +502,29 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/man
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports MX
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 2 MX
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 3 MX
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win+
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 5
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TYC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://190.90.154.73:8080/play/a062/index.m3u8
