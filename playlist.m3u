@@ -501,39 +501,11 @@ https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
-
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports MX
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 2 MX
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 3 MX
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Deportes
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win+
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 3
-http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 5
-http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TYC Sports
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+http://138.186.20.13:23200/play/a0c8
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
-http://190.90.154.73:8080/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports SD
 http://186.190.231.178:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
-http://186.28.229.140:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports Int
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/directv-sports-us.png" group-title="DEPORTES",DirecTV Sports
@@ -545,39 +517,21 @@ http://187.102.208.107:50001/play/a03q/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN PE
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD
-http://38.41.8.1:8000/play/a00k
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://181.119.66.30:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o1
-http://190.90.154.73:8080/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
 http://138.186.20.13:23200/play/a04y
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o3
-http://190.121.153.89:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o4
-http://200.4.217.20:8000/play/a00e/index.m3u8
-
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
 http://200.113.4.75:7210/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o5
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o1
 http://191.97.49.195:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o6
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN o2
 http://191.97.49.195:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
 http://200.59.188.3:8000/play/a032
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
-http://45.236.175.2:1040/
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports SD
 http://138.186.122.70:8000/play/a010
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports HD
-http://181.224.237.214:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
@@ -764,9 +718,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u
 #EXTINF:-1 tvg-id="619b7db4872c650008eb8b6a" group-title="MISCELANEOS" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png",Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="MISCELANEOS",Hechizada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="MISCELANEOS",Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -863,7 +814,7 @@ https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="novelas2.es" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Novelas en español
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="novelas1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="competencias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony Competencias
