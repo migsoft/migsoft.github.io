@@ -34,7 +34,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4351
 http://190.90.154.73:8080/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
-https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b13216228028936575cb29b8afc&ndvc=0&sid=ba5t1l1xb217424212466575cb2d11392
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
