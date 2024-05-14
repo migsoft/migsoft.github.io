@@ -301,9 +301,13 @@ https://ythls.armelin.one/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DeporTV HD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://pbs.twimg.com/profile_images/876833569380982785/4nT4SSJU_400x400.jpg" group-title="ARGENTINA",Canal Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tec-tv-ar.png" group-title="ARGENTINA",Tec
 https://stmv1.cnarlatam.com/mcyttv/mcyttv/chunklist.m3u8
