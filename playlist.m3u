@@ -198,10 +198,10 @@ http://45.181.123.233:8000/play/a0lh
 https://marine2.miplay.cl/t13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/52
+http://45.181.123.233:8000/play/a15n
 
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/51
+http://45.181.123.233:8000/play/a0oh
 
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
