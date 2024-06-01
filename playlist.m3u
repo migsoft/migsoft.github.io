@@ -598,51 +598,48 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
-http://138.59.177.34:8000/play/a05f/index.m3u8
+http://45.181.123.233:8000/play/a0iv
 
 #EXTINF:-1 tvg-id="Cimemax.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
-http://177.128.113.8:16514/play/a085
+http://45.181.123.233:8000/play/a0kw
 
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://138.59.177.34:8000/play/a037/index.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINEMA",PlanetaTV Movie
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+http://45.190.187.226:58092/play/a02h
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
-http://138.59.177.34:8000/play/a05d/index.m3u8
+http://45.181.123.233:8000/play/a12b
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
+http://45.181.123.233:8000/play/a187
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO 2
-http://138.59.177.34:8000/play/a01n/index.m3u8
+http://45.181.123.233:8000/play/a0j3
 
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus
-http://138.59.177.34:8000/play/a01o/index.m3u8
+http://45.181.123.233:8000/play/a157
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
-http://138.59.177.34:8000/play/a05c/index.m3u8
+http://45.181.123.233:8000/play/a0jd
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://138.59.177.34:8000/play/a075/index.m3u8
+http://45.190.187.226:58092/play/a00w
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://138.59.177.34:8000/play/a02l/index.m3u8
+http://45.190.187.226:58092/play/a00d
 
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
-http://138.59.177.34:8000/play/a035/index.m3u8
+http://45.190.187.226:58092/play/a02f
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
-http://138.59.177.34:8000/play/a06m/index.m3u8
+http://45.190.187.226:58092/play/a013
 
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
