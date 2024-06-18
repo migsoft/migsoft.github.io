@@ -48,10 +48,10 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-http://187.102.208.107:50001/play/a028/index.m3u8
+https://live-c.cf.dmcdn.net/sec2(fkvb_JZrshzXNDnAzX3bjlFQc-z7foSEO91jc1zasMhCn3s5OSLS5VUC-ZrPeZaARA8FAPgMWdH0Qx-htVwJLujYN6bKYK-EcaWSTHoUEvg)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
