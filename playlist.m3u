@@ -322,12 +322,14 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="ARGENTINA",Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
 http://45.181.123.233:8000/play/a0lk
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
+http://177.93.46.163:8000/play/a01n
 
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Noticias Caracol YT
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol YT
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
@@ -671,9 +673,6 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="MISCELANEOS",CGTN ES
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://media.cdnandroid.com/5a/42/25/07/imagen-tastemade-0big.jpg" group-title="MISCELANEOS",Tastemade
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AESouth.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
 http://138.186.20.13:23200/play/a04k
 
@@ -681,19 +680,19 @@ http://138.186.20.13:23200/play/a04k
 http://138.186.20.13:23200/play/a0bj
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel HD
-http://138.59.177.34:8000/play/a05e/index.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10577
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://138.59.177.34:8000/play/a076/index.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10578
 
 #EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
-http://181.78.78.105:8000/play/a0bf/index.m3u8
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100624
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
 http://138.186.20.13:23200/play/a05v
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://138.59.177.34:8000/play/a02s/index.m3u8
+http://181.78.105.146:2000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
 http://138.186.20.13:23200/play/a08i
