@@ -51,7 +51,7 @@ plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-https://live-c.cf.dmcdn.net/sec2(fkvb_JZrshzXNDnAzX3bjlFQc-z7foSEO91jc1zasMhCn3s5OSLS5VUC-ZrPeZaARA8FAPgMWdH0Qx-htVwJLujYN6bKYK-EcaWSTHoUEvg)/dm/3/x7x4dgx/s/live-1.m3u8
+https://live-b.cf.dmcdn.net/sec2(Yy4Oy6qEiNEpzufQMwmRv2QgtabyIe1iBfWRg1wsfaQO7ktERwwgHcZfbjrpLu_VP4BlxKgCBF6_ZHsdtLUA0rw7X88Gj1N21hYNlD3U9XM)/dm/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
@@ -69,14 +69,11 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="PERU",Señal Peru 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="PERU",PERU Channel
-https://a.cdni.live/peruchanel/peruchanel/chunklist_w560968347.m3u8
-
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-deportes-es.png" group-title="PERU",Movistar Deportes
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/203
+http://181.78.105.146:2000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3930
+http://181.78.105.146:2000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",RPP
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/187
@@ -126,7 +123,6 @@ http://190.90.154.73:8080/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVChile
 http://138.59.177.34:8000/play/a00t/index.m3u8
 
-
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
@@ -156,13 +152,10 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega SD
 http://45.181.123.233:8000/play/a0qh
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega HD
 http://45.181.123.233:8000/play/a0is
-
-
 
 #EXTINF:-1 tvg-id="Megaplus.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-2-cl.png" group-title="CHILE",Mega+
 https://marine2.miplay.cl/megaplus/playlist.m3u8
@@ -533,7 +526,6 @@ http://187.102.208.107:50001/play/a03p/index.m3u8
 http://187.102.208.107:50001/play/a03q/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://138.186.20.13:23200/play/a04y
 
@@ -684,6 +676,8 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10577
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10578
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
+http://181.78.105.146:2000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100624
@@ -794,7 +788,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA",Karaoke por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PlanetaTV Music
-https://scl.edge.grupoz.cl/music/live/music.m3u8
+https://scl.edge.grupoz.cl/planetatv/live/chunklist_w1655783517.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
