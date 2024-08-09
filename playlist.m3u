@@ -592,7 +592,7 @@ http://45.181.123.233:8000/play/a0kw
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://45.190.187.226:58092/play/a02h
+http://138.186.20.13:23200/play/a07d
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
 http://45.181.123.233:8000/play/a12b
@@ -610,16 +610,16 @@ http://45.181.123.233:8000/play/a157
 http://45.181.123.233:8000/play/a0jd
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://45.190.187.226:58092/play/a00w
+http://45.181.123.233:8000/play/a0j0
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://45.190.187.226:58092/play/a00d
+http://45.181.123.233:8000/play/a0kp
 
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
-http://45.190.187.226:58092/play/a02f
+http://45.181.123.233:8000/play/a0jl
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+http://138.186.20.13:23200/play/a0cf
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
 http://45.190.187.226:58092/play/a013
@@ -658,10 +658,10 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://138.186.20.13:23200/play/a04k
 
 #EXTINF:-1 tvg-id="EAndes.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png",E!
-http://138.186.20.13:23200/play/a0bj
+http://170.82.37.21:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel HD
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10577
+http://170.82.37.21:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10578
@@ -900,43 +900,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="PLUTO",Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
-
-#EXTINF:-1 tvg-id="CineAccion" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Animal
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Infantil
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Comedia
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Familia
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Latino
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Retro Infantil
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xtrm_es.png" group-title="XTREMA",Cine Terror
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
-http://138.59.177.34:8000/play/a02n/index.m3u8
+http://45.181.123.233:8000/play/a0qe
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -948,7 +913,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://187.102.208.107:50001/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
 https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
