@@ -571,7 +571,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Orbit.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1795397108.m3u8
 
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="CINEMA",Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -624,16 +624,13 @@ http://45.181.123.233:8000/play/a0jl
 http://138.186.20.13:23200/play/a0cf
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
-http://45.190.187.226:58092/play/a013
+http://45.181.123.233:8000/play/a0je
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+http://170.82.37.21:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5fcea359e533cb0007215c71" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINEMA",Filmstream
-https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
+http://138.186.20.13:23200/play/a0bf
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -670,9 +667,6 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10578
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
 http://181.78.105.146:2000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="SyFy" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",SyFy
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100624
-
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
 http://138.186.20.13:23200/play/a05v
 
@@ -683,18 +677,14 @@ http://181.78.105.146:2000/play/a017/index.m3u8
 http://138.186.20.13:23200/play/a08i
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
-http://45.190.187.226:58092/play/a00y
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o1
-http://181.78.78.105:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel o3
-http://45.181.123.233:8000/play/a166
-
+http://170.82.37.21:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://45.181.123.233:8000/play/a0p0
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
 http://138.186.20.13:23200/play/a0c1
-
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
+http://170.82.37.21:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" group-title="MISCELANEOS" tvg-logo="https://i.imgur.com/u8Qh4zF.png",The Walking Dead
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
