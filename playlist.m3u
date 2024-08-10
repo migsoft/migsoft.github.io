@@ -635,21 +635,6 @@ http://138.186.20.13:23200/play/a0bf
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Español
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Accion
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Comedia
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Thriller
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Crimen
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Romance
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="CINEMA",Runtime Classics
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="MISCELANEOS",CGTN ES
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -823,6 +808,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Curro Jiménez
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Español
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Accion
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Thriller
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Romance
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Classics
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 #EXTINF:-1 tvg-id="RakutenCineEspanol.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Cine Español - Rakuten 
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
