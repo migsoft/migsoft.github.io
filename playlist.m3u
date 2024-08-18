@@ -121,7 +121,7 @@ https://marine2.miplay.cl/tvnchile/playlist.m3u8
 http://190.90.154.73:8080/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVChile
-http://138.59.177.34:8000/play/a00t/index.m3u8
+http://170.82.37.21:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -209,7 +209,7 @@ https://marine2.miplay.cl/tvr/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8?s=sd&t=&id=77b46b7a-77dc-d0bc-f44a-d30a71f7bcb8&q=&d=u
 
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://138.186.20.13:23200/play/a04i
+http://45.181.123.233:8000/play/a15o
 
 #EXTINF:-1 tvg-id="RetroPlus.cl" group-title="CHILE" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w739278878.m3u8
@@ -238,8 +238,6 @@ http://45.176.232.106:45000/play/a029
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://138.186.20.13:23200/play/a0c7
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe op1
 http://170.82.37.21:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe YT
 https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
@@ -366,10 +364,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Int
-http://138.186.20.13:23200/play/a07a
+http://170.82.37.21:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
-http://138.186.20.13:23200/play/a09e
+http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
@@ -427,7 +425,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="MEXICO",Univision Lat
-http://138.186.20.13:23200/play/a09e
+http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="MEXICO",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
@@ -467,7 +465,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
-http://138.186.20.13:23200/play/a0d0
+http://170.82.37.21:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
 http://138.186.20.13:23200/play/a05a
@@ -502,7 +500,12 @@ https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports HD
-http://138.186.20.13:23200/play/a0c8
+http://45.181.123.233:8000/play/a0l8
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports FHD
+http://45.181.123.233:8000/play/a0ql
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports 
+http://45.181.123.233:8000/play/a18g
+
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
@@ -518,8 +521,6 @@ http://187.102.208.107:50001/play/a03q/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://138.186.20.13:23200/play/a04y
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN Q1
 http://45.181.123.233:8000/play/a0o9
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN Q2
 http://170.82.37.21:8000/play/a00y/index.m3u8
@@ -538,7 +539,7 @@ http://191.97.49.195:8000/play/a016/index.m3u8
 http://200.59.188.3:8000/play/a032
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
-http://138.186.122.70:8000/play/a010
+http://170.82.37.21:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
@@ -601,7 +602,7 @@ http://45.181.123.233:8000/play/a0kw
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://138.186.20.13:23200/play/a07d
+http://170.82.37.21:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
 http://45.181.123.233:8000/play/a12b
@@ -628,16 +629,13 @@ http://45.181.123.233:8000/play/a0kp
 http://45.181.123.233:8000/play/a0jl
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
-http://138.186.20.13:23200/play/a0cf
+http://170.82.37.21:8000/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
 http://45.181.123.233:8000/play/a0je
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden Premier
 http://170.82.37.21:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINEMA",Golden Plus
-http://138.186.20.13:23200/play/a0bf
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -646,7 +644,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="AESouth.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
-http://138.186.20.13:23200/play/a04k
+http://170.82.37.21:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="EAndes.us" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png",E!
 http://170.82.37.21:8000/play/a03h/index.m3u8
@@ -655,26 +653,39 @@ http://170.82.37.21:8000/play/a03h/index.m3u8
 http://170.82.37.21:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/10578
-#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
+http://45.181.123.233:8000/play/a0jk
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series o1
 http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series o2
+http://170.82.37.21:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
-http://138.186.20.13:23200/play/a05v
+http://45.181.123.233:8000/play/a0pu
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic HD
+http://45.181.123.233:8000/play/a0tj
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic FHD
+http://45.181.123.233:8000/play/a17u
+
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://181.78.105.146:2000/play/a017/index.m3u8
+http://45.181.123.233:8000/play/a15i
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History o1
+http://45.181.123.233:8000/play/a0uo
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History 02
+http://170.82.37.21:8000/play/a01f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
-http://138.186.20.13:23200/play/a08i
+http://45.181.123.233:8000/play/a0lr
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2 o1
+http://170.82.37.21:8000/play/a01g/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://45.181.123.233:8000/play/a0p0
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o1
-http://138.186.20.13:23200/play/a0c1
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
 http://170.82.37.21:8000/play/a01d/index.m3u8
 
