@@ -570,7 +570,7 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="CINEMA",FreeTV Terror
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo"https://www.lyngsat.com/logo/tv/ff/free-tv.png" group-title="CINEMA",FreeTV Sureño
+#EXTINF:-1 tvg-logo"https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA",FreeTV Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA",FreeTV Accion
@@ -578,9 +578,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA",FreeTV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="CINEMA",Cine Estrella TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="CINEMA",Canela Cinema
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
