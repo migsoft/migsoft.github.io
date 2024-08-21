@@ -547,17 +547,8 @@ http://45.189.148.24:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
 
-#EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN USA
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158848
-
-#EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN MX
-http://181.78.105.146:2000/play/a08j
-
-#EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",Zona TUDN 
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN ViX
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
+http://170.82.37.21:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports N
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -569,23 +560,31 @@ https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSports.br" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CineAR.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinear-ar.png" group-title="CINEMA",Cine.ar
-http://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Orbit.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1795397108.m3u8
 
-#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="CINEMA",Cine Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="CINEMA",Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-id="CineReal.us" tvg-logo="https://latinartv.com/sites/default/files/logos/cine-real.jpg" group-title="CINEMA",Cine Real
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA", FreeTV Drama
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-1 tvg-id="TuCine.us" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tu-cine.jpg" group-title="CINEMA",Tu Cine
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="CINEMA", FreeTV Terror
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo"https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA", FreeTV Sureño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA", FreeTV Accion
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA", FreeTV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="CINEMA", Cine Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="CINEMA", Canela Cinema
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://45.181.123.233:8000/play/a0iv
