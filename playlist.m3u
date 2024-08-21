@@ -570,7 +570,7 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="CINEMA",FreeTV Terror
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo"https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA",FreeTV Sureño
+#EXTINF:-1 tvg-logo"https://www.lyngsat.com/logo/tv/ff/free-tv.png" group-title="CINEMA",FreeTV Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA",FreeTV Accion
