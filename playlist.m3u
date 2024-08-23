@@ -662,24 +662,10 @@ http://45.181.123.233:8000/play/a0p0
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo o2
 http://170.82.37.21:8000/play/a01d/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/6/5/4/0/6540154/6540154.jpg" group-title="MISCELANEOS",Nasa TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73170.jpg" group-title="MISCELANEOS",Nasa TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av Paseo de la Republica
-https://live.smartechlatam.online/claro/paseodelarepublica/index.m3u8
-#EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av Angamos Oeste
-https://live.smartechlatam.online/claro/angamos/index.m3u8
-#EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av Javier Prado Este
-https://live.smartechlatam.online/claro/javierprado/index.m3u8
-#EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Panamericana Sur
-https://live.smartechlatam.online/claro/panamericana/index.m3u8
-#EXTINF:-1 tvg-logo="https://e.rpp-noticias.io/normal/2022/08/25/495949_1304275.jpg" group-title="LIVECAM",Av El Derby
-https://live.smartechlatam.online/claro/derby/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Popocatepetl.png/120px-Popocatepetl.png?20191012045429" group-title="LIVECAM",Volcan Popocatepetl
-https://ythls.armelin.one/channel/UCm00usB2zrCzuH0bvV0tdlA.m3u8
 
 #EXTINF:-1 tvg-id="MotorVision.de" group-title="AUTO" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
