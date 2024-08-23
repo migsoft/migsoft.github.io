@@ -2,9 +2,13 @@
 
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú HD
+https://list.iptvcat.com/my_list/s/138cb0e013014faf43f73fabc0c1e62a.m3u8
 
 #EXTINF:-1 tvg-id="TvPeruInternacional.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-id="TvPeruInternacional.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional HD
+https://list.iptvcat.com/my_list/s/10350d0c9e79f3f15362fc7a194d1bbf.m3u8
 
 #EXTINF:-1 tvg-id="TvPeruNoticias.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERU",TV PERU Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
@@ -44,6 +48,9 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+https://list.iptvcat.com/my_list/s/d89123612eee0b7d0b337d4d57ea4ae0.m3u8
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
@@ -114,6 +121,8 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1958457863.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
+https://list.iptvcat.com/my_list/s/1004571f8e67a8b9842827f69d83092b.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
