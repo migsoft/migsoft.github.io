@@ -51,9 +51,6 @@ plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-https://live-b.cf.dmcdn.net/sec2(Yy4Oy6qEiNEpzufQMwmRv2QgtabyIe1iBfWRg1wsfaQO7ktERwwgHcZfbjrpLu_VP4BlxKgCBF6_ZHsdtLUA0rw7X88Gj1N21hYNlD3U9XM)/dm/3/x7x4dgx/s/live-480.m3u8
-
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV YT
@@ -388,12 +385,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nmas.mx" tvg-logo="https://logowik.com/content/uploads/images/n-nplus-tv7521.jpg" group-title="MEXICO",N+
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
-#EXTINF:-1 tvg-id="NmasMedia.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1902800913.png" group-title="MEXICO",N+ Media
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_3.m3u8?hdntl=exp=1724470201~acl=/*~data=hdntl~hmac=503265de664b0d9405ac381c0bec5814b2263523181df5acfa016ad5621b77c5&
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milenio-tv-mx.png" group-title="MEXICO",Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
