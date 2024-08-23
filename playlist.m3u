@@ -911,3 +911,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="NOTICIAS",WeatherSpy
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rppnoticias/picture?width=200&height=200" group-title="RADIO" tvg-name="RPP Noticias Perú",RPP Noticias Perú
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radiolazona/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio La Zona Perú",Radio La Zona Perú
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Oxígeno Perú",Radio Oxígeno Perú
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Z Rock & Pop Perú",Radio Z Rock & Pop Perú
+https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Nacional Perú",Radio Nacional Perú
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://radiomelodia.com.pe/imgs/logo_melodia.png" group-title="RADIO" tvg-name="Radio Nacional Perú",Radio Melodía Perú
+http://stream.radiomelodia.com.pe:8000/radio.mp3
+
+
