@@ -45,6 +45,9 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
 
@@ -659,6 +662,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73170.jpg" group-title="MISCELANEOS",Nasa TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+
+#EXTINF:-1 tvg-id="Kaloopy.us" group-title="AUTO" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15a1e682-1f3c-4017-b026-270c73bb0622-profile_banner-480.png",Kaloopy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/f555cec0-f2c6-439a-b011-62c2224f4ed3/1.m3u8
 #EXTINF:-1 tvg-id="MotorVision.de" group-title="AUTO" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 #EXTINF:-1 tvg-id="TopGearEnEspanol.es" group-title="AUTO" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear ES
