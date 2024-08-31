@@ -669,6 +669,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 #EXTINF:-1 tvg-id="TopGearEnEspanol.es" group-title="AUTO" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear ES
 https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8?ads.wurl_channel=1115&ads.wurl_name=TopGearEnEspanol&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="TopGearEnEspanol.es" group-title="AUTO" tvg-logo="https://d2779tscntxxsw.cloudfront.net/605cca808881c.png",FloRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/floracing-247/79e1ce19-ae19-4c22-9408-bf756797ddfd/2.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" group-title="AUTO" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/f8523a60-e5e1-416b-93fe-0e4c402fd528/2.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" group-title="AUTO" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/e4d92840-bd52-403b-b021-f5badf0844b9/0.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",Trace Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
