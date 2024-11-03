@@ -543,14 +543,26 @@ http://45.181.123.233:8000/play/a166
 http://45.181.123.233:8000/play/a0p0
 
 
-#EXTINF:-1 tvg-id="MotorVision.de" group-title="AUTO" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision TV
+#EXTINF:-1 tvg-id="MotorVision.de" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision TV
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
-
-#EXTINF:-1 tvg-id="TopGearEnEspanol.es" group-title="AUTO" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear ES
+#EXTINF:-1 tvg-id="TopGearEnEspanol.es" group-title="MOTOR" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear ES
 https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8?ads.wurl_channel=1115&ads.wurl_name=TopGearEnEspanol&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="Kaloopy.us" group-title="AUTO" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15a1e682-1f3c-4017-b026-270c73bb0622-profile_banner-480.png",Kaloopy TV HD
+#EXTINF:-1 tvg-id="Kaloopy.us" group-title="MOTOR" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15a1e682-1f3c-4017-b026-270c73bb0622-profile_banner-480.png",Kaloopy TV HD
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTINF:-1 tvg-id="novelas2.es" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Novelas en español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 tvg-id="novelas1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Sony novelas
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="competencias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Sony Competencias
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenThriller.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Thriller - Rakuten
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Family - Rakuten
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenHolaPlay.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Hola Play - Rakuten
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Familia - Rakuten
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",Trace Latina
@@ -590,12 +602,6 @@ https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 00s
 https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="novelas2.es" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Novelas en español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-id="novelas1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony novelas
-https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="competencias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="SAMSUNG",Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime cine y series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
@@ -623,15 +629,6 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-
-#EXTINF:-1 tvg-id="RakutenThriller.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Thriller - Rakuten
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Family - Rakuten
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenHolaPlay.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Hola Play - Rakuten
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Familia - Rakuten
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
