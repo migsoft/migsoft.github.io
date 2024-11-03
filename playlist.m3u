@@ -260,25 +260,25 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",CanelaTV
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",CanelaTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela TV
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Network
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 gtvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Cinema
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Novelas
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Novelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Clásicos
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Hits
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Kids
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Music
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-tv-gh.png" group-title="USA",Canela Novelisima
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
@@ -292,6 +292,9 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision Miami
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
+#EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="USA",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC
 http://45.181.123.233:8000/play/a189
 
@@ -300,6 +303,7 @@ http://45.181.123.233:8000/play/a13z
 
 #EXTINF:-1 tvg-id="GlitzPanregional.ar" tvg-logo="https://www.lyngsat.com/logo/tv/gg/glitz_lam.png" group-title="USA",Glitz
 https://stream.kirachan.tech/memfs/9d77d905-8596-4236-a44f-2c6b077ebeb1.m3u8
+
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -595,25 +599,16 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime cine y series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Thriller y Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Ana y los 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Curro Jiménez
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Accion
@@ -629,38 +624,15 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-id="RakutenCineEspanol.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Cine Español - Rakuten 
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenThriller.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Thriller - Rakuten
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenRomance.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Romance - Rakuten
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTopFree.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Top Free - Rakuten
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Action - Rakuten
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenComedy.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Comedy - Rakuten
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVShows.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",TV Shows - Rakuten
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Family - Rakuten
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenSpotlight.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Spotlight - Rakuten
-https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenHolaPlay.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Hola Play - Rakuten
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Accion - Rakuten
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenComedyMovies" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Comedia - Rakuten
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVShows.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",TV Drama - Rakuten
-https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",Familia - Rakuten
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenSpotlight.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="RAKUTEN",SpotLight - Rakuten
-https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
 http://45.181.123.233:8000/play/a0qe
