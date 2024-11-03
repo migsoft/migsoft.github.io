@@ -53,9 +53,9 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="PERU",Señal Peru HD
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://migsoft.github.io/senperu.png" group-title="PERU",Señal Peru HD
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="PERU",Señal Peru 
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://migsoft.github.io/senperu.png" group-title="PERU",Señal Peru 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
@@ -209,7 +209,7 @@ http://181.13.173.86:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DeporTV
 http://181.13.173.86:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://pbs.twimg.com/profile_images/876833569380982785/4nT4SSJU_400x400.jpg" group-title="ARGENTINA",Canal Orbe 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/O21.png" group-title="ARGENTINA",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima
