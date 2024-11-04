@@ -43,6 +43,8 @@ https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w2131508282.m3u8
 #EXTINF:-1 tvg-id="1720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26
 http://181.13.173.86:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
+http://181.13.173.86:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",America
 http://181.13.173.86:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARGENTINA",LN+
