@@ -62,7 +62,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
 http://45.181.123.233:8000/play/a0kw
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
-http://45.181.123.233:8000/play/a0iv
+http://181.13.173.86:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
 http://45.181.123.233:8000/play/a187
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
