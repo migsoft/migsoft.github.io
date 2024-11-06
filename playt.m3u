@@ -42,10 +42,10 @@ https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Crónica TV YT
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/minilogocanal7mendoza.png" group-title="ARGENTINA",El Siete TV YT
+#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/El-Siete-Mendoza-en-vivo-Online.png" group-title="ARGENTINA",El Siete TV YT
 https://ythls-v3.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
-#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_07/large.Ver_3D_ID.png.2cb26292d57c5a42ee831d5104986169.png" group-title="ARGENTINA",Canal 8 YT
+#EXTINF:-1 tvg-id="Canal8.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-8-San-Juan-en-vivo-Online.png" group-title="ARGENTINA",Canal 8 YT
 https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve YT
@@ -147,3 +147,10 @@ https://ythls-v3.onrender.com/channel/UC0ZsHHC_frpcqneDpMiteCQ.m3u8
 #EXTINF:-1 group-title=" News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
 https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
+#EXTINF:-1 group-title=" News USA (English)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",CNN en español
+https://ythls-v3.onrender.com/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
+
+UC32TdiIsh_5X8tKr_9rKQyA univision noticias
+UCajrNVKvG2xVlVcSr3GcsDA Telemundo
+UC-B7Xv56uNRDkj0vC3QW8Cg La republica
+UCkccyEbqhhM3uKOI6Shm-4Q Meganoticias
