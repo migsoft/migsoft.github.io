@@ -57,107 +57,66 @@ https://ythls-v3.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro YT
 https://ythls-v3.onrender.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow.m3u8
 
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol YT
-https://ythls-v3.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
-
-#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today
-https://ythls-v3.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8
-
 #EXTINF:-1 group-title="CHILE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/r-Cco67lO23OThI0NkF9d-skPpRYanG-O98-DB3cMlyITes0-nzg-rRmL9EDw7_oait3ZtXR", 24 Horas - TVN Chile
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/VpXRkkpmiZEL0CiRMzOKLVoAjZMhyWu4iLoyz9ga75sabLYG45Yw2oCx-nAS_8uUqZvkRF7QRA", Baby Shark en español
-https://ythls-v3.onrender.com/channel/UCSt2n0wNy6MSQUkBmcPgSug.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/RwZgjRonwlXIud2RKVuxzeoUmILlj1UfduyByLdtPcs7saOiqtNqh78RqCX5o4yoSzY5-G7Cjg", BabyBus - Canciones Infantiles & Videos para Niños
-https://ythls-v3.onrender.com/channel/UCy_rxpSt8DMagOUFA9Q-t1A.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ltr4CBkSReT8lfb5i00ijZ4QMZEnJJK5s8E0dMbWfz24Q", BabyFirst Español
-https://ythls-v3.onrender.com/channel/UCW0fLAGU31dyY7PDgjCs0pQ.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/aK3Ioj1sm0pQZGpkb2yh8QpJvnGnCKVXOsb083W4FhZ2zMa4-ZM6O8ItT8MVlWcYhooBamrnXA", BabyTV Español
-https://ythls-v3.onrender.com/channel/UCVA9wu4h1lLIPQo9wkJdg7w.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/8T8-WeL94vW2tqOiXe90p8VIrUtosZkNi6T1XIuFzar1M8Dnz5Q5R-zWDUiaKjUBxzp-7DKtLw", Bebefinn en español - Canciones Infantiles
-https://ythls-v3.onrender.com/channel/UC9Vv1LScecnPZI778jocihA.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/1OxlWR2z6xgmU2RjUwhIFsuXAHaymuR6y0dIHCafp8Uoc05733uVdfMFn1UiHR1NlnkVAQ9DM8U", Bob Esponja en Español
-https://ythls-v3.onrender.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/cWbyiSCg886nuic8hhx7sQCP5lGSva78gKUvsOwtGCr6hI4gksqgOS0zwoT2qirsIEbhfFLwwWY", C5N
 https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/F6HsunAveMZzHyrkVP7PR4XE4oXzANGv0L2lBJJHFWdTQBPQRUOYv0GWYOmAf52TWZNNsWP69g", Canciones Infantiles - LooLoo
-https://ythls-v3.onrender.com/channel/UC5WwPdvAHvdS1ZK_v6AE90A.m3u8
-
-#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/wp9csTLasAlwjq6Sj4WFIGc_FobrMjdAXbwqBQOylyhnsv0uSf4dDvv50DY1UX10hujeflBaqw", DW Español
-https://ythls-v3.onrender.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA.m3u8
-
-#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg", euronews (en español)
-https://ythls-v3.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lQlIdzFXyQf_EL09Ya92CBPs7PVsROHFxnuXTxZr4msw",Fox Family and Friends
-https://ythls-v3.onrender.com/channel/UCR3rqspk_iUpCEiiahEW0mg.m3u8
-
-#EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA",FRANCE 24 Español
-https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/L2Nrf_VghWsAYwaLqJ-Vx53-b8FQwk87zB9lHlTgiXwAU8kzNcW7WKcMH23fAWHyi0AW-6KZ",La Brujita Tatty - dibujos animados
-https://ythls-v3.onrender.com/channel/UCZE5p7Ht5kYdCDW7COKso3w.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/owJBeyxphe6oRo9RCnFhCa0OaUBbTuhABzyQIhzPAacVHVpwoK2mg2RMMXbZBg3J4ZYELurD",Nickelodeon en Español
-https://ythls-v3.onrender.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/jGhOsT6sgmARxd7D1DsGswGKmKIoRPnRMv2bPUbAJxDer-LXAoP8vh9m4WFRM7IMQAIIdkP1",PAW Patrol en Español
-https://ythls-v3.onrender.com/channel/UCJNBZaQWMIHACqvHT_k2cWw.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/k7GJwtDAk9TXtl6U8QaZnqW47FuhO9OlhI6sDGwL8yrZafjDx8ftzKGr_FbB7Pxt1PIuigB3Yg",Peppa Pig Español Latino - Canal Oficial
-https://ythls-v3.onrender.com/channel/UCrreHSUa5rnuCVDeO8dX4eA.m3u8
-
-#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_leGDF5GCyTmAb1d0CYbvwINIiUjLYVwunASK2A7S8WkpA",Super Toons TV - Dibujos Animados en Español
-https://ythls-v3.onrender.com/channel/UCBO856ZVw88_wjNY2izgu9w.m3u8
-
-#EXTINF:-1 group-title="Spiritual (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/3tYNhlQYiR6ACf9R5wdXW1M7z6I0YrwSuhxlaIbzf869DTF5V18zIRY_CO9cTgbjGJH_E6b2KZo",Vatican News - Español
-https://ythls-v3.onrender.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl",USA TODAY
-https://ythls-v3.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8
-
-#EXTINF:-1 group-title=" News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",ABC News
-https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",CBS News
-https://ythls-v3.onrender.com/channel/UC8p1vwvWtl6T73JiExfWs1g.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/xrMXuR2ARUKOvvMKeB2XAFMt6rchyUkiEn2G2J1DtWjL5zVxKW9H4jlkQdBdBoqTi_WmU5_dGQ",Fox News
-https://ythls-v3.onrender.com/channel/UCXIJgqnII2ZOINSWNOGFThA.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w",FOX Weather
-https://ythls-v3.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/oA0HTZ6CsbGMQw1gD2BuwIgfpLV-oWnAaB4GP_QSoF11Fi_9TXdFmimwXMKEiaHZf0CsIvOQ",NBC2 News
-https://ythls-v3.onrender.com/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE",WPLG Local 10
-https://ythls-v3.onrender.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kCKR2WCTLI8yCkENntUFpcbNrQV7FhL05bTKTbh_Sq3Ho",WXII 12 News
-https://ythls-v3.onrender.com/channel/UC0ZsHHC_frpcqneDpMiteCQ.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",ABC News
-https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
-
-#EXTINF:-1 group-title="News USA (English)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",CNN en español
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",CNN en español
 https://ythls-v3.onrender.com/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
 
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Univision Noticias
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Univision Noticias
 https://ythls-v3.onrender.com/channel/UC32TdiIsh_5X8tKr_9rKQyA.m3u8
 
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Telemundo
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Telemundo
 https://ythls-v3.onrender.com/channel/UCajrNVKvG2xVlVcSr3GcsDA.m3u8
 
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",La Republica
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",La Republica
 https://ythls-v3.onrender.com/channel/UC-B7Xv56uNRDkj0vC3QW8Cg.m3u8
 
-#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Meganoticias
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",Meganoticias
 https://ythls-v3.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/wp9csTLasAlwjq6Sj4WFIGc_FobrMjdAXbwqBQOylyhnsv0uSf4dDvv50DY1UX10hujeflBaqw", DW Español
+https://ythls-v3.onrender.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg", euronews (en español)
+https://ythls-v3.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA",FRANCE 24 Español
+https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="NOTICIAS",Noticias Caracol YT
+https://ythls-v3.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/3tYNhlQYiR6ACf9R5wdXW1M7z6I0YrwSuhxlaIbzf869DTF5V18zIRY_CO9cTgbjGJH_E6b2KZo",Vatican News - Español
+https://ythls-v3.onrender.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl",USA TODAY
+https://ythls-v3.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",ABC News
+https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y",CBS News
+https://ythls-v3.onrender.com/channel/UC8p1vwvWtl6T73JiExfWs1g.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/xrMXuR2ARUKOvvMKeB2XAFMt6rchyUkiEn2G2J1DtWjL5zVxKW9H4jlkQdBdBoqTi_WmU5_dGQ",Fox News
+https://ythls-v3.onrender.com/channel/UCXIJgqnII2ZOINSWNOGFThA.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w",FOX Weather
+https://ythls-v3.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/oA0HTZ6CsbGMQw1gD2BuwIgfpLV-oWnAaB4GP_QSoF11Fi_9TXdFmimwXMKEiaHZf0CsIvOQ",NBC2 News
+https://ythls-v3.onrender.com/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE",WPLG Local 10
+https://ythls-v3.onrender.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kCKR2WCTLI8yCkENntUFpcbNrQV7FhL05bTKTbh_Sq3Ho",WXII 12 News
+https://ythls-v3.onrender.com/channel/UC0ZsHHC_frpcqneDpMiteCQ.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ",ABC News
+https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+
