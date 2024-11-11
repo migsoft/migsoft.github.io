@@ -12,7 +12,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="CanalIpe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Identidad_peruana_ipe_2019.png" group-title="PERU",Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="PERU",Cultura 24
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
@@ -30,7 +30,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur HD
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina HD
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb271571699967324bb93ae6a&ndvc=0
@@ -58,7 +58,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv HD
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",Canal BHtv
 https://play.agenciastreaming.com:8081/bhtv/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-cosmos-pe.png" group-title="PERU",TV Cosmos
@@ -74,7 +74,7 @@ https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="PERU",Telesur (Tacna)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="http://2.bp.blogspot.com/_JxEHehPu1dM/SxLn4UoIq1I/AAAAAAAAFAk/QNhuMW_5Ziw/s320/logo_radio_ovacion.JPG" group-title="PERU",Ovacion
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/Ovaci%C3%B3n-TV-en-vivo-Online.png" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
@@ -84,10 +84,13 @@ https://k10.usastreams.com:1936/tvperuanisima/tvperuanisima/chunklist_w119603064
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVChile
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TVChile
 http://45.181.123.233:8000/play/a0qg
 
-#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-cl.png" group-title="CHILE",NTV
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
+https://marine2.miplay.cl/24horas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/NTV-Chile-en-vivo-Online.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
@@ -102,9 +105,6 @@ https://marine2.miplay.cl/ucv3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 https://marine2.miplay.cl/tvmas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
-https://marine2.miplay.cl/24horas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
@@ -138,7 +138,7 @@ http://45.181.123.233:8000/play/a0oh
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UChile.cl" tvg-logo="https://www.uchile.cl/.imaging/default/dam/imagenes/Uchile/imagenes-noticias/172128_1_u-chile-tv-logo-1200px-fondo-negro_S/jcr:content.png" group-title="CHILE",U Chile TV (geo)
+#EXTINF:-1 tvg-id="UChile.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/UChile-TV-en-vivo-Online.png" group-title="CHILE",U Chile TV (geo)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream0/chunks.m3u8?nimblesessionid=9302469
 
 #EXTINF:-1 tvg-id="TVR.cl" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-regional-de-chile-1483.png" group-title="CHILE",TVR HD
