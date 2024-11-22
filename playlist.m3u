@@ -103,7 +103,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
@@ -444,7 +444,7 @@ https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playl
 
 
 #EXTINF:-1 tvg-id="Cimemax.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
-http://45.181.123.233:8000/play/a0kw
+http://181.13.173.86:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-id="Orbit.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1795397108.m3u8
@@ -458,16 +458,16 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://190.61.106.107:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner Channel
-http://45.181.123.233:8000/play/a12b
+http://181.13.173.86:8000/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://45.181.123.233:8000/play/a187
+http://190.61.106.107:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
-http://45.181.123.233:8000/play/a0j3
+http://190.61.106.107:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Xtreme
-http://45.181.123.233:8000/play/a157
+http://190.61.106.107:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
 http://45.181.123.233:8000/play/a0jd
@@ -476,7 +476,7 @@ http://45.181.123.233:8000/play/a0jd
 http://45.181.123.233:8000/play/a0j0
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://45.181.123.233:8000/play/a0kp
+http://181.13.173.86:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="FXWest.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
 http://45.181.123.233:8000/play/a0jl
