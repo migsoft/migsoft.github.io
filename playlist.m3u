@@ -53,6 +53,9 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
+https://live-b.cf.dmcdn.net/sec2(GNKEPOLaKVPYx5Gnod_CkCRt1ByB29uzy5l6sGzrpIXeIJRMlunsCQEn6LU6EplMAzEh3BVnRs-SdliHZnvD-uSz1JIP2KN3Ebbgs0M0HpZEqc6OztEhjAW8Dya7KAOS)/dm/3/x7x4dgx/s/live-480.m3u8
+
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru HD
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru 
