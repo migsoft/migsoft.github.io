@@ -15,6 +15,9 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
+https://live-evg4.tv360.bitel.com.pe/bitel/maericatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV HD
@@ -45,7 +48,7 @@ https://www.ntv.pe/salida/nativa.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvYGnGKG2UUnGWp2Jtc8w5epaTsNbCZB6mfABHRRX-ETfAotsVy23kSYzNWb3j8eJ031BYdCtlkVL5lxf9Z6jJ_5jkqNakkXDE4Y4yyGn7YoIZjwwz5o9u3RDRmHaocTP4-0eZY2lYa_JA9kR3AmP4Sssbq0Nn5EPvycTDoyHICYM2HAXFzl_zy13toPjujJ7c5PY-LJAm3bOUzVx9DrRYHRUGb4PSAG0xCvwrirr-ETLvO_JC7QpcQIiZ84xeQ26i6_ML_IwTQ7509gunWVashMzxSzlAT3n3Tvm7eOROVNWpZFLjb497SPCFIytlQ948WIsuoFJ9a6avNDsmIYwZL2YNApIpEaNUBEPfaA1skrylarHMH_D_prfOhWo0-8Nxld3zvWugPFMM6fnlDW0qotixognCR8yP98PV3D75EIv2rdxYZtXCvxBqNThgrd7QABoY6e3t1G_9285gEK4bbWHdtVkqYMtMjM-JanQaUYmHbPE583GBhUsDKvaY6nnAbTtTg55BZv7iQKnEdJYK0HAtO4p-MxG68kC-2zjc2jU9Qt9CY-oT4f0bMMZFdWk-gZ-jR3Gt4KQZW7mSWWCq4oOBIuERELisPnIVAQ440Nr42BfWoRFphAGxsRf_QnfcsUZx5dHLxSsT7O2C-N56YIHIu2dgyKdSs-VSYXJsx6FRicLoSzvVa5t6m97pcBhrd8bTzcGR1Ncl2rJxFQouZDqPgckuLuuWmLDc3Z2eo_Q5FllCdMHnrzncRtBXkmYI2mQ_2CL40qS1pqm0lC2BVCTc6beMRcM4GWI7N3ykGA9cAjuHHvC8JzaqrU1hLGGJo2uhS5xXVBoWOBqeDlYVc1L1iKOCVe-_LAFE6f-lE1TojySiBnXq8SaQLLofrL4UP_NcDb2RDfohVfe0eZavSTSxTHEPuoj79hlVyQaN45FdId4EJerNZgg33Pqo9Xn8cpvVLAdiCwa4pOX1woPNuyLtBTK13odC_e91d26qG0cFmfPbB-dKp5YNfijkjNayT_o1-PRAUwe2JxEB3VneE_OdXNKLc3wM3hFwb_idfDeztaj2lTHBE4Paxz1UC-TZnmTmYSIg6o-EbbvoJC3Ke7soBdd3MigMS7JLhr6fhBEdL3_hbXy_NDQq30qYvfThLSHSX1AVcOYa_10HL0zWMvOQO14oBcAhoM3ZJf4mJEzpd-ebH-IAEqCXVzLWVhc3QtMTCwCQ.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/exitosa_pe_tv.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.m3u8
@@ -54,7 +57,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-https://live-b.cf.dmcdn.net/sec2(GNKEPOLaKVPYx5Gnod_CkCRt1ByB29uzy5l6sGzrpIXeIJRMlunsCQEn6LU6EplMAzEh3BVnRs-SdliHZnvD-uSz1JIP2KN3Ebbgs0M0HpZEqc6OztEhjAW8Dya7KAOS)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru HD
 https://livestream.perucast.com/hls/stream.m3u8
