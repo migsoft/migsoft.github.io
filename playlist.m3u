@@ -52,7 +52,7 @@ plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",PBO
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 https://live-evg4.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
