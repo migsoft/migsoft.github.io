@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Peru/movistar.com.pe.channels.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/chile.xml,https://www.bevy.be/bevyfiles/argentina.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/peru.xml"
+#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Peru/movistar.com.pe.channels.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/chile.xml,https://www.bevy.be/bevyfiles/argentina.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/peru.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -94,7 +94,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TVChile
+#EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
 http://45.181.123.233:8000/play/a0qg
 
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
@@ -451,7 +451,7 @@ http://181.13.173.86:8000/play/a0ai/index.m3u8
 http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
-http://45.189.148.24:8000/play/a027/index.m3u8
+http://bgtv.xyz/play/play-127.php?ul=512&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
 http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
@@ -465,7 +465,7 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN Sports XTRA
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8
-#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
+#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 
 
