@@ -494,10 +494,10 @@ http://190.61.106.107:8000/play/a00s/index.m3u8
 http://190.61.106.107:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
-http://45.181.123.233:8000/play/a0jd
+http://45.181.123.233:8000/play/a15p
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://45.181.123.233:8000/play/a0j0
+http://45.181.123.233:8000/play/a183
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
 http://181.13.173.86:8000/play/a07d/index.m3u8
