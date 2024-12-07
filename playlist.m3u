@@ -476,7 +476,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1795397108.m3u8
 http://181.13.173.86:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyCine.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
 http://190.61.106.107:8000/play/a02n/index.m3u8
 
