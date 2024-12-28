@@ -214,7 +214,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w118869
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
-http://45.181.123.233:8000/play/a17o
+http://190.216.158.199:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -223,13 +223,15 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://138.186.20.13:23200/play/a0fm
+http://186.148.181.155:8000/play/a034
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN HD2
+http://190.216.158.199:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1
-https://giatv.bozztv.com/giatv/giatv-unocoltvcytvg/unocoltvcytvg/chunks.m3u8
+http://190.216.158.199:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="atntelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="COLOMBIA",ATN TV 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
