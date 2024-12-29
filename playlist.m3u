@@ -620,7 +620,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 Español
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+http://186.148.181.155:8000/play/a03j
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
@@ -671,7 +671,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+http://190.61.106.107:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS",Arirang HD (Korea)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
