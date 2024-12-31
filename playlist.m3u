@@ -19,6 +19,8 @@ https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
+http://186.148.181.155:8000/play/a036
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -31,6 +33,9 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://190.216.158.199:8000/play/a01v/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
