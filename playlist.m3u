@@ -35,6 +35,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://190.216.158.199:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana FHD
+https://video-weaver.mia05.hls.live-video.net/v1/playlist/Cp8G3F5fv1Uh-Kh3h-FkSoz0TVTcy3vZUlwBIEuuBRqlr9w2eOcZOLvuhP52_VGYOHn-1H9yjNoie5pFy9gBANIiXlaldj14FDjouBnG0BbkxQ-3_AeBpnO_Y2m_VUfIrDweRiRMxegS1bFVPiL4wAINttNeqz2MZj0KinmUhAgyo-wnu2y8YT8kF1y9AvpBeKkQkQR16kSCM5Qshll7ff0C_y1jIMouCS0vlsD7npv3RRTaxZjFZNwu4FikLy3JGbHScv8hNbpVrWi3WrVYJ065leyy2j-wXOu1UvIHjRSi3ttQyMLkrGQcU3O-jrB9sTxi7BL2aB3fqXGYQYlhBwK22WidLerK3nZw0smMGHsNq2RLMN6cKpSd7YAtZ8KDUZX6I9VRL_DQMpqIBTtD_n0MURFBFIP6AdC1gAtH0ByqiPyMRpetSscRQbVvhWqU75sq8-UcBIqZrhpsGjGaY7sXxyMIKYMe0udM6uH38Fe7iEWinSGpcbh9V4tkS8GJisAqDk9cUkSaJjBZW-qlnYY1Wlz8mRM6LZsiaW-7xwVTmXYmxtJ3uosc--gD5W9QCFZ_wr22CZdAug0Bg6WQm6hu62p8651EMDiyGWuFmG8RktGCZ00D1pGcs8N_M4sH_6-ISTGYFEL3kndrpxtWbuBFtBLX6kkiguNnNVBnicik5QtBTCrr_AzcP8vkJL1k08cRVadicG3hgMVXBW_DJ8748YO-045Eqb3GFt03TkZGYTDU16DBH-_wafhxH5OTD3waWhAUqH4qn-r6ff_4w3PJ5HS3D9AeEoDqUooNxUbueexQ8azLIx_uz8UmYGPIeCcRbTsCgYeHlIjihdSjQIhk5b2vJW7VnAdtFISJYgJ5mmS2hCRlW18akruGeGWoeHeNpycBE0EMxU3B7Hf42rTvAB5jLCNp8WNSkzeGiXswPcXwnaimq8VdckaGIRGIlwsP_WgK_7iRDO_BqGoM2jCpKzQnPyk0xmOx2U3Nq-tSvs1RUp0rmdlfxj1RWucSVGqLRJn8RRvjckU2LiHy-MIESgVGjvkmN-WnxFT0K3zjaxoMhwkPDwWFW_iktOqfIAEqCXVzLWVhc3QtMTDcCQ.m3u8
 
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina
@@ -52,7 +54,7 @@ plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV HD
-https://live-c.cf.dmcdn.net/sec2(rqpBNxXAQbuw6U9FR_Ljtb2ZjDh3i3JYn73A5Zguutw-k0Fln0Wf7cSXfyagvNBrHuxIm5_KDtYVlbR1gl7K4_NYAsIO1FOxvK5BLRyf3qwK9QywfahKKrJ4VgQwNDoP)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-c.cf.dmcdn.net/sec2(4vE7QeW_uRvxtJD-WwHImCJT2njeNGVVPoGYVluaLcic416C2yW5DBMZ3JHfbm8DGtXpd_ySD-zRZrMOQlEQdK_p-l0bztQ27B67EJCKrxy7p22VCcw3qeSC5-8G02y2)/dm/3/x7x4dgx/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 https://live-evg4.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
