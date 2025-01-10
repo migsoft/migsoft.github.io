@@ -66,11 +66,11 @@ http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://181.13.173.86:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://45.181.123.233:8000/play/a187
+http://190.61.106.107:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
-http://45.181.123.233:8000/play/a0j3
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Plus
-http://45.181.123.233:8000/play/a157
+http://190.61.106.107:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Xtreme
+http://190.61.106.107:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="EuroNews.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPais.TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230208T013051SQUARE.png_20230208013051.png" group-title="NOTICIAS",El Pais
