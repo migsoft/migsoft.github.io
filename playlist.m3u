@@ -60,7 +60,7 @@ https://live-c.cf.dmcdn.net/sec2(4vE7QeW_uRvxtJD-WwHImCJT2njeNGVVPoGYVluaLcic416
 https://live-evg4.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
-https://k10.usastreams.com:1936/tvperuanisima/tvperuanisima/chunklist_w1196030643.m3u8
+https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
