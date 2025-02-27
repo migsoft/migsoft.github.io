@@ -224,13 +224,16 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
-http://186.148.181.155:8000/play/a034
+http://190.216.158.199:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1 HD
+http://190.216.158.199:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="atntelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="COLOMBIA",ATN TV 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
@@ -481,7 +484,7 @@ http://200.52.150.5:8000/play/a0sq/index.m3u8
 http://200.52.150.5:8000/play/a0qa/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",De Película
-http://200.52.150.5:8000/play/a0vx/index.m3u8
+http://190.216.158.199:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
 http://200.52.150.5:8000/play/a0v2/index.m3u8
