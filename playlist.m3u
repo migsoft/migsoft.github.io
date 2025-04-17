@@ -15,6 +15,9 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
+http://38.44.109.41:8003/play/a01z/index.m3u8
+
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
 StartAndroidActivity("pe.com.americatv.tvgo.tv")
 
@@ -27,6 +30,8 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
+http://38.44.109.41:8003/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
 plugin://plugin.video.kickcommb/?mode=playvid&url=ptv5&page=1&title=Panamericana+Television+en+vivo+++++%5BB%5D%5BCOLOR+yellowgreen%5DLIVE%5B%2FB%5D%5B%2FCOLOR%5D&amp;image=https%3A%2F%2Fimages.kick.com%2Fvideo_thumbnails%2FSnObcKtKq69K%2F0jdUNbDSUHpC%2F720.webp
 
