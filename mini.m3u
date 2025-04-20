@@ -6,7 +6,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERU",TV PERU Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
-StartAndroidActivity("pe.com.americatv.tvgo.tv")
+http://38.44.109.41:8003/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
@@ -17,8 +17,12 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 plugin://plugin.video.kickcommb/?mode=playvid&url=ptv5&page=1&title=Panamericana+Television+en+vivo+++++%5BB%5D%5BCOLOR+yellowgreen%5DLIVE%5B%2FB%5D%5B%2FCOLOR%5D&image=https%3A%2F%2Fimages.kick.com%2Fvideo_thumbnails%2FSnObcKtKq69K%2F0jdUNbDSUHpC%2F720.webp
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://38.44.109.41:8003/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV HD (Kodi)
+plugin://plugin.video.moestv/?eydhY3Rpb24nOiAncGxheScsICdjaGFubmVsJzogJ2RpcmVjdG9zJywgJ2NoYW5uZWxfbmFtZSc6ICdXaWxsYXggUGVyw7onLCAnZmFuYXJ0JzogJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wb3B1bGMvYmlnbWFjL21hc3Rlci9tZWRpYS9iZ19kaXJlY3Rvcy5qcGcnLCAnaWNvbic6ICdodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS93aWxsYXh0di9waWN0dXJlP3dpZHRoPTIwMCZoZWlnaHQ9MjAwJywgJ2lzUGxheWFibGUnOiBUcnVlLCAnbGFiZWwnOiAnV2lsbGF4IFBlcsO6JywgJ3Bsb3QnOiAnSW50LiBBbcOpcmljYVxuXG5bQl1XaWxsYXggUGVyw7pbL0JdJ30%3D
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
