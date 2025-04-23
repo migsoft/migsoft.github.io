@@ -216,9 +216,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="ARGENTINA",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
@@ -537,21 +534,10 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8?ads.wurl_channel=1115&ads.wurl_name=TopGearEnEspanol&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="Kaloopy.us" group-title="MOTOR" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15a1e682-1f3c-4017-b026-270c73bb0622-profile_banner-480.png",Kaloopy TV HD
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-
 #EXTINF:-1 tvg-id="novelas2.es" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Novelas en español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-id="novelas1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Sony novelas
-https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="competencias1.us" tvg-logo="https://samsungtechwin.com/wp-content/uploads/2022/05/image-7.png" group-title="MOTOR",Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenThriller.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Thriller - Rakuten
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Family - Rakuten
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenHolaPlay.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Hola Play - Rakuten
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenFamily.es" tvg-logo="https://seeklogo.com/images/R/rakuten-tv-logo-2169F9B712-seeklogo.com.png" group-title="MOTOR",Familia - Rakuten
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="MOTOR",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",Trace Latina
@@ -636,7 +622,7 @@ http://186.148.181.155:8000/play/a03j
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
-https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-60089d97f682a3002c34829d/variant.m3u8?x-plex-token=tSazRwzyta8MZAcLmu5T&x-plex-advertising-identifier=&x-plex-client-identifier=80d8aa98-e7b9-4238-88f6-22fca0f08c65&x-plex-playback-id=p_8597ca03-2b89-4cc9-a854-7ae80d237553&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=macOS&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745287266&url=11aba1a81607eea6a7f9b86713d2c525-8b5a484db2eabfcd733683ade0fdd081fdecdb3e1078739bedf8987f587f746b3174aea911d8354b56ddfb5eecf111bfb7f2acf1cacafcc59025fb6e828ef0bdbdcca451bab0aa5d75b2d7871f41171bb40ea8336ccd62cf7f1405ea2b84c7d68fb6d6ecb75c85653a1e9a1298d9d597b5a281d44ab14a0c7b6f061d80565196bb99316ac2a925cf04cfcd602cdc69e3fefd503b3637b6c11ec74ee74cf800a1
 
 #EXTINF:-1 tvg-id="ElPais.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230208T013051SQUARE.png_20230208013051.png" group-title="NOTICIAS",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
