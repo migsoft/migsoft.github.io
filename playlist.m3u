@@ -450,6 +450,9 @@ http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="Orbit.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1795397108.m3u8
 
+#EXTINF:-1 tvg-id="Cine.AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine_AR
+http://181.13.173.86:8000/play/a024/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://181.13.173.86:8000/play/a07b/index.m3u8
 
@@ -489,8 +492,8 @@ http://190.216.158.199:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" group-title="CINEMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png",Universal
 http://190.216.158.199:8000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="GoldenPremierPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden Premier
-http://200.229.147.142:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremierPanregional.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
+http://200.229.147.142:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
