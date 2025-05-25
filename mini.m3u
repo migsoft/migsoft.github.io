@@ -17,8 +17,6 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 plugin://plugin.video.kickcommb/?mode=playvid&url=ptv5&page=1&title=Panamericana+Television+en+vivo+++++%5BB%5D%5BCOLOR+yellowgreen%5DLIVE%5B%2FB%5D%5B%2FCOLOR%5D&image=https%3A%2F%2Fimages.kick.com%2Fvideo_thumbnails%2FSnObcKtKq69K%2F0jdUNbDSUHpC%2F720.webp
-#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
-http://38.44.109.41:8003/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV HD (Kodi)
@@ -60,25 +58,25 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARGENTINA",C5N
 http://181.13.173.86:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARGENTINA",Cronica
-http://181.13.173.86:8000/play/a01q/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="garagetv.es" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="ARGENTINA",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="OrbitTV.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
-http://181.13.173.86:8000/play/a0aa/index.m3u8
+http://200.229.147.142:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
-http://181.13.173.86:8000/play/a07b/index.m3u8
+http://38.44.109.41:8003/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://200.52.150.5:8000/play/a0vl/index.m3u8
+http://200.229.147.142:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
-http://200.52.150.5:8000/play/a0os/index.m3u8
+http://200.229.147.142:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-plus-us.png" group-title="CINEMA",HBO Xtreme
-http://200.52.150.5:8000/play/a0vi/index.m3u8
+http://200.229.147.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="EuroNews.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-60089d97f682a3002c34829d/variant.m3u8?x-plex-token=tSazRwzyta8MZAcLmu5T&x-plex-advertising-identifier=&x-plex-client-identifier=80d8aa98-e7b9-4238-88f6-22fca0f08c65&x-plex-playback-id=p_8597ca03-2b89-4cc9-a854-7ae80d237553&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=macOS&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745287266&url=11aba1a81607eea6a7f9b86713d2c525-8b5a484db2eabfcd733683ade0fdd081fdecdb3e1078739bedf8987f587f746b3174aea911d8354b56ddfb5eecf111bfb7f2acf1cacafcc59025fb6e828ef0bdbdcca451bab0aa5d75b2d7871f41171bb40ea8336ccd62cf7f1405ea2b84c7d68fb6d6ecb75c85653a1e9a1298d9d597b5a281d44ab14a0c7b6f061d80565196bb99316ac2a925cf04cfcd602cdc69e3fefd503b3637b6c11ec74ee74cf800a1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
 #EXTINF:-1 tvg-id="ElPais.TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230208T013051SQUARE.png_20230208013051.png" group-title="NOTICIAS",El Pais
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="ElCondidencial.TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" group-title="NOTICIAS",El Confidencial
