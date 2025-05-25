@@ -70,7 +70,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",Canal BHtv
-https://play.agenciastreaming.com:8081/bhtv/index.m3u8
+https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-cosmos-pe.png" group-title="PERU",TV Cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
@@ -273,24 +273,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://190.216.158.199:8000/play/a00c/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Music
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="USA",Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -335,26 +317,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 http://38.44.109.41:8003/play/a00h/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE Internacional America
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-
-#EXTINF:-1 tvg-id="Clan" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="ESPANA",Clan TVE Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="ESPANA",Star TVE HD
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="ESPANA",La 1 HD
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPANA" tvg-name="La 1",La 1 FHD
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="ESPANA",La 2 HD
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPANA" tvg-name="La 2",La 2 FHD
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
@@ -393,9 +358,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:10_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="ESPANA",Telemadrid Internacional
-https://new-international-23-secure2.akamaized.net/index.m3u8
-
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="ESPANA" tvg-name="Clan",Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
@@ -426,7 +388,7 @@ http://181.13.173.86:8000/play/a02t/index.m3u8
 http://bgtv.xyz/play/play-127.php?ul=512&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
+https://stitcher.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
 http://200.229.147.142:8000/play/a07i/index.m3u8
@@ -479,7 +441,7 @@ http://200.229.147.142:8000/play/a03d/index.m3u8
 http://200.229.147.142:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
-http://200.229.147.142:8000/play/a03k/index.m3u8
+http://190.216.158.199:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="FXWest.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
@@ -535,9 +497,10 @@ http://200.229.147.142:8000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="MISCELANEOS",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="http://1.bp.blogspot.com/_6RJQ3tvJtr4/RsTkhrNY6dI/AAAAAAAAAWM/4_cxHHrwafQ/w1200-h630-p-k-no-nu/televisa-logo.jpg" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="MISCELANEOS",Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 
 #EXTINF:-1 tvg-id="MotorVision.de" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision TV
@@ -630,7 +593,7 @@ http://200.229.147.142:8000/play/a01l/index.m3u8
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews ES
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-60089d97f682a3002c34829d/variant.m3u8?x-plex-token=tSazRwzyta8MZAcLmu5T&x-plex-advertising-identifier=&x-plex-client-identifier=80d8aa98-e7b9-4238-88f6-22fca0f08c65&x-plex-playback-id=p_8597ca03-2b89-4cc9-a854-7ae80d237553&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=macOS&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=135.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1745287266&url=11aba1a81607eea6a7f9b86713d2c525-8b5a484db2eabfcd733683ade0fdd081fdecdb3e1078739bedf8987f587f746b3174aea911d8354b56ddfb5eecf111bfb7f2acf1cacafcc59025fb6e828ef0bdbdcca451bab0aa5d75b2d7871f41171bb40ea8336ccd62cf7f1405ea2b84c7d68fb6d6ecb75c85653a1e9a1298d9d597b5a281d44ab14a0c7b6f061d80565196bb99316ac2a925cf04cfcd602cdc69e3fefd503b3637b6c11ec74ee74cf800a1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
 
 #EXTINF:-1 tvg-id="ElPais.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230208T013051SQUARE.png_20230208013051.png" group-title="NOTICIAS",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
