@@ -23,12 +23,14 @@ https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/ch
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV HD
+https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://live.airstream.run/alba-pe-atv-atvmas/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://live.airstream.run/alba-pe-atv-atvsur/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 http://38.44.109.41:8003/play/a013/index.m3u8
@@ -217,7 +219,7 @@ http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/canal-institucional-tv-logo-png_seeklogo-527797.png" group-title="COLOMBIA",Canal Institucional
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
@@ -419,7 +421,8 @@ https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.us" group-title="DEPORTES" tvg-logo="hhttps://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle-thumbnail.png",Eurosport 1
+https://i.imgur.com/olQJgm7.png
+#EXTINF:-1 tvg-id="Eurosport1.us" group-title="DEPORTES" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle-thumbnail.png",Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.us" group-title="DEPORTES" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
@@ -531,11 +534,9 @@ https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="MOTOR",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",FuelTV
+#EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://fuel.tv/images/ftv_150x140.png",FuelTV
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb573d197c6c6c8d84cb3f78d2f04882967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64edc9f834244d968bfb102488b2f57f3801498d31fe981d246cc45d776ec159cc7a696811683d78c64af57e06c085e2428ccd320a1f637c3b2069184fd0b4a652c178c809ced5a3dc6754a5ff98db3d507d132be44a11c024dd62e975d9038ca4aa70cb5e84da1d7db95221371cc962a1b161a9ebcebbf154add069bc289bd46dcd384357542db64db23641b9feedf15bbf11c95b7195ed5030015cf8b4c9791b3ccbafedd0ad412c3c9f0972a510e4d3042d70decca369b1ed476fe9a4861441b10e4da74d496d55b07674dad894a9b4648ee95d8d59f4610e2543676a420d5520e698c13697fee22b0da1f649b2907807a6ca9007bd00cacf67cb594dae30729bc919211a821bce34afdc630e63c6d0d4ce3bc7c11153e08ba8451043e7dcc52f7939bb1056e2ed8b79cae8e03424453727d1c8ef0e60aeaacd2260a05c441662d34271e9800d97ecc422e242bda15c7a3197ee757733587475e87eed24caea6e5e627ea7753ea33413bd7c48e16f5/12/1280x720_2657600/index.m3u8
 
-#EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",Women´s Sports Network
-https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports/640x360.m3u8?ap.debug=0&ap.pt=0&ap.sid=9384d754-533c-41c7-8695-15adae6af092&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=c646a17a24ced6f2f91848efe031de55
 
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",Trace Latina
@@ -642,7 +643,7 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NOTICIAS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://dl.memuplay.com/new_market/img/com.fli.android.newsmaxapp.icon.2021-03-22-10-25-29.png" group-title="NOTICIAS",Newsmax
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS",Newsmax
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NOTICIAS",Cheddar News
@@ -651,7 +652,7 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-news-movies-transparent-png-6.png" group-title="NOTICIAS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://seeklogo.com/images/U/usa-today-logo-89293C37A0-seeklogo.com.png" group-title="NOTICIAS",USA Today
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://images.seeklogo.com/logo-png/48/1/usa-today-logo-png_seeklogo-481935.png" group-title="NOTICIAS",USA Today
 https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle EN
@@ -660,7 +661,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.sa" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NOTICIAS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="WNJTDT2.us" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="NOTICIAS",NHK World
+#EXTINF:-1 tvg-id="WNJTDT2.us" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="NOTICIAS",NHK World
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NOTICIAS",CBS News
@@ -686,7 +687,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/05/fox-weather__.png" group-title="NOTICIAS",Fox Weather HD
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://seeklogo.com/images/A/accuweather-logo-045E9BB207-seeklogo.com.png" group-title="NOTICIAS",AccuWeather
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://www.unitedstations.com/wp-content/uploads/2024/06/Untitled-369-x-245-px-4.png" group-title="NOTICIAS",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="NOTICIAS",WeatherSpy
