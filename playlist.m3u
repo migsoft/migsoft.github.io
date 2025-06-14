@@ -20,6 +20,8 @@ http://38.44.109.41:8003/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV SD
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -53,6 +55,13 @@ plugin://plugin.video.moestv/?eydhY3Rpb24nOiAncGxheScsICdjaGFubmVsJzogJ2RpcmVjdG
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO (Kodi)
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
+https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/6834bf28c502c036ad1d9623_latelepe.jpeg" group-title="PERU",La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV
+https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
 https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
@@ -238,15 +247,11 @@ http://190.216.158.199:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1 HD
 http://38.44.109.41:8003/play/a020/index.m3u8
 
-
-#EXTINF:-1 tvg-id="atntelevision.co" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="COLOMBIA",ATN TV 
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/180px-Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-capital-co.png" group-title="COLOMBIA",Canal Capital
-https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+https://cdns.livewave.co:8081/canalcapital/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
@@ -345,10 +350,10 @@ http://200.229.147.142:8000/play/a00a/index.m3u8
 http://200.229.147.142:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+http://185.189.225.150:85/fdf/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+http://185.189.225.150:85/boing/index.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="ESPANA",Divinity
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
@@ -437,7 +442,7 @@ http://200.229.147.142:8000/play/a04h/index.m3u8
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 tvg-id="Cine.AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine_AR
-http://181.13.173.86:8000/play/a024/index.m3u8
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://200.229.147.142:8000/play/a03g/index.m3u8
@@ -535,6 +540,9 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png" group-title="MOTOR",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="TopGearenEspanol.us@SD" group-title="MOTOR" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Top-Gear-Logo.jpg",Top Gear ES
+https://bbc-topgearenespanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://fuel.tv/images/ftv_150x140.png",FuelTV
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb573d197c6c6c8d84cb3f78d2f04882967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64edc9f834244d968bfb102488b2f57f3801498d31fe981d246cc45d776ec159cc7a696811683d78c64af57e06c085e2428ccd320a1f637c3b2069184fd0b4a652c178c809ced5a3dc6754a5ff98db3d507d132be44a11c024dd62e975d9038ca4aa70cb5e84da1d7db95221371cc962a1b161a9ebcebbf154add069bc289bd46dcd384357542db64db23641b9feedf15bbf11c95b7195ed5030015cf8b4c9791b3ccbafedd0ad412c3c9f0972a510e4d3042d70decca369b1ed476fe9a4861441b10e4da74d496d55b07674dad894a9b4648ee95d8d59f4610e2543676a420d5520e698c13697fee22b0da1f649b2907807a6ca9007bd00cacf67cb594dae30729bc919211a821bce34afdc630e63c6d0d4ce3bc7c11153e08ba8451043e7dcc52f7939bb1056e2ed8b79cae8e03424453727d1c8ef0e60aeaacd2260a05c441662d34271e9800d97ecc422e242bda15c7a3197ee757733587475e87eed24caea6e5e627ea7753ea33413bd7c48e16f5/12/1280x720_2657600/index.m3u8
