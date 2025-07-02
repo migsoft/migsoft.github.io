@@ -31,10 +31,12 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
-https://live.airstream.run/alba-pe-atv-atvmas/index.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
 https://live.airstream.run/alba-pe-atv-atvsur/index.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur HD
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 http://38.44.109.41:8003/play/a013/index.m3u8
