@@ -51,7 +51,7 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina SD
 https://live-evg1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://latinanoticias.pe/wp-content/themes/genesis-latina-noticias/img/logo-head-n.png" group-title="PERU",Latina Noticias
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="PERU",Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
@@ -131,7 +131,8 @@ https://marine2.miplay.cl/24horas/playlist.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
-https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red
 https://marine2.miplay.cl/lared/playlist.m3u8
 
@@ -142,6 +143,8 @@ https://marine2.miplay.cl/ucv3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+
 https://marine2.miplay.cl/tvmas/playlist.m3u8
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+ HD
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/playlist.m3u8
@@ -153,9 +156,18 @@ http://191.52.214.5:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 https://marine2.miplay.cl/c13/playlist.m3u8
+#EXTINF:-1 tvg-id="13teleseries.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="13realities.cl" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="CHILE",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://marine2.miplay.cl/t13/playlist.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13 HD
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://45.181.123.233:8000/play/a15n
@@ -181,25 +193,21 @@ http://200.52.150.5:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
-http://181.13.173.86:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
 https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública HD
-http://181.13.173.86:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
-http://181.13.173.86:8000/play/a0a7/index.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a4dd45ed-c7bf-4db9-b67d-a4993cdba951:DLS/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
-http://181.13.173.86:8000/play/a0ap/index.m3u8
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/1746ed46-5375-4880-b3e5-d8a17c903ffa:SCL/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://181.13.173.86:8000/play/a06c/index.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1752626770~acl=%2f*~data=hdntl~hmac=db9e9e76bc1b11cead8692fc46f0d86333bd31f2c0723d7771a1425f1c081026/master-mtlf2.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
-http://181.13.173.86:8000/play/a01o/index.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/14f16464-8528-42b2-8946-7874f1dc62de:SCL/variant/6b1070c250b195ca95348758adb0fd8e/bandwidth/500000.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARGENTINA",C5N
 http://181.13.173.86:8000/play/a01p/index.m3u8
