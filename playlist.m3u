@@ -40,7 +40,11 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 http://38.44.109.41:8003/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kodi)
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Twitch)
+plugin://plugin.video.twitch/?mode=play&channel_id=panamericanatvpe
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Kick)
 plugin://plugin.video.kickcommb/?mode=playvid&url=ptv5&page=1&title=Panamericana+Television+en+vivo+++++%5BB%5D%5BCOLOR+yellowgreen%5DLIVE%5B%2FB%5D%5B%2FCOLOR%5D&amp;image=https%3A%2F%2Fimages.kick.com%2Fvideo_thumbnails%2FSnObcKtKq69K%2F0jdUNbDSUHpC%2F720.webp
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="PERU",Latina
