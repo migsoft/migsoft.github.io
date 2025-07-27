@@ -285,7 +285,7 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-capital-co.png" group-title="COLOMBIA",Canal Capital
-https://cdns.livewave.co:8081/canalcapital/tracks-v1a1/mono.ts.m3u8
+https://dc-global-16scw-livepush.akamaized.net/live/emiPIad5hMJ6rdK/tracks-v1a1/mono.m3u8?session_id=9105725863250926
 
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
@@ -363,19 +363,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 http://38.44.109.41:8003/play/a00h/index.m3u8
 
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1 FHD
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve2.png" group-title="ESPANA" tvg-name="La 2",La 2 FHD
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve2.png" group-title="ESPANA" tvg-name="La 2",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h HD
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
 http://200.229.147.142:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 HD
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
 http://200.229.147.142:8000/play/a00a/index.m3u8
