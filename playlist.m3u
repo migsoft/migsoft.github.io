@@ -355,7 +355,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://104.238.205.28:8989/158620_.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://multipress.com.mx/wp-content/uploads/2016/09/interna-imagen.jpg" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
