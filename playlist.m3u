@@ -471,7 +471,8 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cimemax.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
-http://200.229.147.142:8000/play/a04h/index.m3u8
+http://38.44.109.41:8003/play/a023/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Orbit.do" tvg-logo="https://tvtvtv.ru/icons/orbit_tv.png" group-title="CINEMA",Orbit TV
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
@@ -543,7 +544,7 @@ http://200.229.147.142:8000/play/a01v/index.m3u8
 http://200.229.147.142:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://191.52.214.5:8000/play/a059/index.m3u8
+http://38.44.109.41:8003/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
 http://200.229.147.142:8000/play/a04w/index.m3u8
