@@ -85,7 +85,7 @@ https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
-45.181.206.7:10000/play/a0qy
+http://45.181.206.7:10000/play/a0qy
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
@@ -120,7 +120,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-https://45.181.206.7:10000/play/a0kq
+http://45.181.206.7:10000/play/a0kq
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -129,7 +129,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 http://200.229.147.142:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
-https://45.181.206.7:10000/play/a0kq
+http://45.181.206.7:10000/play/a0kq
 
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/NTV-Chile-en-vivo-Online.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -147,12 +147,12 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 https://marine2.miplay.cl/megacl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-https://45.181.206.7:10000/play/a0ik
+http://45.181.206.7:10000/play/a0ik
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV HD
-https://38.180.133.31:8000/play/a10m/index.m3u8
+http://38.180.133.31:8000/play/a10m/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 HD
-https://45.181.206.7:10000/play/a0ps
+http://45.181.206.7:10000/play/a0ps
 
 #EXTINF:-1 tvg-id="13teleseries.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
