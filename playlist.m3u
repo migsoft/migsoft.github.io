@@ -258,7 +258,7 @@ http://38.44.109.41:8003/play/a00x/index.m3u8
 http://186.194.160.110:9002/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+http://186.194.160.110:9002/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
 http://45.181.206.7:10000/play/a0iv
