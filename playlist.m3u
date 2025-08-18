@@ -59,7 +59,7 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rppnoticias/picture?width=200&height=200" group-title="PERU" tvg-name="RPP",RPP
-http://45.181.206.7:10000/play/a0r0
+http://186.194.160.110:9002/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Kodi)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
@@ -150,7 +150,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
-https://marine2.miplay.cl/megacl/playlist.m3u8
+http://186.194.160.110:9002/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
 http://45.181.206.7:10000/play/a0ik
@@ -165,15 +165,15 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="13realities.cl" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="CHILE",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13 HD
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",13c
 http://45.181.206.7:10000/play/a0kd
 
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://45.181.123.233:8000/play/a15n
+http://186.194.160.110:9002/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://45.181.123.233:8000/play/a0oh
+http://186.194.160.110:9002/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="TVU.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -204,7 +204,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a4dd45e
 http://181.13.198.204:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://181.13.198.204:8000/play/a0df/index.m3u8
+http://186.194.160.110:9002/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
 http://181.13.198.204:8000/play/a0cp/index.m3u8
@@ -405,7 +405,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports 
-http://181.78.85.53:9002/play/a008/index.m3u8
+http://45.181.206.7:10000/play/a0q1
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
