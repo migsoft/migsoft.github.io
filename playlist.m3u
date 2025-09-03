@@ -86,9 +86,11 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV SD
 https://live-evg1.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV HD
+http://186.194.160.110:9002/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="PERU",TV Peruanísima
-http://45.181.206.7:10000/play/a0qy
+http://186.194.160.110:9002/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
