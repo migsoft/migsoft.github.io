@@ -128,22 +128,13 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://190.35.196.251:8000/play/a0r4/index.m3u8
+http://177.234.230.206:8011/play/a0kc/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile SD
-http://190.35.196.251:8000/play/a0cx/index.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn_24_horas_cl.png" group-title="CHILE",24 Horas
-http://190.35.196.251:8000/play/a0r8/index.m3u8
-
-
-#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/NTV-Chile-en-vivo-Online.png" group-title="CHILE",NTV
-https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
@@ -155,22 +146,13 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
-http://186.194.160.110:9002/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega HD
-http://190.35.196.251:8000/play/a0r6/index.m3u8
-
+http://177.234.230.206:8011/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://186.194.160.110:9002/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV HD
-http://190.35.196.251:8000/play/a0r5/index.m3u8
-
+http://177.234.230.206:8011/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://186.194.160.110:9002/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13 HD
-http://190.35.196.251:8000/play/a0n1/index.m3u8
-
+http://177.234.230.206:8011/play/a0fi/index.m3u8
 
 #EXTINF:-1 tvg-id="13teleseries.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -205,7 +187,7 @@ http://190.35.196.251:8000/play/a0r7/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
-https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a4dd45ed-c7bf-4db9-b67d-a4993cdba951:DLS/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
@@ -530,6 +512,36 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Hits Comedia
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Hits Accion
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Series Thriller
+https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Series Comedia
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Blacklist
+https://d25v414d53fogv.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="CINEMA",Miramax Movie Channel
+https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
 
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="MISCELANEOS",CGTN ES
