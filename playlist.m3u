@@ -453,9 +453,9 @@ http://200.229.147.142:8000/play/a07i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN Sports XTRA
-https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Eurosport1.us" group-title="DEPORTES" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle-thumbnail.png",Eurosport 1
