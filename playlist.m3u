@@ -32,8 +32,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://38.44.109.41:8003/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://148.222.228.3:9000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Twitch)
@@ -299,6 +297,18 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
 http://200.229.147.142:8000/play/a052/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="USA",Miramax Movie Channel
+https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="USA",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="USA",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="USA",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
+
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -429,8 +439,6 @@ http://user.tvcluboficial.com/live/m/m/511.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
-http://bgtv.xyz/play/play-127.php?ul=512&token=dfghdfghfghdfghdfg
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium HD
 http://user.tvcluboficial.com/live/m/m/512.m3u8
 
 
@@ -442,10 +450,6 @@ http://user.tvcluboficial.com/live/m/m/192.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
 http://200.229.147.142:8000/play/a07i/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TUDN.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN US
-http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN Sports XTRA
@@ -534,18 +538,6 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Blacklist
 https://d25v414d53fogv.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="CINEMA",Miramax Movie Channel
-https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Crime
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="CINEMA",Universal Movies
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
 
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="MISCELANEOS",CGTN ES
