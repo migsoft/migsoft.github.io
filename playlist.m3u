@@ -54,8 +54,6 @@ http://148.222.228.3:9000/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV SD
 http://148.222.228.3:9000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV HD
-http://179.63.6.17:9000/play/a0bg
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV (Dailymotion)
 plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
@@ -120,7 +118,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 http://user.tvcluboficial.com/live/m/m/686.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://177.234.230.206:8011/play/a0kc/index.m3u8
+http://186.194.160.110:9002/play/a0ba/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -138,13 +136,13 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
-http://177.234.230.206:8011/play/a0kq/index.m3u8
+http://186.194.160.110:9002/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://177.234.230.206:8011/play/a0fb/index.m3u8
+http://186.194.160.110:9002/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://177.234.230.206:8011/play/a0fi/index.m3u8
+http://186.194.160.110:9002/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
@@ -184,11 +182,8 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a4dd45e
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
 http://181.13.198.204:8000/play/a0cb/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://45.232.176.17:8000/play/a01u
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe HD
 http://user.tvcluboficial.com/live/m/m/771.m3u8
-
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
 http://181.13.198.204:8000/play/a0cp/index.m3u8
@@ -351,7 +346,7 @@ http://104.238.205.28:8989/158620_.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="MEXICO",Unicable
-http://38.44.109.41:8003/play/a00h/index.m3u8
+http://user.tvcluboficial.com/live/m/m/98.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1
 http://200.229.147.142:8000/play/a04l/index.m3u8
@@ -443,13 +438,11 @@ http://user.tvcluboficial.com/live/m/m/512.m3u8
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-https://stitcher.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1 HD
 http://user.tvcluboficial.com/live/m/m/192.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
-http://200.229.147.142:8000/play/a07i/index.m3u8
+http://user.tvcluboficial.com/live/m/m/698.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN Sports XTRA
