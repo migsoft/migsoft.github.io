@@ -21,12 +21,18 @@ http://38.44.109.41:8003/play/a01z/index.m3u8
 http://148.222.228.3:9000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV HD
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
+https://d1svme839xkbsn.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+ HD
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur HD
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
@@ -102,7 +108,8 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru
-http://user.tvcluboficial.com/live/m/m/686.m3u8
+http://177.234.230.206:8011/play/a07r/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://186.194.160.110:9002/play/a0ba/index.m3u8
