@@ -177,7 +177,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a4dd45e
 http://181.13.198.204:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe HD
-http://user.tvcluboficial.com/live/m/m/771.m3u8
+http://177.234.230.206:8011/play/a0s9/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
 http://181.13.198.204:8000/play/a0cp/index.m3u8
@@ -522,6 +522,34 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Blacklist
 https://d25v414d53fogv.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra CINE
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180632.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra CLASICO
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180633.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra DOCU
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180634.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra FAMILIA
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180635.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra FIESTA
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180636.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra KIDS
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180637.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ultra-mediano.png" group-title="CINEMA",Ultra MEX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180638.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 
 
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="MISCELANEOS",CGTN ES
