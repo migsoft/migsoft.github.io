@@ -19,6 +19,9 @@ https://cloud.live.opencaster.com/playlist_480/index.m3u8
 http://38.44.109.41:8003/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
 http://148.222.228.3:9000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD (America HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV FHD
+http://38.183.182.166:8000/play/a0rb/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8
@@ -35,8 +38,12 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur HD
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://38.183.182.166:8000/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
 http://38.44.109.41:8003/play/a013/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=405234923
@@ -52,8 +59,10 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
 #EXTINF:-1 radio="true" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="PERU" tvg-name="RPP",RPP
-http://148.222.228.3:9000/play/a05l/index.m3u8
+http://38.183.182.166:8000/play/a13g/index.m3u8
 
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
+http://38.183.182.166:8000/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV SD
 http://148.222.228.3:9000/play/a04c/index.m3u8
 
@@ -62,6 +71,8 @@ plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV HD (Moestv)
 plugin://plugin.video.moestv/?eydhY3Rpb24nOiAncGxheScsICdjaGFubmVsJzogJ2RpcmVjdG9zJywgJ2NoYW5uZWxfbmFtZSc6ICdXaWxsYXggUGVyw7onLCAnZmFuYXJ0JzogJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wb3B1bGMvYmlnbWFjL21hc3Rlci9tZWRpYS9iZ19kaXJlY3Rvcy5qcGcnLCAnaWNvbic6ICdodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS93aWxsYXh0di9waWN0dXJlP3dpZHRoPTIwMCZoZWlnaHQ9MjAwJywgJ2lzUGxheWFibGUnOiBUcnVlLCAnbGFiZWwnOiAnV2lsbGF4IFBlcsO6JywgJ3Bsb3QnOiAnSW50LiBBbcOpcmljYVxuXG5bQl1XaWxsYXggUGVyw7pbL0JdJ30%3D
 
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
+http://38.183.182.166:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 
@@ -107,8 +118,12 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru HD
+http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru SD
 http://177.234.230.206:8011/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",L1MAX
+http://38.183.182.166:8000/play/a12t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
@@ -613,8 +628,6 @@ http://152.200.150.150:8000/play/a0m2/index.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="http://1.bp.blogspot.com/_6RJQ3tvJtr4/RsTkhrNY6dI/AAAAAAAAAWM/4_cxHHrwafQ/w1200-h630-p-k-no-nu/televisa-logo.jpg" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="MISCELANEOS",Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 
 #EXTINF:-1 tvg-id="MotorVision.de" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision TV
