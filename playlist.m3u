@@ -40,7 +40,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/
 
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
-http://38.183.182.166:8000/play/a0ii/index.m3u8
+http://177.234.230.206:8011/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
 http://38.44.109.41:8003/play/a013/index.m3u8
 
@@ -62,7 +62,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 http://38.183.182.166:8000/play/a13g/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-http://38.183.182.166:8000/play/a0zn/index.m3u8
+http://177.234.230.206:8011/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV SD
 http://148.222.228.3:9000/play/a04c/index.m3u8
 
@@ -193,6 +193,9 @@ http://181.13.198.204:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe HD
 http://104.238.205.28:8989/278773_.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe SD
+http://177.234.230.206:8011/play/a0s9/index.m3u8
+
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARGENTINA",A24
 http://181.13.198.204:8000/play/a0cp/index.m3u8
@@ -272,7 +275,7 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-capital-co.png" group-title="COLOMBIA",Canal Capital
-http://152.200.150.150:8000/play/a0ln/index.m3u8
+http://177.234.230.206:8011/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
