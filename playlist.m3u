@@ -124,9 +124,12 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 http://177.234.230.206:8011/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru HD
 http://190.233.83.45:1983/play/a1sa/index.m3u8
-#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",L1MAX
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
-
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="PERU",L1MAX HD
+http://190.233.83.45:1983/play/a1d9/index.m3u8
+#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/36/1/liga-1-peru-logo-png_seeklogo-365494.png" group-title="PERU",L1
+http://190.233.83.45:1983/play/a1ud/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://186.194.160.110:9002/play/a0ba/index.m3u8
@@ -259,8 +262,10 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 http://201.217.246.177:8000/play/a02r/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol SD
 http://38.44.109.41:8003/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
+http://186.194.160.110:9002/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol
 http://186.194.160.110:9002/play/a010/index.m3u8
@@ -270,6 +275,8 @@ http://186.194.160.110:9002/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN SD
 http://38.44.109.41:8003/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
+http://186.194.160.110:9002/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -421,32 +428,36 @@ http://176.65.146.237:8401/play/a09r/index.m3u8
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports 
-http://45.232.176.17:8000/play/a02n
+http://181.209.72.149:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
+http://181.209.72.149:8000/play/a06x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://38.44.109.41:8003/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN SD
 http://177.234.230.206:8011/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN HD
+http://181.209.72.149:8000/play/a099/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium
-http://38.44.109.41:8003/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium
 http://177.234.230.206:8011/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN Premium FHD
+http://181.209.72.149:8000/play/a086/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
-http://200.229.147.142:8000/play/a06a/index.m3u8
+http://181.209.72.149:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-http://200.229.147.142:8000/play/a06b/index.m3u8
+http://181.209.72.149:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-http://181.13.173.86:8000/play/a02t/index.m3u8
+http://181.209.72.149:8000/play/a06y/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
@@ -472,7 +483,7 @@ http://38.44.109.41:8003/play/a023/index.m3u8
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 tvg-id="Cine.AR" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine_AR
-http://45.5.151.251:8000/play/a03i/index.m3u8
+http://181.209.72.149:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
 http://200.229.147.142:8000/play/a03g/index.m3u8
