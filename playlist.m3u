@@ -130,7 +130,7 @@ http://190.233.83.45:1983/play/a1sa/index.m3u8
 #EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
 #EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/36/1/liga-1-peru-logo-png_seeklogo-365494.png" group-title="PERU",L1
-http://190.233.83.45:1983/play/a1ud/index.m3u8
+http://189.50.210.3:8008/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://186.194.160.110:9002/play/a0ba/index.m3u8
@@ -412,9 +412,6 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-
-#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 SD
-http://38.183.182.166:8000/play/a0sx/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
 http://200.229.147.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 HD
