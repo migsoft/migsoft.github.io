@@ -89,9 +89,13 @@ http://148.222.228.3:9000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV 
 http://190.233.83.45:1983/play/a1rf/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV SD
+http://181.66.181.222:1983/play/a1rf/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="PERU",Canal N 
 http://190.233.83.45:1983/play/a1so/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="PERU",Canal N HD
+http://181.66.181.222:1983/play/a1ic/index.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://canalesgratis.tv/wp-content/uploads/2024/02/Nativa-TV.jpg" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
@@ -127,9 +131,9 @@ http://181.66.181.222:1983/play/a1sa/index.m3u8
 #EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru HD
 http://190.233.83.45:1983/play/a1sa/index.m3u8
 
-#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="PERU",L1MAX
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1max-logo-png_seeklogo-519693.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
-#EXTINF:-1 tvg-id="Golperu.pe" tvg-logo="https://images.seeklogo.com/logo-png/36/1/liga-1-peru-logo-png_seeklogo-365494.png" group-title="PERU",L1
+#EXTINF:-1 tvg-id="L1.pe" tvg-logo="https://images.seeklogo.com/logo-png/36/1/liga-1-peru-logo-png_seeklogo-365494.png" group-title="PERU",L1
 http://189.50.210.3:8008/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
@@ -138,7 +142,7 @@ http://186.194.160.110:9002/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-id="TV Chile" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
@@ -633,7 +637,19 @@ http://38.44.109.41:8003/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://200.229.147.142:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SD
-http://152.200.150.150:8000/play/a0m2/index.m3u8
+http://45.186.107.173:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo FD
+http://200.92.227.238:8000/play/a0u4/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo FHD
+http://186.194.160.110:9002/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo FSD
+http://45.173.72.26:2072/play/a06t
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SDH
+http://190.233.83.45:1983/play/a1q8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SSH
+http://181.66.181.222:1983/play/a1q8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SDH
+http://181.13.252.102:8000/play/a01w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="MISCELANEOS",Sony Canal Novelas
