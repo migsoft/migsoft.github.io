@@ -34,12 +34,21 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana 
 http://38.199.4.105:9999/play/1103/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana FHD
+http://38.199.4.105:9999/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://177.234.230.206:8011/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
 http://38.44.109.41:8003/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD1
+http://199.188.103.176:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD2
+http://199.188.103.176:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD3
+http://45.173.72.26:2072/play/a09q
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=405234923
