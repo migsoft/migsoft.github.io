@@ -20,7 +20,7 @@ http://45.173.75.4:2061/play/a07e
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://186.194.160.110:9002/play/a0ba/index.m3u8
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TV Chile
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 http://186.194.160.110:9002/play/a0bg/index.m3u8
@@ -37,19 +37,19 @@ http://177.234.230.206:8011/play/a0qk/index.m3u8
 
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",Canal 13
-http://181.209.72.149:8000/play/a07b/index.m3u8
+http://181.80.15.131:8400/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
-http://181.209.72.149:8000/play/a094/index.m3u8
+http://181.80.15.131:8400/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",Canal 9
-http://181.209.72.149:8000/play/a08k/index.m3u8
+http://181.80.15.131:8400/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://181.209.72.149:8000/play/a08a/index.m3u8
+http://181.80.15.131:8400/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica
-http://181.209.72.149:8000/play/a095/index.m3u8
+http://181.80.15.131:8400/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
-http://181.209.72.149:8000/play/a097/index.m3u8
+http://181.80.15.131:8400/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26
-http://181.209.72.149:8000/play/a05x/index.m3u8
+http://181.80.15.131:8400/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 
