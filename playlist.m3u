@@ -24,13 +24,13 @@ http://38.44.109.41:8003/play/a01z/index.m3u8
 http://186.194.160.110:9002/play/a0id/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
+#EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV HD.pe
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="ATV+ HD.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
+#EXTINF:-1 tvg-id="ATV+ HD.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+ HD.pe
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur
+#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV SUR.pe
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
 
 
@@ -765,7 +765,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS",France 24 HD
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews
+#EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",Euronews HD
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 #EXTINF:-1 tvg-id="Arirang TV HD" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS",Arirang TV HD
