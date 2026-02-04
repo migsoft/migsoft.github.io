@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://http://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
