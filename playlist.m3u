@@ -290,12 +290,12 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Romance
+#EXTINF:-1 tvg-id="Telemundo Romance" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_2.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion
+#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion SD
+#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion SD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 
 
@@ -341,7 +341,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="Canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milenio-tv-mx.png" group-title="MEXICO",Milenio
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milenio-tv-mx.png" group-title="MEXICO",Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
@@ -359,7 +359,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",Azteca Uno -1h
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",Azteca Uno -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
@@ -371,7 +371,7 @@ http://videx-limit182-stream.x10.mx:8000/stream/canal5.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="MEXICO",Unicable
-https://live.saohgdasregions.fun:9092/MTc5LjYuMTY0LjE2Mg==/24_.m3u8?token=bvRkCCA-1YKWvQy_kQ5pQA&expires=1770273569
+http://38.44.109.41:8003/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1
 http://200.229.147.142:8000/play/a04l/index.m3u8
@@ -382,7 +382,7 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="StarTVE24.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
+#EXTINF:-1 tvg-id="StarTVE.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
