@@ -318,20 +318,31 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="USA",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Women EN
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Women
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Extreme EN
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Extreme
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Family Zone EN
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Family Zone
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/114.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Nex EN
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Nex
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime 2
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Bet
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime HD 
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime HD West 
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Show Case
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz Weast EN
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz Weast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz East EN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz East
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz Encore Action EN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="USA",Starz Encore Action
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.m3u8
 
 
@@ -566,19 +577,6 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Starz.png" group-title="CINEMA",Starz Encore Wester
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="CINEMA",Showtime 2 HD
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="CINEMA",Showtime Bet
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="CINEMA",Showtime HD 
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="CINEMA",Showtime HD West 
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="CINEMA",Showtime Show Case
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
-
 
 #EXTINF:-1 tvg-id="FreeTV Familia" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="CINEMA",FreeTV Familia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
