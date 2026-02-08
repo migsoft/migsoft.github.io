@@ -115,7 +115,7 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru
-http://fivetv.org:25461/live/Eduardo*/Eduardo**/186821.m3u8
+http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
@@ -157,9 +157,9 @@ http://186.194.160.110:9002/play/a065/index.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://190.61.55.34:2401/play/a01l/index.m3u8
+http://190.151.80.244:9990/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://190.61.55.34:2401/play/a013/index.m3u8
+http://190.151.80.244:9990/play/a0k4/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -416,6 +416,7 @@ http://186.194.160.110:9002/play/a05a/index.m3u8
 http://200.229.147.142:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
+#EXTVLCOPT:network-caching=1000
 http://176.65.146.237:8401/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
