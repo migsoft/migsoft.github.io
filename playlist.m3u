@@ -115,7 +115,7 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru
-http://190.117.20.37:8000/play/a0cq/index.m3u8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/186821.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
@@ -465,7 +465,7 @@ http://138.121.114.86:8000/play/a06y/index.m3u8
 http://38.188.186.47:4000/play/a00c
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-http://user.tvcluboficial.com/live/m/m/192.m3u8
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/120317.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN (México)
 http://200.229.147.142:8000/play/a096/index.m3u8
