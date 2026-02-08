@@ -655,7 +655,7 @@ http://186.194.160.110:9002/play/a0ah/index.m3u8
 http://45.173.72.26:2072/play/a06t
 
 
-#EXTINF:-1 tvg-id="Amc.la" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="MISCELANEOS",Sony Canal Novelas
+#EXTINF:-1 tvg-id="Sony Canal Novelas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="MISCELANEOS",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="http://1.bp.blogspot.com/_6RJQ3tvJtr4/RsTkhrNY6dI/AAAAAAAAAWM/4_cxHHrwafQ/w1200-h630-p-k-no-nu/televisa-logo.jpg" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -699,7 +699,9 @@ https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PlanetaTV Music
 https://scl.edge.grupoz.cl/planetatv/live/chunklist_w1655783517.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
+
+
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Rock
 https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
@@ -719,6 +721,51 @@ https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
 https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 00s
 https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stingray 90s" tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray ZenLife
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Romance
+https://lotus.stingray.com/manifest/ose-202ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Rock Alt
+https://lotus.stingray.com/manifest/ose-102ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello003-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Adult Pop
+https://lotus.stingray.com/manifest/ose-104ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Movies Music
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray K Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme001-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Djazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/webapp/master.m3u8
+#EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hip Hop
+https://lotus.stingray.com/manifest/ose-133ads-montreal/webapp/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime cine y series
