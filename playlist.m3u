@@ -111,8 +111,8 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-cosmos-pe.png" group-title="PERU",TV Cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="PERU",OVACION.pe
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="PERU",Ovacion
+https://5c3fb01839654.streamlock.net:1963/iptvovacion2/liveovacion2tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://x.playerlatino.live/golperu.png" group-title="PERU",GolPeru
 http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
@@ -127,7 +127,10 @@ http://190.117.20.37:8000/play/a0ay/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://190.187.200.244:8000/play/a0oa/index.m3u8
+http://38.199.4.105:9999/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN HD
+http://38.199.4.105:9999/play/a0hw/index.m3u8
+
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -157,7 +160,7 @@ http://186.194.160.110:9002/play/a065/index.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://190.151.80.244:9990/play/a0l1/index.m3u8
+http://38.199.4.105:9999/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
 http://190.151.80.244:9990/play/a0k4/index.m3u8
 
