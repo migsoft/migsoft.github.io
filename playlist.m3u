@@ -395,7 +395,7 @@ http://videx-limit182-stream.x10.mx:8000/stream/canal5.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="MEXICO",Unicable
-http://38.44.109.41:8003/play/a00h/index.m3u8
+http://167.250.223.26:8085/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1
 http://200.229.147.142:8000/play/a04l/index.m3u8
@@ -522,7 +522,7 @@ http://200.229.147.142:8000/play/a00t/index.m3u8
 http://200.229.147.142:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://38.199.4.105:9999/play/a0gs/index.m3u8
+http://167.250.223.26:8085/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
 http://177.10.184.193:8000/play/a09m/index.m3u8
