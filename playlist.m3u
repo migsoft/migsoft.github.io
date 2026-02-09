@@ -233,7 +233,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARGENTINA",Encuentro
-http://181.209.37.74:8001/play/a0ds/index.m3u8
+http://138.121.114.86:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARGENTINA",DeporTV
 http://181.209.37.74:8001/play/a07f/index.m3u8
