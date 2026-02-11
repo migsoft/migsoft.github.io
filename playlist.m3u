@@ -166,7 +166,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://38.199.4.105:9999/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://190.151.80.244:9990/play/a0k4/index.m3u8
+http://181.128.145.103:4000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1024px-Logo_tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
