@@ -123,6 +123,8 @@ http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1
+http://181.224.200.5:2277/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes
 http://190.119.195.114:8060/play/a0kj/index.m3u8
@@ -522,7 +524,7 @@ http://200.229.147.142:8000/play/a00t/index.m3u8
 http://200.229.147.142:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="CINEMA",Paramount Network
-http://167.250.223.26:8085/play/a09f/index.m3u8
+http://181.224.200.5:2277/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="CINEMA",TNT
 http://177.10.184.193:8000/play/a09m/index.m3u8
