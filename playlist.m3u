@@ -509,6 +509,10 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
 http://200.229.147.142:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies HD
+http://177.10.184.193:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies SD
+http://190.119.195.114:8060/play/a0m9/index.m3u8
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV
 http://200.229.147.142:8000/play/a03e/index.m3u8
