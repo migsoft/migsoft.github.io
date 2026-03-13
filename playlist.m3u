@@ -453,25 +453,25 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports 
-http://190.119.195.114:8060/play/a0mu/index.m3u8
+http://181.209.125.236:10000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
-http://190.117.20.37:8000/play/a05x/index.m3u8
+http://181.209.125.236:10000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://190.119.195.114:8060/play/a0lu/index.m3u8
+http://181.209.125.236:10000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium
-http://190.119.195.114:8060/play/a0o9/index.m3u8
+http://181.209.125.236:10000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",FOX Sports
-http://138.121.114.91:8000/play/a085/index.m3u8
+http://181.209.125.236:10000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="606dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-http://138.121.114.91:8000/play/a0cv/index.m3u8
+http://181.209.125.236:10000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-http://138.121.114.91:8000/play/a06y/index.m3u8
+http://181.209.125.236:10000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
 http://38.188.186.47:4000/play/a00c
@@ -669,12 +669,8 @@ http://186.194.160.110:9002/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo FSD
 http://45.173.72.26:2072/play/a06t
 
-
-#EXTINF:-1 tvg-id="Sony Canal Novelas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="MISCELANEOS",Sony Canal Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="http://1.bp.blogspot.com/_6RJQ3tvJtr4/RsTkhrNY6dI/AAAAAAAAAWM/4_cxHHrwafQ/w1200-h630-p-k-no-nu/televisa-logo.jpg" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="MotorVision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
@@ -687,9 +683,6 @@ https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:-1 tvg-id="el-garage.ar" group-title="MOTOR" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-id="TopGear.uk" group-title="MOTOR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png",BBC Top Gear
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="MotorRacing" group-title="MOTOR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png",MotorRacing
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
