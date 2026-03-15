@@ -449,15 +449,15 @@ http://181.209.125.236:10000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
 http://181.209.125.236:10000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 2
-http://200.229.147.142:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 3
-http://200.229.147.142:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="1624dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 4
-http://200.229.147.142:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="1625dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 5
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2
+http://181.209.125.236:10000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3
+http://181.209.125.236:10000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="1624dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="DEPORTES",ESPN 4
+http://181.209.125.236:10000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="1625dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5
 http://200.229.147.142:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="1626dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 6
+#EXTINF:-1 tvg-id="1626dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
 http://200.229.147.142:8000/play/a05r/index.m3u8
 
 
