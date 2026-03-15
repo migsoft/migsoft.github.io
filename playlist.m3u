@@ -391,23 +391,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 http://167.250.223.26:8085/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_es.png" group-title="ESPANA" tvg-name="La 1",La 1
-http://200.229.147.142:8000/play/a04l/index.m3u8
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve2.png" group-title="ESPANA" tvg-name="La 2",La 2
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+https://ztnr.rtve.es/ztnr/5468585.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANA",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="StarTVE.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
+#EXTINF:-1 tvg-id="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3
 http://200.229.147.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 HD
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
+#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries
 http://200.229.147.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atreseries-es.png" group-title="ESPANA",Atreseries HD
 http://186.194.160.110:9002/play/a05a/index.m3u8
@@ -444,7 +444,7 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES",TNT Sports 
 http://181.209.125.236:10000/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
 http://181.209.125.236:10000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
@@ -453,11 +453,11 @@ http://181.209.125.236:10000/play/a00g/index.m3u8
 http://181.209.125.236:10000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3
 http://181.209.125.236:10000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="1624dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="DEPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="DEPORTES",ESPN 4
 http://181.209.125.236:10000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="1625dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5
+#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5
 http://200.229.147.142:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="1626dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
 http://200.229.147.142:8000/play/a05r/index.m3u8
 
 
@@ -483,11 +483,11 @@ http://fivetv.org:25461/live/Eduardo*/Eduardo**/120317.m3u8
 http://200.229.147.142:8000/play/a096/index.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN SPORTS XTRA ñ
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN SPORTS XTRA ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 
