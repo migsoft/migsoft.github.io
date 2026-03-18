@@ -55,7 +55,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream2/chunks.m3u8?dpssid=b210108595216938ce5908018&sid=ba5t1l1xb24939541626938ce5908017&ndvc=1
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-http://38.190.103.160:9999/play/a00d/index.m3u8
+http://38.199.4.105:9999/play/1117/index.m3u8
+
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax
 http://45.173.75.4:2061/play/a07e
 
@@ -71,6 +72,8 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV 
 http://45.173.75.4:2061/play/a07f
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV SD
+http://38.199.4.105:9999/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="PERU",Canal N 
 http://190.117.20.37:8000/play/a09w/index.m3u8
