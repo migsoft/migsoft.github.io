@@ -71,7 +71,7 @@ plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/6834bf28c502c036ad1d9623_latelepe.jpeg" group-title="PERU",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/6834bf28c502c036ad1d9623_latelepe.jpeg" group-title="PERU",La Tele SD
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/6834bf28c502c036ad1d9623_latelepe.jpeg" group-title="PERU",La Tele SD
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV 
@@ -82,7 +82,7 @@ http://38.199.4.105:9999/play/a0if/index.m3u8
 #EXTINF:-1 tvg-id="547" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
+#EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://pbs.twimg.com/profile_images/1552089735782449159/iK8eX8ug_400x400.jpg" group-title="PERU",Vision Sur
@@ -116,10 +116,10 @@ http://45.173.72.26:2072/play/a0d5
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1
 http://181.224.200.5:2277/play/a0de/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes
 http://45.186.254.75:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N 
@@ -349,13 +349,13 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:-1 tvg-id="625" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
 http://186.194.160.110:9002/play/a0gj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="USA",Universal Crime
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="USA",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
 
-#EXTINF:-1 tvg-logo="https://universalperu.com/wp-content/uploads/2024/01/cropped-Logo-peque-1.png" group-title="USA",Universal Action
+#EXTINF:-1 tvg-id="1572dtv.cl tvg-logo="https://universalperu.com/wp-content/uploads/2024/01/cropped-Logo-peque-1.png" group-title="USA",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/6223e03b4eaa833cc92a1762/0x0.png" group-title="USA",Universal Movies
+#EXTINF:-1 tvg-id="1577dtv.cl" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/6223e03b4eaa833cc92a1762/0x0.png" group-title="USA",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
 #EXTINF:-1 tvg-logo="https://www.cine.com/media/canales/us/765_hd.png" group-title="USA",Showtime Women
@@ -393,7 +393,7 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
+#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
@@ -429,7 +429,7 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve2.png" group-title="ESPANA" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
-#EXTINF:-1 tvg-id="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="ESPANA",Antena 3 Internacional
@@ -499,16 +499,16 @@ http://181.209.125.236:10000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
 http://181.209.125.236:10000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
+#EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
 http://fivetv.org:25461/live/Eduardo*/Eduardo**/120317.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN (México)
+#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN 
 http://200.229.147.142:8000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN SPORTS XTRA ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -565,7 +565,7 @@ http://200.229.147.142:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
 http://200.229.147.142:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTime Movie Network (Rakuten TV)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
@@ -696,10 +696,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="MISCELANEOS",WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MotorVision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision ES
+#EXTINF:-1 tvg-id="Motorvision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision ES
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
-#EXTINF:-1 tvg-id="MotorVision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
+#EXTINF:-1 tvg-id="DE | Motorvision TV" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 #EXTINF:-1 tvg-id="el-garage.ar" group-title="MOTOR" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png",Garage TV
@@ -729,10 +729,10 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="VitalDrive" group-title="MOTOR" tvg-logo="https://i.imgur.com/XoR9zLh.png",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
-#EXTINF:-1 tvg-id="TopGear" group-title="MOTOR" tvg-logo="https://i.imgur.com/S6Su6QH.png",Top Gear
+#EXTINF:-1 tvg-id="BBC Top Gear" group-title="MOTOR" tvg-logo="https://i.imgur.com/S6Su6QH.png",Top Gear
 https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
 
-#EXTINF:-1 tvg-id="TopGear" group-title="MOTOR" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
+#EXTINF:-1 tvg-id="TRACE Sports Stars" group-title="MOTOR" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",TRACE Latina
@@ -812,32 +812,37 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/webapp/master.m3u8
 #EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hip Hop
 https://lotus.stingray.com/manifest/ose-133ads-montreal/webapp/master.m3u8
 
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime cine y series
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Ana y los 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
-#EXTINF:0 tvg-logo="https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg" group-title="RUNTIME",RunTime Curro Jiménez
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series HD
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Crimen HD
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Romance HD
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Clásicos HD
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Acción
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Comedia
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Thriller-Terror
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Crimen
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Romance
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Classics
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Curro Jiménez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NEWS",FOX Live Now HD
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -872,10 +877,10 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NEWS",France 24 HD
+#EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NEWS",France 24 HD
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NEWS",Euronews HD
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NEWS",Euronews HD
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 #EXTINF:-1 tvg-id="Arirang TV HD" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NEWS",Arirang TV HD
