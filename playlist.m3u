@@ -138,6 +138,9 @@ http://38.199.4.105:9999/play/a0m0/index.m3u8
 #EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntn-24-co.png" group-title="NOTICIAS",NTN24
 http://181.78.20.119:58002/play/a061/index.m3u8
 
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
+http://181.209.37.74:8001/play/a097/index.m3u8
+
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="NOTICIAS",C5N
 http://181.209.37.74:8001/play/a05v/index.m3u8
 
@@ -253,9 +256,6 @@ http://181.209.37.74:8001/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve
 http://181.209.37.74:8001/play/a08k/index.m3u8
-
-#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
-http://181.209.37.74:8001/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
