@@ -63,9 +63,11 @@ http://45.173.75.4:2061/play/a07e
 http://45.186.254.75:8000/play/a0c6/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax SD
 http://38.199.4.105:9999/play/1117/index.m3u8
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax FHD
+http://179.1.145.73:8040/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
-http://38.183.182.166:8000/play/a13k/index.m3u8
+http://179.1.145.73:8040/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 
@@ -222,7 +224,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
 http://38.199.4.105:9999/play/a0lz/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://201.219.193.210:3002/play/a0t4
+http://190.60.52.28:5001/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvu-bo.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -572,6 +574,12 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC HD
+http://38.199.4.105:9999/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC SD
+http://181.78.211.244:8005/play/a035/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Sony One Hits Comedia" tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
