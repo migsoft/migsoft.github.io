@@ -129,7 +129,7 @@ http://190.117.20.37:8000/play/a0ay/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
-http://45.186.254.75:8000/play/a0av/index.m3u8
+http://181.66.253.124:8000/play/a1qq/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N 
 http://190.117.20.37:8000/play/a09w/index.m3u8
