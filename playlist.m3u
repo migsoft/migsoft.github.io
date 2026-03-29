@@ -710,28 +710,28 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="634" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ae_us.png",A&E
-http://181.209.125.236:10000/play/a00o/index.m3u8
+http://179.60.191.102:8000/play/a0eq/index.m3u8
 
 #EXTINF:-1 tvg-id="222dtv.cl" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png",E!
-http://181.209.125.236:10000/play/a009/index.m3u8
+http://177.10.184.193:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel
-http://181.209.125.236:10000/play/a00j/index.m3u8
+http://179.60.191.102:8000/play/a0gd/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://181.209.125.236:10000/play/a035/index.m3u8
+http://179.60.191.102:8000/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
-http://181.209.125.236:10000/play/a00m/index.m3u8
+http://179.60.191.102:8000/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://200.229.147.142:8000/play/a01o/index.m3u8
+http://179.60.191.102:8000/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
-http://181.209.125.236:10000/play/a01h/index.m3u8
+http://179.60.191.102:8000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
-http://181.209.125.236:10000/play/a039/index.m3u8
+http://179.60.191.102:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel HD
 http://177.10.184.193:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
