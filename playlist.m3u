@@ -131,10 +131,10 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://181.66.253.124:8000/play/a1qq/index.m3u8
 
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N 
-http://190.117.20.37:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N HD
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N
 http://45.186.254.75:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N SD
+http://179.43.96.253:8000/play/a2a6/index.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="NOTICIAS" tvg-name="RPP",RPP
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream2/chunks.m3u8?dpssid=b210108595216938ce5908018&sid=ba5t1l1xb24939541626938ce5908017&ndvc=1
@@ -162,6 +162,8 @@ http://181.209.37.74:8001/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://cdn-1.webcatalog.io/catalog/adn40/adn40-icon-filled-256.png" group-title="NOTICIAS",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -293,28 +295,30 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol TV
-http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
-http://186.194.160.110:9002/play/a027/index.m3u8
+http://177.10.184.193:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol SD
+http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
 http://186.194.160.110:9002/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Noticias Caracol
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD2
 http://186.194.160.110:9002/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
 http://191.97.13.26:9003/play/a00q/index.m3u8
 
+#EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
+http://181.78.8.199:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional SD
 http://186.194.160.110:9002/play/a06v/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
-http://186.194.160.110:9002/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN SD
-http://38.44.109.41:8003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN
 http://186.194.160.110:9002/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN HD
+http://181.78.8.199:8000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",RCN SD
+http://38.44.109.41:8003/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://tvimagenes.com.co/img/rcnhd2.png" group-title="COLOMBIA",RCN HD2
 http://186.194.160.110:9002/play/a00s/index.m3u8
@@ -322,9 +326,9 @@ http://186.194.160.110:9002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://www.condista.com/wp-content/uploads/2025/02/rcn-mas.png" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1 SD
-http://38.44.109.41:8003/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1
+http://38.44.109.41:8003/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://www.elheraldo.co/resizer/IX2_8VcCSu1hMN9QfPH9oMwJhm8=/arc-photo-elheraldoco/arc2-prod/public/7NZND7GYKRCORJ5NEMIL6JOIUE.png" group-title="COLOMBIA",Canal 1 SD
 http://186.194.160.110:9002/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://image.roku.com/developer_channels/prod/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png" group-title="COLOMBIA",Cali TV
