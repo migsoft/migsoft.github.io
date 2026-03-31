@@ -577,9 +577,13 @@ http://177.10.184.193:8000/play/a0d4/index.m3u8
 http://38.199.4.105:9999/play/a0go/index.m3u8
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV
-http://181.209.125.236:10000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV HD
+http://179.1.145.73:8040/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV FHD
+http://177.10.184.193:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="658" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV HD
 http://45.173.75.4:2061/play/a061
+#EXTINF:-1 tvg-id="658" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV SD
+http://45.186.254.75:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
 http://200.229.147.142:8000/play/a00q/index.m3u8
