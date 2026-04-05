@@ -181,7 +181,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="659" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",EuroNews
-https://9ca5d68b.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1NwYW5pc2hfSExT/d37fc6ff-f44d-47b0-b6cc-947960fbfdc6/5.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
