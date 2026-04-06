@@ -30,8 +30,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/
 http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://201.219.193.210:3002/play/a0so
-#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana FHD
 http://45.173.72.26:2072/play/a09q
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://190.117.20.37:8000/play/a07z/index.m3u8
@@ -52,8 +50,6 @@ http://45.173.75.4:2061/play/a07e
 http://45.186.254.75:8000/play/a0c6/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax SD
 http://38.199.4.105:9999/play/1117/index.m3u8
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax FHD
-http://179.1.145.73:8040/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 http://179.1.145.73:8040/play/a02v/index.m3u8
