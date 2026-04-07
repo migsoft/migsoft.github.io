@@ -101,11 +101,12 @@ http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1MAX
 http://45.173.72.26:2072/play/a0d5
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1MAX HD
-http://181.65.191.173:8060/play/a01e
+http://45.177.21.6:9000/play/a00h
+
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1
 http://181.224.200.5:2277/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",L1 HD
-http://181.65.191.173:8060/play/a04s
+http://45.177.21.6:9000/play/a00g
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes
 http://190.117.20.37:8000/play/a0ay/index.m3u8
