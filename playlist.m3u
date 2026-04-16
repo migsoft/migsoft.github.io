@@ -1,19 +1,13 @@
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú 
-
-#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/play
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+http://45.173.75.4:2061/play/a07d
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
-
-#EXTVLCOPT:http-referrer=https://www.tvperu.gob.pe/internacional/play
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Identidad_peruana_ipe_2019.png" group-title="PERU",Ipe 
-
-#EXTVLCOPT:http-referrer=https://www.canalipe.gob.pe/streaming
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+http://45.173.75.4:2061/play/a07a
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
@@ -133,8 +127,6 @@ http://181.224.200.5:2277/play/a04b/index.m3u8
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="NOTICIAS",TV PERU Noticias 
-
-#EXTVLCOPT:http-referrer=http://www.tvperu.gob.pe/noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="NOTICIAS",ATV+
@@ -262,7 +254,7 @@ https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
-http://181.209.37.74:8001/play/a07b/index.m3u8
+http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Pública
 http://181.209.37.74:8001/play/a095/index.m3u8
@@ -518,17 +510,17 @@ http://38.199.4.105:9999/play/a0hy/index.m3u8
 http://190.151.80.242:9990/play/a0op/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://181.224.200.5:2277/play/aa07/index.m3u8
+http://45.177.21.6:9000/play/a015
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2
-http://181.78.79.131:8000/play/a0qj
+http://45.177.21.6:9000/play/a017
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3
-http://181.78.79.131:8000/play/a0s6
+http://45.177.21.6:9000/play/a01i
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="DEPORTES",ESPN 4
-http://181.78.79.131:8000/play/a0s9
+http://45.177.21.6:9000/play/a01c
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5
-http://181.78.79.131:8000/play/a0s5
+http://45.177.21.6:9000/play/a001
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
-http://181.78.79.131:8000/play/a0s3
+http://45.177.21.6:9000/play/a00r
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium
 http://181.78.79.131:8000/play/a0r2
