@@ -4,7 +4,7 @@
 http://45.173.75.4:2061/play/a07d
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+http://38.199.4.105:9999/play/1111/index.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Identidad_peruana_ipe_2019.png" group-title="PERU",Ipe 
 http://45.173.75.4:2061/play/a07a
@@ -110,6 +110,8 @@ http://45.177.21.6:9000/play/a00g
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes
 http://38.252.215.33:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes SD
+http://38.199.4.105:9999/play/a0ob/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://190.117.20.37:8000/play/a08d/index.m3u8
@@ -118,12 +120,18 @@ https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=dsports&key=VIDEX.LOL
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://181.66.253.124:8000/play/a1qq/index.m3u8
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life SD
+http://38.199.4.105:9999/play/a0p8/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N
 http://45.186.254.75:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N SD
+http://38.199.4.105:9999/play/a0oo/index.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="NOTICIAS" tvg-name="RPP",RPP
 http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="NOTICIAS" tvg-name="RPP",RPP SD
+http://38.199.4.105:9999/play/a0ie/index.m3u8
 
 #EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/960px-Latina_Noticias_Noviembre_2024.png" group-title="NOTICIAS",Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
@@ -266,7 +274,8 @@ http://181.209.37.74:8001/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
 http://45.170.130.224:8000/play/a03n/index.m3u8
-
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe SD
+http://38.199.4.105:9999/play/a0p9/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",El Nueve
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
@@ -533,6 +542,9 @@ https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn&key=VIDEX.LOL&se
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
 http://45.177.21.6:9000/play/a00r
 
+
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
+https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2 SD
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn2&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3 SD
