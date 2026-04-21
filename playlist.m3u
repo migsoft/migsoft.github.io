@@ -539,7 +539,7 @@ http://45.177.21.6:9000/play/a00r
 
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
+http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2 SD
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn2&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3 SD
@@ -557,7 +557,7 @@ https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn7&key=VIDEX.LOL&s
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium
 http://181.78.79.131:8000/play/a0r2
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium HD
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espnpremium&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
+http://181.13.252.102:8000/play/a078/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",FOX Sports
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=foxsports&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
@@ -629,10 +629,10 @@ http://45.173.75.4:2061/play/a061
 #EXTINF:-1 tvg-id="658" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="CINEMA",Warner TV SD
 http://45.186.254.75:8000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://45.186.254.75:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO HD
+#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO 
 http://45.186.254.75:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO HD
+http://45.186.254.75:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO SD
 http://45.186.254.75:8000/play/a099/index.m3u8
 
@@ -647,6 +647,8 @@ http://45.186.254.75:8000/play/a03o/index.m3u8
 http://200.229.147.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CINEMA",HBO Xtreme HD
 http://45.186.254.75:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CINEMA",HBO Xtreme SD
+http://181.13.252.102:8000/play/a02b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg",Star Channel
 http://200.229.147.142:8000/play/a03d/index.m3u8
