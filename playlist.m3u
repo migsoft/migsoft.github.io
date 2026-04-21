@@ -630,9 +630,9 @@ http://45.173.75.4:2061/play/a061
 http://45.186.254.75:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://200.229.147.142:8000/play/a00q/index.m3u8
+http://45.186.254.75:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO HD
-http://177.10.184.193:8000/play/a02z/index.m3u8
+http://45.186.254.75:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO SD
 http://45.186.254.75:8000/play/a099/index.m3u8
 
