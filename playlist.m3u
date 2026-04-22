@@ -782,22 +782,22 @@ http://38.199.4.105:9999/play/a0gw/index.m3u8
 http://177.10.184.193:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png" group-title="MISCELANEOS",Sony Channel
-http://38.199.4.105:9999/play/a0mm/index.m3u8
+http://45.173.75.4:2061/play/a060
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-series-us.png" group-title="MISCELANEOS",TNT Series
-http://38.199.4.105:9999/play/a0mx/index.m3u8
+http://45.173.75.4:2061/play/a09v
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MISCELANEOS",National Geographic
-http://38.199.4.105:9999/play/a0np/index.m3u8
+http://45.173.75.4:2061/play/a05x
 
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MISCELANEOS",History
-http://38.199.4.105:9999/play/a0mi/index.m3u8
+http://45.173.75.4:2061/play/a05u
 
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="MISCELANEOS",H2
 http://177.10.184.193:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
-http://38.199.4.105:9999/play/a0mh/index.m3u8
+http://45.173.72.26:2072/play/a0da
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel HD
 http://45.173.75.4:2061/play/a05t
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
