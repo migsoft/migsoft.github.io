@@ -243,9 +243,13 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://38.199.4.105:9999/play/a0lz/index.m3u8
-#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
+http://170.82.113.51:8899/play/a0oj/index.m3u8
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
+http://181.78.79.131:8000/play/a0su
+#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://190.60.52.28:5001/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
+http;//170.82.113.51:8899/play/a0ow/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvu-bo.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -524,20 +528,6 @@ http://dnsplayervidex.x10.mx/play/gPGGq3veLMZ4lyfrkmDSxemvBde6qMrC9lTF6ltmE3lg4z
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
 http://190.151.80.242:9990/play/a0op/index.m3u8
 
-#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN
-http://45.177.21.6:9000/play/a015
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2
-http://45.177.21.6:9000/play/a017
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3
-http://45.177.21.6:9000/play/a01i
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="DEPORTES",ESPN 4
-http://45.177.21.6:9000/play/a01c
-#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
-#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
-http://45.177.21.6:9000/play/a00r
-
-
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2 SD
@@ -560,13 +550,13 @@ http://181.78.79.131:8000/play/a0r2
 http://181.13.252.102:8000/play/a078/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",FOX Sports
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=foxsports&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
+http://181.13.252.102:8000/play/a07j/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="606dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=foxsports2&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
+http://181.13.252.102:8000/play/a05c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=foxsports3&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
+http://181.13.252.102:8000/play/a02t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
 http://177.10.184.193:8000/play/a0e1/index.m3u8
@@ -601,8 +591,6 @@ http://190.117.20.37:8000/play/a07e/index.m3u8
 http://200.229.147.142:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine AR
-http://45.239.31.254:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine AR HD
 http://181.13.252.102:8000/play/a024/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
@@ -853,6 +841,9 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 #EXTINF:-1 tvg-id="DE | Motorvision TV" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
+#EXTINF:-1 tvg-id="BBC Top Gear" group-title="MOTOR" tvg-logo="https://i.imgur.com/S6Su6QH.png",Top Gear ES
+https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
+
 #EXTINF:-1 tvg-id="el-garage.ar" group-title="MOTOR" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -880,9 +871,6 @@ https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 
 #EXTINF:-1 tvg-id="VitalDrive" group-title="MOTOR" tvg-logo="https://i.imgur.com/XoR9zLh.png",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC Top Gear" group-title="MOTOR" tvg-logo="https://i.imgur.com/S6Su6QH.png",Top Gear ES
-https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 
 #EXTINF:-1 tvg-id="TRACE Sports Stars" group-title="MOTOR" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
