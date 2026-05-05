@@ -97,11 +97,15 @@ https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1
 http://45.177.21.6:9000/play/a00g
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1 HD
+http://181.66.249.173:8080/play/a0fh/index.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga1 MAX
 http://45.173.72.26:2072/play/a0d5
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1 MAX HD
-http://45.177.21.6:9000/play/a00h
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga1 MAX HD
+http://45.186.254.75:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga1 MAX SD
+http://179.43.96.253:8000/play/a2af/index.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8548bb65276145.Y3JvcCw5MTcsNzE4LDE4MSww.png" group-title="PERU",GolPeru
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=dsportsplus&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
@@ -604,18 +608,18 @@ http://45.173.75.4:2061/play/a061
 http://45.186.254.75:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO 
-http://45.186.254.75:8000/play/a017/index.m3u8
+http://181.66.249.173:8080/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO HD
-http://45.186.254.75:8000/play/a04s/index.m3u8
+http://190.60.48.151:8010/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO SD
-http://45.186.254.75:8000/play/a099/index.m3u8
+http://181.13.252.102:8000/play/a06o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
 http://200.229.147.142:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2 HD
 http://177.10.184.193:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2 SD
-http://45.186.254.75:8000/play/a03o/index.m3u8
+http://170.244.209.30:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CINEMA",HBO Xtreme
 http://200.229.147.142:8000/play/a00t/index.m3u8
@@ -711,27 +715,6 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One The Blacklist" tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="CINEMA",Sony One Blacklist
 https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Familia" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="CINEMA",FreeTV Familia
-https://stream.ads.ottera.tv/cl/260429d7p92u8bjlu50aohb70g/1920x1080_4787200_1_f.m3u8?i=475_16196
-
-#EXTINF:-1 tvg-id="Free TV Accion" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="CINEMA",Free TV Accion
-https://stream.ads.ottera.tv/cl/260429d7p924br2r68fe7ple00/1920x1080_4716800_1_f.m3u8?i=475_16200
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="CINEMA",Free TV Drama
-https://stream.ads.ottera.tv/cl/260429d7p93g9cst59v063bdn0/1920x1080_4787200_1_f.m3u8?i=475_16198
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="CINEMA",Free TV Estelar
-https://stream.ads.ottera.tv/cl/260429d7p940bo370fjba3mv6g/1920x1080_4716800_1_f.m3u8?i=475_16197
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="CINEMA",Free TV Live
-https://stream.ads.ottera.tv/cl/260429d7p94gfcceukat7c4pdg/1920x1080_4787200_1_f.m3u8?i=475_16195
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="CINEMA",Free TV Terror
-https://stream.ads.ottera.tv/cl/260429d7p94s7eq1qjl2p52800/1920x1080_4787200_1_f.m3u8?i=475_16194
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="CINEMA",Free TV Sureño
-https://stream.ads.ottera.tv/cl/260429d7p95c5ogs6ssc3ovii0/1920x1080_4715744_1_f.m3u8?i=475_16201
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="CINEMA",GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
@@ -787,6 +770,8 @@ http://177.10.184.193:8000/play/a02m/index.m3u8
 http://38.224.22.252:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo
 http://177.10.184.193:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo HD
+http://190.117.20.37:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png" group-title="MISCELANEOS",Discovery Turbo SD
 http://38.224.22.252:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_lam.png" group-title="MISCELANEOS",Discovery World HD  
