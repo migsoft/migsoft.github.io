@@ -520,6 +520,9 @@ http://190.151.80.242:9990/play/a0op/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN 
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD 
+http://45.186.254.75:8000/play/a07x/index.m3u8
+
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn2&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="DEPORTES",ESPN 3 
@@ -535,7 +538,7 @@ https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn7&key=VIDEX.LOL&s
 
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium
-http://181.78.79.131:8000/play/a0r2
+http://45.186.254.75:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN Premium HD
 http://181.13.252.102:8000/play/a078/index.m3u8?hls
 
