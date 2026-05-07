@@ -89,9 +89,6 @@ https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",BHTV.pe
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-cosmos-pe.png" group-title="PERU",TV Cosmos
-http://190.117.20.37:8000/play/a08q/index.m3u8
-
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="PERU",Ovacion
 https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w752333413.m3u8
 
@@ -121,7 +118,7 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
-http://181.66.253.124:8000/play/a1qq/index.m3u8
+http://199.188.103.176:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N
 http://45.186.254.75:8000/play/a09i/index.m3u8
