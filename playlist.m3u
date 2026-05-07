@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú 
 http://45.173.75.4:2061/play/a07d
@@ -52,7 +52,7 @@ http://45.186.254.75:8000/play/a0c6/index.m3u8
 http://38.199.4.105:9999/play/1117/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
-http://179.1.145.73:8040/play/a02v/index.m3u8
+http://199.188.103.176:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 
@@ -96,9 +96,9 @@ http://190.117.20.37:8000/play/a08q/index.m3u8
 https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w752333413.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1
-http://45.177.21.6:9000/play/a00g
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1 HD
 http://181.66.249.173:8080/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga 1 HD
+http://199.188.103.176:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/small_image_LIGA_1_MAX_fabe3155b8.png" group-title="PERU",Liga1 MAX
 http://45.173.72.26:2072/play/a0d5
@@ -112,6 +112,8 @@ https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=dsportsplus&key=VIDEX
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes 
 http://38.252.215.33:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes HD
+http://199.188.103.176:8000/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://190.117.20.37:8000/play/a08d/index.m3u8
@@ -143,7 +145,7 @@ http://45.173.75.4:2061/play/a074
 http://200.229.147.142:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
-http://38.199.4.105:9999/play/a0m0/index.m3u8
+http://190.60.48.151:8010/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
@@ -183,7 +185,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d97f682
 #EXTINF:-1 tvg-id="659" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS",EuroNews HD
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
-
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
@@ -207,7 +208,6 @@ http://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://38.199.4.105:9999/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN FHD
 http://217.26.190.76:8888/play/a0m6/index.m3u8
-
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 http://186.194.160.110:9002/play/a0bg/index.m3u8
@@ -240,10 +240,11 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 http://170.82.113.51:8899/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
 http://181.78.79.131:8000/play/a0su
+
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://190.60.52.28:5001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http;//170.82.113.51:8899/play/a0ow/index.m3u8
+http://170.82.113.51:8899/play/a0ow/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvu-bo.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -305,13 +306,13 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
-http://186.194.160.110:9002/play/a00z/index.m3u8
+http://190.60.55.141:9083/play/a0n4/index.m3u8
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
+http://147.75.116.250:8586/play/a01r
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol SD
 http://38.44.109.41:8003/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol FHD
-http://147.75.116.250:8586/play/a01r
 
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD2
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2
 http://186.194.160.110:9002/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
@@ -522,6 +523,8 @@ http://190.151.80.242:9990/play/a0op/index.m3u8
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN HD 
 http://45.186.254.75:8000/play/a07x/index.m3u8
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES",ESPN SD 
+http://181.176.155.7:8090/play/a1qh/index.m3u8
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES",ESPN 2
 https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=espn2&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL
