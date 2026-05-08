@@ -303,6 +303,10 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol H
+http://181.129.212.251:9897/play/a0k3
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol FHD
 http://190.60.55.141:9083/play/a0n4/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
 http://147.75.116.250:8586/play/a01r
