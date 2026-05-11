@@ -53,6 +53,9 @@ http://38.199.4.105:9999/play/1117/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 http://199.188.103.176:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO HD
+https://euc11.playlist.ttvnw.net/v1/playlist/CukEN3c8uR0n3iDehCIJo_xhyiS0UC2MG9om9mbADccph0iFDosrVJ1D8n1kMrri02WYKiCcx2fpMXEZ4DmtJ7xG_EirqEaw79IFdIWw4xlHmpwKkZlvJi2seGqhhzguxJhtCrOuQoszCU-o5YZGsBl8DgnEoaNB081hYehxv5aVEwk-dIqQXODbY3xvWail2I792saalafwpBI9vPOKxehN5XGmgXqShqAndxhotg1NJb8CKiCAedupOZo02S2wd9ByN-FA8KM9B6AS8rP11090F7LY1l9VyXfibr6gfqlIW-qZWYfMBSjX41JPSSwk0hZiwkxAejW8eI0Y6h-YlAgKC4TjP0uJsju-r3uALhvQgX-PsjKqJkoCRpIPqMmy-kjOni0CPtKkdlLn_ZWGGByqxfGGwiRrtQDsoyX64SYkdEA5wE5c-nilV9fjd9XA7YLBPX9wb6AafrMG6rbdZZBhqQkX6JE8KiSc68RhJAELwwkCHuDmwMVSHERSTrqwZhMSyHMVatMHRbV7b_MT95BGAvNzm7AETW8d2d3MFy-XQzAazepXIUCVA4gULHGVEKuwN53SQ8_WAf9-S2ThyWZmD0pbUO0ktotGha8u3_pTqQjX_vOnM_snod6UixGpX2RmENAm9enDJMfKIgj8fYpJgyy7QAn1sKKaBcyqxkasm1a6vsPXdPSvqgPcaIbRW6zH4EVWE4GRzhppbqLifP0Lq-O65DQL4w7AlVtW8nu8mGMcTYIin4MbNk8cvTOSafANtyiN7xqK0zl0nl29KHwCDynrdW-fVbwzccF5eAwZWyXmh7Y_T11XiyUaDO8xUuSC-GgmdjBMtSABKglldS13ZXN0LTIwjg8.m3u8
+
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=1002574536
 
