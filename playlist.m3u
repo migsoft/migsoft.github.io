@@ -589,35 +589,19 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 4575
+#EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax AR1
 http://45.173.75.4:2061/play/a01t
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax HD 190117
-http://190.117.20.37:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax SD 200229
-http://200.229.147.142:8000/play/a04h/index.m3u8
-
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 8243 a0gv
-http://8.243.126.131:8000/play/a0gv/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 8243 a0ky
-http://8.243.126.131:8000/play/a0ky/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 38252
-http://38.252.215.33:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 45173
+#EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax AR2 
 http://45.173.72.26:2072/play/a05q
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 45186
+
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax PE
 http://45.186.254.75:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 148222
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax CO
 http://148.222.230.197:8000/play/a0il/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 17710
-http://177.10.184.193:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 18178
-http://181.78.50.191:7225/play/a08y
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 20062 a083
-http://200.62.239.162:8000/play/a083/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 20062 a0bt
-http://200.62.239.162:8000/play/a0bt/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax 201240 a0a0
-http://201.240.104.137:8000/play/a0a0/index.m3u8?hls
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax CL
+http://200.229.147.142:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax EC
+http://8.243.126.131:8000/play/a0ky/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="CINEMA",Cine AR
 http://181.13.252.102:8000/play/a024/index.m3u8?hls
