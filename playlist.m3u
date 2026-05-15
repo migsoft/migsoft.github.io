@@ -430,7 +430,10 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-westerns-logo-png_seeklogo-452931.png" group-title="USA",Starz Encore Westerns
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Canal de las Estrellas
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://images.seeklogo.com/logo-png/1/1/azteca-7-logo-png_seeklogo-15011.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo-500x315.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
@@ -442,10 +445,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="MEXICO",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://images.seeklogo.com/logo-png/1/1/azteca-7-logo-png_seeklogo-15011.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
-
-#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
+#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://www.ictweek.uz/uploads/F5Q8C3029/click-01.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
@@ -553,7 +553,7 @@ http://201.240.104.137:8000/play/a0av/index.m3u8?hls
 http://45.173.75.4:2061/play/a06l
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="DEPORTES",ESPN 3 
 http://45.173.75.4:2061/play/a020
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="DEPORTES",ESPN 4 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-espn-4.png" group-title="DEPORTES",ESPN 4 
 http://45.173.75.4:2061/play/a063
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5 
 http://45.173.75.4:2061/play/a01r
@@ -861,13 +861,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db
 #EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://drivestudio.com/wp-content/uploads/2014/10/FUEL_03_logo_rollover.png",FuelTV
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="MOTOR",Discovery Turbo
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/39/1/discovery-turbo-logo-png_seeklogo-399386.png" group-title="MOTOR",Discovery Turbo
 http://200.229.147.142:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="MOTOR",Discovery Turbo FHD
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/39/1/discovery-turbo-logo-png_seeklogo-399386.png" group-title="MOTOR",Discovery Turbo FHD
 http://190.14.249.223:17032/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="MOTOR",Discovery Turbo HD
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/39/1/discovery-turbo-logo-png_seeklogo-399386.png" group-title="MOTOR",Discovery Turbo HD
 http://38.199.4.105:9999/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="MOTOR",Discovery Turbo SD
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/39/1/discovery-turbo-logo-png_seeklogo-399386.png" group-title="MOTOR",Discovery Turbo SD
 http://186.194.160.110:9002/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerNation" group-title="MOTOR" tvg-logo="https://i.imgur.com/jguTO8E.png",PowerNation
