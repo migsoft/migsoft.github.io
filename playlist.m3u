@@ -129,11 +129,14 @@ http://200.62.239.162:8000/play/a097/index.m3u8?hls
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="PERU",DSports
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",DSports
 http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://200.62.239.162:8000/play/a07g/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="NOTICIAS",CNN en Español
+http://200.229.147.142:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N
 http://45.186.254.75:8000/play/a09i/index.m3u8
@@ -152,9 +155,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atvplus-pe.png" group-title="NOTICIAS",ATV+ HD
 http://45.173.75.4:2061/play/a074
-
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
-http://200.229.147.142:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
 http://190.60.48.151:8010/play/a0ay/index.m3u8
@@ -275,10 +275,10 @@ http://45.186.254.75:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/46/3/tvp-television-publica-logo-png_seeklogo-462512.png" group-title="ARGENTINA",TV Pública
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public_tv_in.png" group-title="ARGENTINA",TV Pública
 http://181.13.252.102:8000/play/a056/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/32/1/america-tv-logo-png_seeklogo-324848.png" group-title="ARGENTINA",América TV
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s320/america-logo2020.png" group-title="ARGENTINA",América TV
 http://199.188.103.176:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
@@ -308,7 +308,7 @@ http://181.13.252.102:8000/play/a01m/index.m3u8?hls
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://images.seeklogo.com/logo-png/40/1/deportv-logo-png_seeklogo-404807.png" group-title="ARGENTINA",DeporTV
 http://181.13.252.102:8000/play/a06h/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="ARGENTINA",Canal Orbe 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orbe-21-ar.png" group-title="ARGENTINA",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARGENTINA",Argentinísima
@@ -553,7 +553,7 @@ http://201.240.104.137:8000/play/a0av/index.m3u8?hls
 http://45.173.75.4:2061/play/a06l
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="DEPORTES",ESPN 3 
 http://45.173.75.4:2061/play/a020
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="DEPORTES",ESPN 4 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="DEPORTES",ESPN 4 
 http://45.173.75.4:2061/play/a063
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5 
 http://45.173.75.4:2061/play/a01r
@@ -893,7 +893,7 @@ https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-ESBB19000012F" tvg-id="ESBB19000012F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="MUSICA",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PlanetaTV Music
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/planeta-tv-bg.png" group-title="MUSICA",PlanetaTV Music
 https://scl.edge.grupoz.cl/planetatv/live/chunklist_w1655783517.m3u8
 
 #EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
@@ -1003,13 +1003,13 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS",ABC News
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://images.seeklogo.com/logo-png/42/1/newsmax-logo-png_seeklogo-429599.png" group-title="NEWS",Newsmax
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/1.m3u8
 
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://www.freepnglogos.com/uploads/cnn-news-movies-transparent-png-6.png" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/067/565/435/small/cnn-logo-rounded-app-icon-free-png.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://foroalfa.org/imagenes/ilustraciones/1515.jpg" group-title="NEWS",USA Today
@@ -1024,13 +1024,13 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="NEWS",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.paramountshop.co.uk/cdn/shop/files/cbs-news.png" group-title="NEWS",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-news-network-ca.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://images.seeklogo.com/logo-png/5/2/france-24-logo-png_seeklogo-57271.png" group-title="NEWS",France 24 HD
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/11/Euronews-Logo.png" group-title="NEWS",Euronews HD
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-montenegro-fr-me.png" group-title="NEWS",Euronews HD
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 #EXTINF:-1 tvg-id="Arirang TV HD" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NEWS",Arirang TV HD
