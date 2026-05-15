@@ -645,9 +645,9 @@ http://181.78.50.191:7225/play/a082
 #EXTINF:-1 tvg-id="658" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV SD
 http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO-500x281.png" group-title="CINEMA",HBO 
+#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica_hd.png" group-title="CINEMA",HBO 
 http://181.66.249.173:8080/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO-500x281.png" group-title="CINEMA",HBO HD
+#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://images.seeklogo.com/logo-png/17/1/hbo-logo-png_seeklogo-178109.png" group-title="CINEMA",HBO HD
 http://190.60.48.151:8010/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO-500x281.png" group-title="CINEMA",HBO SD
 http://181.13.252.102:8000/play/a06o/index.m3u8?hls
@@ -676,11 +676,11 @@ http://190.117.20.37:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/29/1/paramount-channel-latin-america-logo-png_seeklogo-298612.png" group-title="CINEMA",Paramount Network
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
-#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo-500x281.png" group-title="CINEMA",TNT
+#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
 http://177.10.184.193:8000/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo-500x281.png" group-title="CINEMA",TNT HD
+#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT HD
 http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
-#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo-500x281.png" group-title="CINEMA",TNT SD
+#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT SD
 http://200.229.147.142:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
@@ -704,7 +704,7 @@ http://45.173.75.4:2061/play/a09e
 #EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal SD
 http://177.10.184.193:8000/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Golden_2020.png" group-title="CINEMA",Golden
 http://45.186.254.75:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="CINEMA",Golden HD
 http://45.173.75.4:2061/play/a06c
@@ -718,15 +718,15 @@ http://38.199.4.105:9999/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC SD
 http://181.78.211.244:8005/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-500x281.png",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CINEMA ESTE HD
 http://177.10.184.193:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="1573dtv.cl" group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-500x281.png",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="1573dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL COMEDY HD
 http://177.10.184.193:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-id="1574dtv.cl" group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-500x281.png",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="1574dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CRIME HD
 http://177.10.184.193:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="576dtv.cl" group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-500x281.png",UNIVERSAL PREMIERE O HD
+#EXTINF:-1 tvg-id="576dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL PREMIERE O HD
 http://177.10.184.193:8000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-500x281.png",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL REALITY HD
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network (Rakuten TV)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",MyTime Movie Network
@@ -790,11 +790,11 @@ http://45.173.75.4:2061/play/a05u
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/2/h2-tv-logo-png_seeklogo-314658.png" group-title="MISCELANEOS",H2
 http://177.10.184.193:8000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/35/1/discovery-logo-png_seeklogo-357192.png" group-title="MISCELANEOS",Discovery Channel
 http://45.173.72.26:2072/play/a0da
-#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel HD
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/35/1/discovery-logo-png_seeklogo-357192.png" group-title="MISCELANEOS",Discovery Channel HD
 http://45.173.75.4:2061/play/a05t
-#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MISCELANEOS",Discovery Channel SD
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/35/1/discovery-logo-png_seeklogo-357192.png" group-title="MISCELANEOS",Discovery Channel SD
 http://190.117.20.37:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://e7.pngegg.com/pngimages/630/335/png-clipart-investigation-discovery-television-show-logo-id-miscellaneous-television.png" group-title="MISCELANEOS",Discovery ID HD   
@@ -858,7 +858,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="MotorRacing" group-title="MOTOR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png",MotorRacing
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
 
-#EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://drivestudio.com/wp-content/uploads/2014/10/FUEL_03_logo_rollover.png",FuelTV
+#EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://cache-plus.fuel.tv/images/fueltv_stacked.png",FuelTV
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/39/1/discovery-turbo-logo-png_seeklogo-399386.png" group-title="MOTOR",Discovery Turbo
