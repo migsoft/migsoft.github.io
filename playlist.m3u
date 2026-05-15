@@ -372,21 +372,21 @@ http://38.44.109.41:8003/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://storage-ott.cdnmedia.tv/trecetv/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="COLOMBIA",Trece+
 http://186.194.160.110:9002/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo HD
+#EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="USA",Telemundo HD
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo PR
+#EXTINF:-1 tvg-id="Telemundo.pr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="USA",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Romance" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Romance
+#EXTINF:-1 tvg-id="Telemundo Romance" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="USA",Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_2.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion
+#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="USA",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="USA",Telemundo Accion SD
+#EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="USA",Telemundo Accion SD
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 
-#EXTINF:-1 tvg-id="625" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="USA",Univision
+#EXTINF:-1 tvg-id="625" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision-latinoamerica-us.png" group-title="USA",Univision
 http://186.194.160.110:9002/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="USA",Universal Crime
@@ -427,7 +427,7 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-black-logo-png_seeklogo-452937.png" group-title="USA",Starz Encore Black 
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="USA",Starz Encore Westerns
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-westerns-logo-png_seeklogo-452931.png" group-title="USA",Starz Encore Westerns
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO",Canal de las Estrellas
@@ -442,7 +442,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="MEXICO",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://images.seeklogo.com/logo-png/1/1/azteca-7-logo-png_seeklogo-15011.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 #EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
@@ -454,10 +454,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",Azteca Uno -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="MEXICO",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://images.seeklogo.com/logo-png/2/1/canal-5-logo-png_seeklogo-25540.png" group-title="MEXICO",Canal 5
 http://177.10.184.193:8000/play/a0ej/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen-informativa-mx.png" group-title="MEXICO",Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://images.seeklogo.com/logo-png/37/1/grupo-imagen-logo-png_seeklogo-370169.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="MEXICO",Unicable
@@ -553,7 +553,7 @@ http://201.240.104.137:8000/play/a0av/index.m3u8?hls
 http://45.173.75.4:2061/play/a06l
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="DEPORTES",ESPN 3 
 http://45.173.75.4:2061/play/a020
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="DEPORTES",ESPN 4 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="DEPORTES",ESPN 4 
 http://45.173.75.4:2061/play/a063
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="DEPORTES",ESPN 5 
 http://45.173.75.4:2061/play/a01r
@@ -579,7 +579,7 @@ http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png",Fox Sports 3
 http://181.13.252.102:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-mx.png",Fox Sports Premium
+#EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png",Fox Sports Premium
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1
@@ -594,7 +594,7 @@ https://dlhd.vynx.workers.dev/play/447?key=vynx
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png",DAZN 4
 https://dlhd.vynx.workers.dev/play/448?key=vynx
 
-#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png",TUDN 
+#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png",TUDN 
 http://200.229.147.142:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
