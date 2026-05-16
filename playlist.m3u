@@ -129,19 +129,19 @@ http://200.62.239.162:8000/play/a097/index.m3u8?hls
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="PERU",DSports
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports
 http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://200.62.239.162:8000/play/a07g/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="NOTICIAS",CNN en Español
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
 http://200.229.147.142:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png" group-title="NOTICIAS",Canal N
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
 http://45.186.254.75:8000/play/a09i/index.m3u8
 
-#EXTINF:-1 tvg-id="475" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="NOTICIAS" tvg-name="RPP",RPP
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP
 http://181.224.200.5:2277/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
@@ -230,10 +230,10 @@ http://186.194.160.110:9002/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 http://186.194.160.110:9002/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-id="624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="CHILE",TVN3
+#EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+ HD
@@ -258,10 +258,10 @@ http://190.60.52.28:5001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
 http://170.82.113.51:8899/play/a0ow/index.m3u8
 
-#EXTINF:-1 tvg-id="586" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvu-bo.png" group-title="CHILE",TVU
+#EXTINF:-1 tvg-id="586" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="585" tvg-logo="https://tvenserio.com/wp-content/uploads/2023/09/uchiletv_02.png" group-title="CHILE",U Chile TV (geo)
+#EXTINF:-1 tvg-id="585" tvg-logo="https://i.ibb.co/dGpwrLX/UChile-TV-logo-2020.png" group-title="CHILE",U Chile TV (geo)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream0/chunks.m3u8?nimblesessionid=9302469
 
 #EXTINF:-1 tvg-id="TVR.cl" tvg-logo="https://w7.pngwing.com/pngs/952/807/png-transparent-tvr-craiova-romanian-television-tvr3-tvr3-television-angle-text.png" group-title="CHILE",TVR HD
@@ -442,7 +442,7 @@ https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="MEXICO",Azteca Internacional
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-clic-mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
