@@ -389,13 +389,13 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:-1 tvg-id="625" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-us.png" group-title="USA",Univision
 http://186.194.160.110:9002/play/a0gj/index.m3u8
 
-#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="USA",Universal Crime
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true" group-title="USA",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
 
-#EXTINF:-1 tvg-id="1572dtv.cl tvg-logo="https://universalperu.com/wp-content/uploads/2024/01/cropped-Logo-peque-1.png" group-title="USA",Universal Action
+#EXTINF:-1 tvg-id="1572dtv.cl tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="USA",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
 
-#EXTINF:-1 tvg-id="1577dtv.cl" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/6223e03b4eaa833cc92a1762/0x0.png" group-title="USA",Universal Movies
+#EXTINF:-1 tvg-id="1577dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true" group-title="USA",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/showtime-women-us.png" group-title="USA",Showtime Women
@@ -417,17 +417,17 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/showtime-showcase-us.png" group-title="USA",Showtime Show Case
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/13/2/starz-west-logo-png_seeklogo-131889.png" group-title="USA",Starz West
+#EXTINF:-1 tvg-logo="https://archive.org/download/StarzWest/starz%20west.png" group-title="USA",Starz West
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/encore-east-logo-png_seeklogo-47736.png" group-title="USA",Starz East
+#EXTINF:-1 tvg-logo="https://archive.org/download/StarzEast/starz%20east.png" group-title="USA",Starz East
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-action-logo-png_seeklogo-452938.png" group-title="USA",Starz Encore Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="USA",Starz Encore Action
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/13/2/starz-logo-png_seeklogo-131885.png" group-title="USA",Starz Encore 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="USA",Starz Encore 
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-black-logo-png_seeklogo-452937.png" group-title="USA",Starz Encore Black 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkQgShJ.png" group-title="USA",Starz Encore Black 
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/starz-encore-westerns-logo-png_seeklogo-452931.png" group-title="USA",Starz Encore Westerns
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="USA",Starz Encore Westerns
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
@@ -893,7 +893,7 @@ https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-ESBB19000012F" tvg-id="ESBB19000012F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBB19000012F_20220323T081441SQUARE.png_20220323081444.png" group-title="MUSICA",Clubbing TV
 https://d2osdhsyig9wgz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2wno08ptgbo4f-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/planeta-tv-bg.png" group-title="MUSICA",PlanetaTV Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="MUSICA",PlanetaTV Music
 https://scl.edge.grupoz.cl/planetatv/live/chunklist_w1655783517.m3u8
 
 #EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
