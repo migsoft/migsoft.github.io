@@ -6,7 +6,7 @@ http://45.173.75.4:2061/play/a07d
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
 http://8.243.126.131:8000/play/a04k/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Identidad_peruana_ipe_2019.png" group-title="PERU",Ipe 
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="PERU",Ipe 
 http://45.173.75.4:2061/play/a07a
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
@@ -72,11 +72,11 @@ http://148.222.230.197:8000/play/a0gc/index.m3u8?hls
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV SD
 http://45.186.254.75:8000/play/a09q/index.m3u8
 
-#EXTINF:-1 tvg-id="547" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="PERU",Nativa TV
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
-#EXTINF:-1 tvg-id="547" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="PERU",Nativa TV HD
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV HD
 http://148.222.230.197:8000/play/a0ls/index.m3u8?hls
-#EXTINF:-1 tvg-id="547" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="PERU",Nativa TV SD
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV SD
 http://201.240.104.137:8000/play/a09m/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
@@ -144,7 +144,7 @@ http://45.186.254.75:8000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="475" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpp_tv_pe.png" group-title="NOTICIAS" tvg-name="RPP",RPP
 http://181.224.200.5:2277/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/960px-Latina_Noticias_Noviembre_2024.png" group-title="NOTICIAS",Latina Noticias
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-tvpe-noticias1.png" group-title="NOTICIAS",TV PERU Noticias 
@@ -594,14 +594,14 @@ https://dlhd.vynx.workers.dev/play/447?key=vynx
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-4-es.png",DAZN 4
 https://dlhd.vynx.workers.dev/play/448?key=vynx
 
-#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png",TUDN 
+#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://200.229.147.142:8000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN SPORTS XTRA ñ
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png",beIN SPORTS XTRA ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png",beIN Sports XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax AR1
@@ -997,13 +997,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NEWS",FOX Live Now HD
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://images.seeklogo.com/logo-png/9/1/nbc-news-logo-png_seeklogo-97708.png" group-title="NEWS",NBC News Now
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="NEWS",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS",ABC News
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://images.seeklogo.com/logo-png/42/1/newsmax-logo-png_seeklogo-429599.png" group-title="NEWS",Newsmax
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="NEWS",Newsmax
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
