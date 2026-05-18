@@ -168,7 +168,9 @@ http://181.209.96.155:10000/play/a11m/index.m3u8
 http://181.209.96.155:10000/play/a11q/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
-http://181.209.96.155:10000/play/a140/index.m3u8
+http://45.5.151.147:8000/play/a00b/index.m3u8?hls
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN HD
+http://181.13.252.102:8000/play/a058/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
 http://181.209.96.155:10000/play/a11n/index.m3u8
