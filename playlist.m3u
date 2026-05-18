@@ -162,24 +162,24 @@ http://45.173.75.4:2061/play/a074
 http://190.60.48.151:8010/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+http://181.209.96.155:10000/play/a11m/index.m3u8
 
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
-http://181.13.252.102:8000/play/a01s/index.m3u8?hls
+http://181.209.96.155:10000/play/a11q/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
+http://181.209.96.155:10000/play/a140/index.m3u8
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
+http://181.209.96.155:10000/play/a11n/index.m3u8
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
-http://181.13.252.102:8000/play/a01q/index.m3u8?hls
+http://181.209.96.155:10000/play/a11o/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntn-24-co.png" group-title="NOTICIAS",NTN24
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NTN24
 http://181.78.20.119:58002/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://cdn-1.webcatalog.io/catalog/adn40/adn40-icon-filled-256.png" group-title="NOTICIAS",ADN 40
@@ -273,9 +273,11 @@ https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
-http://45.186.254.75:8000/play/a0bj/index.m3u8
+http://181.209.96.155:10000/play/a15e/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece SD
+http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
 http://181.13.252.102:8000/play/a056/index.m3u8?hls
@@ -284,15 +286,13 @@ http://181.13.252.102:8000/play/a056/index.m3u8?hls
 http://199.188.103.176:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://45.170.130.224:8000/play/a03n/index.m3u8
+http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe FD
 http://181.13.252.102:8000/play/a06c/index.m3u8?hls
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe SD
-http://38.199.4.105:9999/play/a0p9/index.m3u8
+http://45.170.130.224:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
-#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve HD
 http://181.13.252.102:8000/play/a04h/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png" group-title="ARGENTINA",Net TV HD
@@ -305,10 +305,10 @@ https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/encuentro-ar.png" group-title="ARGENTINA",Encuentro
-http://181.13.252.102:8000/play/a01m/index.m3u8?hls
+http://181.209.96.155:10000/play/a11k/index.m3u8
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/deportv-ar.png" group-title="ARGENTINA",DeporTV
-http://181.13.252.102:8000/play/a06h/index.m3u8?hls
+http://181.209.96.155:10000/play/a15s/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-orbe21-ar.png" group-title="ARGENTINA",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
@@ -322,7 +322,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w118869
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol FHD
-http://181.129.212.251:9897/play/a0k3
+http://190.14.249.223:17032/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
 http://147.75.116.250:8586/play/a01r
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol SD
@@ -330,6 +330,8 @@ http://38.44.109.41:8003/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2
 http://186.194.160.110:9002/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2 HD
+http://190.14.249.223:17032/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
 http://147.75.116.250:8586/play/a01n
@@ -340,7 +342,7 @@ http://181.78.8.199:8000/play/a0d0/index.m3u8
 http://186.194.160.110:9002/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN
-http://186.194.160.110:9002/play/a00r/index.m3u8
+http://190.14.249.223:17032/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN HD
 http://181.78.8.199:8000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN SD
@@ -348,6 +350,8 @@ http://181.78.79.131:8000/play/a0l4
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://tvimagenes.com.co/img/rcnhd2.png" group-title="COLOMBIA",RCN HD2
 http://186.194.160.110:9002/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://tvimagenes.com.co/img/rcnhd2.png" group-title="COLOMBIA",RCN HD2 HD
+http://190.14.249.223:17032/play/a082/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://www.condista.com/wp-content/uploads/2025/02/rcn-mas.png" group-title="COLOMBIA",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
