@@ -851,6 +851,35 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/weather-spy.gif" group-title="MISCELANEOS",WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Ice Pilots
+https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Mi Bella Genio
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Mi Coche Clásico
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Monstruos de Rio
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Obsesión por los Autos
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",Velocidad
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",The Walking Dead by AMC
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+#EXTINF:-1 tvg-id="" group-title="MISCELANEOS",UFC (720p)
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+
 #EXTINF:-1 tvg-id="Motorvision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision ES
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
@@ -1056,6 +1085,3 @@ https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://radiomelodia.com.pe/imgs/logo_melodia.png" group-title="RADIO" tvg-name="Radio Nacional Perú",Radio Melodía Perú
 http://stream.radiomelodia.com.pe:8000/radio.mp3
-
-
-
