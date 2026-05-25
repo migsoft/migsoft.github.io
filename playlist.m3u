@@ -45,11 +45,11 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8   
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax
-http://45.173.75.4:2061/play/a07e
+http://201.240.104.137:8000/play/a07d/index.m3u8?hls
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax HD
-http://38.210.4.182:8000/play/a0nt/index.m3u8?hls
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax SD
 http://8.243.126.131:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax SD
+http://38.210.4.182:8000/play/a0nt/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 http://148.222.230.197:8000/play/a0j5/index.m3u8?hls
