@@ -44,6 +44,8 @@ http://190.117.20.37:8000/play/a07z/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="PERU",Latina HD
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb271571699967324bb93ae6a&ndvc=0
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="PERU",Latina SD
+http://148.222.230.197:8000/play/a0g3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="LATINA CLASICOS.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/26.1.png" group-title="PERU",Latina Clasicos
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8   
@@ -118,7 +120,7 @@ http://45.173.72.26:2072/play/a0d5
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX FHD
 http://190.117.20.37:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX HD
-http://187.102.208.83:8000/play/a05a/index.m3u8?hls
+http://179.43.96.253:8000/play/a2af/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX SD
 http://200.60.124.25:8000/play/a0gj/index.m3u8?hls
 
@@ -126,13 +128,13 @@ http://200.60.124.25:8000/play/a0gj/index.m3u8?hls
 http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes 
-http://201.240.104.137:8000/play/a07a/index.m3u8?hls
+http://148.222.230.197:8000/play/a0mj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
-http://179.43.96.253:8000/play/a2af/index.m3u8
+http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports
-http://38.252.215.33:8000/play/a082/index.m3u8
+http://148.222.230.197:8000/play/a0mm/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
