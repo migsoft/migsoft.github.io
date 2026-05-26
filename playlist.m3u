@@ -224,8 +224,6 @@ http://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://38.199.4.105:9999/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN FHD
-http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
 http://186.194.160.110:9002/play/a0bg/index.m3u8
