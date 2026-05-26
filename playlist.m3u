@@ -543,8 +543,6 @@ http://92.176.119.180:2095/play/a1g2
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco
 http://92.176.119.180:2095/play/a1fq
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco HD
-https://dlhd.vynx.workers.dev/play/532?key=vynx
 
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/clan-es.png" group-title="ESPANA" tvg-name="Clan",Clan
 https://92.176.119.180:2095/play/a1fu
@@ -553,9 +551,6 @@ https://92.176.119.180:2095/play/a1fu
 http://38.199.4.105:9999/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports HD
 http://181.13.252.102:8000/play/a0bc/index.m3u8
-
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports FAN
-http://200.63.107.94:8000/play/a039/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -579,7 +574,6 @@ http://45.173.75.4:2061/play/a01r
 http://45.173.75.4:2061/play/a017
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-7-lam.png" group-title="DEPORTES",ESPN 7 
 http://45.173.75.4:2061/play/a016
-
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
 http://45.186.254.75:8000/play/a0a7/index.m3u8
@@ -606,11 +600,11 @@ https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-1-es.png",DAZN 1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-2-es.png",DAZN 2
-https://dlhd.vynx.workers.dev/play/446?key=vynx
+http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-3-es.png",DAZN 3
-https://dlhd.vynx.workers.dev/play/447?key=vynx
+http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-4-es.png",DAZN 4
-https://dlhd.vynx.workers.dev/play/448?key=vynx
+http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://200.229.147.142:8000/play/a096/index.m3u8
@@ -622,19 +616,12 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png",beIN Sports XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax AR1
-http://45.173.75.4:2061/play/a01t
-#EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax AR2 
-http://45.173.72.26:2072/play/a05q
-
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax PE
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax CO
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax HD
 http://148.222.230.197:8000/play/a0il/index.m3u8?hls
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax CL
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax SD
 http://200.229.147.142:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax EC
-http://8.243.126.131:8000/play/a0ky/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
 http://181.13.252.102:8000/play/a024/index.m3u8?hls
