@@ -137,7 +137,7 @@ http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 http://148.222.230.197:8000/play/a0mm/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
-http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
+http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
 http://200.229.147.142:8000/play/a01j/index.m3u8
@@ -808,6 +808,8 @@ http://177.10.184.193:8000/play/a02m/index.m3u8
 http://38.224.22.252:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo
 http://177.10.184.193:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo FHD
+http://astra.fibernetisp.com.co/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo HD
 http://190.117.20.37:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo SD
