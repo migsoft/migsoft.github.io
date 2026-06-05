@@ -230,7 +230,7 @@ http://186.194.160.110:9002/play/a0bg/index.m3u8
 http://186.194.160.110:9002/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://186.194.160.110:9002/play/a065/index.m3u8
+http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
@@ -251,14 +251,14 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://170.82.113.51:8899/play/a0oj/index.m3u8
+http://190.93.229.30:8000/play/a0j9/index.m3u8u?hls
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
 http://181.78.79.131:8000/play/a0su
 
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://190.60.52.28:5001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://170.82.113.51:8899/play/a0ow/index.m3u8
+http://190.93.229.30:8000/play/a0j2/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -287,7 +287,7 @@ http://181.209.96.155:10000/play/a13y/index.m3u8
 http://45.5.151.147:8000/play/a00h/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
-http://181.209.96.155:10000/play/america/index.m3u8
+http://157.100.248.242:8880/play/a09f/index.m3u8?hls
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV HD
 http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV SD
@@ -572,7 +572,7 @@ http://45.173.75.4:2061/play/a017
 http://45.173.75.4:2061/play/a016
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
-http://45.186.254.75:8000/play/a0a7/index.m3u8
+http://190.93.229.30:8000/play/a0cf/index.m3u8u?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium HD
 http://8.243.126.131:8000/play/a0no/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium SD
