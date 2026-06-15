@@ -1,55 +1,55 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV PERU
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+http://179.1.146.22:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
-http://45.173.75.4:2061/play/a08h
+http://181.224.200.5:2277/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-pe.png" group-title="PERU",ATV
-http://45.173.75.4:2061/play/a07c
+http://179.1.146.22:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atvplus-pe.png" group-title="PERU",ATV+
-http://45.173.75.4:2061/play/a074
+http://148.222.230.197:8000/play/a0g9/index.m3u8?hls
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="PERU",Latina
-http://45.173.75.4:2061/play/a09y
+http://179.1.146.22:8000/play/a0p0/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://45.173.75.4:2061/play/a07b
+http://179.1.146.22:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willax_tv_pe.png" group-title="PERU",Willax TV
-http://45.173.75.4:2061/play/a07e
+http://179.1.146.22:8000/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="PERU",Global TV 
-http://45.173.75.4:2061/play/a07f
+http://179.1.146.22:8000/play/a0iq/index.m3u8
 
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://38.199.4.105:9999/play/a01a/index.m3u8
+http://38.7.197.119:4000/play/a01n/index.m3u8?hls
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png" group-title="CHILE",TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
-http://186.194.160.110:9002/play/a0bg/index.m3u8
+http://38.7.197.119:4000/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://186.194.160.110:9002/play/a0bb/index.m3u8
+http://38.7.197.119:4000/play/a01j/index.m3u8?hls
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://186.194.160.110:9002/play/a065/index.m3u8
+http://38.7.197.119:4000/play/a00f/index.m3u8?hls
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="CHILE",CNN Chile
-http://38.199.4.105:9999/play/a0m0/index.m3u8
+http://190.93.229.30:8000/play/a0c8/index.m3u8u?hls
 
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",Canal 13
-http://181.209.37.74:8001/play/a07b/index.m3u8
+http://181.209.96.155:10000/play/a15e/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARGENTINA",América TV
-http://181.209.37.74:8001/play/a094/index.m3u8
+http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARGENTINA",Canal 9
-http://181.209.37.74:8001/play/a08k/index.m3u8
+http://181.209.96.155:10000/play/a13z/index.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://181.209.37.74:8001/play/a08a/index.m3u8
+http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARGENTINA",TV Publica
-http://181.209.37.74:8001/play/a095/index.m3u8
+http://181.209.96.155:10000/play/a13y/index.m3u8
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARGENTINA" user-agent="iPhone",TN
-http://181.209.37.74:8001/play/a097/index.m3u8
+http://181.209.96.155:10000/play/a140/index.m3u8
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",Canal 26
-http://181.209.37.74:8001/play/a05x/index.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARGENTINA",Net TV
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -57,34 +57,34 @@ https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://200.229.147.142:8000/play/a022/index.m3u8
+http://8.243.126.131:8000/play/a0e6/index.m3u8?hls
 #EXTINF:-1 tvg-id="509dtv.ar" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINEMA",Cinemax
-http://38.44.109.41:8003/play/a023/index.m3u8
+http://45.186.254.75:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinecanal-us.png" group-title="CINEMA",Cinecanal
-http://38.44.109.41:8003/play/a03a/index.m3u8
+http://179.1.146.22:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-chile-us-cl.png" group-title="CINEMA",HBO
-http://200.229.147.142:8000/play/a00q/index.m3u8
+http://190.60.48.151:8010/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_lam.png" group-title="CINEMA",HBO2
-http://200.229.147.142:8000/play/a00r/index.m3u8
+http://177.10.184.193:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CINEMA",HBO Xtreme
-http://200.229.147.142:8000/play/a00t/index.m3u8
+http://45.186.254.75:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
-http://200.229.147.142:8000/play/a01y/index.m3u8
+http://38.199.4.105:9999/play/a0h8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
-http://200.229.147.142:8000/play/a01j/index.m3u8
+http://179.1.146.22:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="560" tvg-logo="https://www.pressenza.com/wp-content/uploads/2025/06/Russia-today-logo.svg_.png" group-title="NOTICIAS" tvg-name="RT en Español",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS" tvg-name="France 24 Español",France 24 Español
-http://200.229.147.142:8000/play/a01l/index.m3u8
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now HD
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="659" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS" tvg-name="Euronews ES",Euronews ES
+#EXTINF:-1 tvg-id="659" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS" tvg-name="Euronews ES",Euronews
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="NOTICIAS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
