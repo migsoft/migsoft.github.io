@@ -304,11 +304,7 @@ http://147.75.116.250:8586/play/a01r
 http://38.44.109.41:8003/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2
-http://186.194.160.110:9002/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2 HD
-http://190.14.249.223:17032/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2 SD
-http://190.102.120.20:8000/play/a03j/index.m3u8?hls
+http://179.1.139.84:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
 http://147.75.116.250:8586/play/a01n
@@ -370,7 +366,7 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 
 #EXTINF:-1 tvg-id="625" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-us.png" group-title="USA",Univision
-http://186.194.160.110:9002/play/a0gj/index.m3u8
+http://181.78.21.46:8009/play/a02p
 
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true" group-title="USA",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
