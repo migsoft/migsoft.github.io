@@ -123,8 +123,10 @@ http://190.108.93.180:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports
 http://190.108.93.180:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports HD
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
 http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
@@ -218,7 +220,7 @@ http://45.236.151.86:3232/play/a1gm/index.m3u8
 http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
-http://200.115.120.1:8000/play/ca070/index.m3u8?hls
+http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -354,6 +356,9 @@ http://38.44.109.41:8003/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://storage-ott.cdnmedia.tv/trecetv/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="COLOMBIA",Trece+
 http://186.194.160.110:9002/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COLOMBIA",Win+
+http://8.243.126.131:8000/play/a025/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/telemundo-us.png" group-title="USA",Telemundo HD
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
