@@ -64,7 +64,7 @@ http://45.186.254.75:8000/play/a0c9/index.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV 
-http://45.173.75.4:2061/play/a07f
+http://45.236.151.86:3232/play/a14q/index.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV HD
 http://148.222.230.197:8000/play/a0gc/index.m3u8?hls
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV SD
@@ -177,7 +177,7 @@ http://181.78.20.119:58002/play/a061/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="NOTICIAS",N+ Foro
-https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
+http://38.65.175.87:8000/play/a0ny/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/mm/milenio-tv-mx.png" group-title="NOTICIAS",Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -341,7 +341,7 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://www.utadeo.edu.co/sites/tadeo/files/node/wysiwyg/canal_capital.png" group-title="COLOMBIA",Canal Capital
-http://186.194.160.110:9002/play/a00w/index.m3u8
+http://190.60.46.226:8888/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="137dtv.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
@@ -420,7 +420,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+http://38.65.175.87:8000/play/a0bq/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -472,7 +472,7 @@ http://148.230.149.45:1021/play/a00y/index.m3u8
 http://148.230.149.45:1021/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="ESPANA",Hola! TV
-http://200.229.147.142:8000/play/a03n/index.m3u8
+http://38.65.175.87:8000/play/a0db/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
 http://92.176.119.180:2095/play/a1fo
