@@ -466,20 +466,10 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPANA",Antena 3 Internacional
-http://200.229.147.142:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPANA",Antena 3 Internacional SD
-http://38.224.22.252:8000/play/a00b/index.m3u8
-
+http://148.230.149.45:1021/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries
-http://200.229.147.142:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries HD
-http://186.194.160.110:9002/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries SD
-http://38.224.22.252:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries FHD
-http://dnsplayervidex.x10.mx/play/gPGGq3veLMZ4lyfrkmDSxQ9htqoBJyAh4bSUhF11XBZTYE-PPgZpkxZ4aqeXU0CH/m3u8
-
+http://148.230.149.45:1021/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="ESPANA",Hola! TV
 http://200.229.147.142:8000/play/a03n/index.m3u8
@@ -730,35 +720,29 @@ http://38.199.4.105:9999/play/a0gw/index.m3u8
 http://177.10.184.193:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/sony-channel-lam.png" group-title="MISCELANEOS",Sony Channel
-http://45.173.75.4:2061/play/a060
+http://38.44.109.41:8003/play/a0hy/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-series-ar.png" group-title="MISCELANEOS",TNT Series
-http://45.173.75.4:2061/play/a09v
+http://38.44.109.41:8003/play/a0c5/index.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" group-title="MISCELANEOS",National Geographic
 http://45.173.75.4:2061/play/a05x
 
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history1.png" group-title="MISCELANEOS",History
-http://45.173.75.4:2061/play/a05u
+http://38.44.109.41:8003/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history21.png" group-title="MISCELANEOS",H2
 http://177.10.184.193:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-channel-ar.png" group-title="MISCELANEOS",Discovery Channel
-http://45.173.72.26:2072/play/a0da
-#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-channel-ar.png" group-title="MISCELANEOS",Discovery Channel HD
-http://45.173.75.4:2061/play/a05t
-#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-channel-ar.png" group-title="MISCELANEOS",Discovery Channel SD
 http://190.117.20.37:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/id-investigation-discovery-ar.png" group-title="MISCELANEOS",Discovery ID HD   
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/id-investigation-discovery-ar.png" group-title="MISCELANEOS",Discovery ID HD
 http://177.10.184.193:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-kids-ar.png" group-title="MISCELANEOS",Discovery Kids HD 
+#EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-kids-ar.png" group-title="MISCELANEOS",Discovery Kids HD
 http://177.10.184.193:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-science-ar.png" group-title="MISCELANEOS",Discovery Science
 http://177.10.184.193:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-science-ar.png" group-title="MISCELANEOS",Discovery Science HD
-http://38.224.22.252:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo
 http://177.10.184.193:8000/play/a05j/index.m3u8
