@@ -317,15 +317,14 @@ http://147.75.116.250:8586/play/a01n
 
 #EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
 http://181.78.8.199:8000/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional SD
-http://186.194.160.110:9002/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN
-http://190.14.249.223:17032/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN HD
 http://181.78.8.199:8000/play/a09l/index.m3u8
-#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN SD
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN HD
 http://181.78.79.131:8000/play/a0l4
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN SD
+http://191.97.13.26:9003/play/a013/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://tvimagenes.com.co/img/rcnhd2.png" group-title="COLOMBIA",RCN HD2
 http://186.194.160.110:9002/play/a00s/index.m3u8
@@ -337,8 +336,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://i.imgur.com/MiYlN0t.png" group-title="COLOMBIA",Canal 1
 http://38.44.109.41:8003/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://i.imgur.com/MiYlN0t.png" group-title="COLOMBIA",Canal 1 SD
-http://186.194.160.110:9002/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://image.roku.com/developer_channels/prod/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -348,14 +345,12 @@ http://186.194.160.110:9002/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="137dtv.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="137dtv.co" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="COLOMBIA",Senal Colombia SD
-http://186.194.160.110:9002/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="COLOMBIA",Trece
 http://38.44.109.41:8003/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://storage-ott.cdnmedia.tv/trecetv/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="COLOMBIA",Trece+
-http://186.194.160.110:9002/play/a00u/index.m3u8
+http://38.44.109.41:8003/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COLOMBIA",Win+
 http://8.243.126.131:8000/play/a025/index.m3u8?hls
