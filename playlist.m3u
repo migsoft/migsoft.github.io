@@ -500,34 +500,30 @@ https://92.176.119.180:2095/play/a1fu
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports 
 http://38.199.4.105:9999/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports HD
-http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports HD
-http://190.108.90.142:8000/play/a00t/index.m3u8?hls
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports SD
-http://45.186.254.75:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
 http://201.240.104.137:8000/play/a0av/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2
-http://45.173.75.4:2061/play/a06l
+http://201.240.104.137:8000/play/a07z/index.m3u8?hls
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 
-http://45.173.75.4:2061/play/a020
+http://201.240.104.137:8000/play/a08a/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-espn-4.png" group-title="DEPORTES",ESPN 4 
-http://45.173.75.4:2061/play/a063
+http://201.240.104.137:8000/play/a089/index.m3u8?hls
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 
-http://45.173.75.4:2061/play/a01r
+http://201.240.104.137:8000/play/a07w/index.m3u8?hls
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-6-lam.png" group-title="DEPORTES",ESPN 6 
-http://45.173.75.4:2061/play/a017
+http://201.240.104.137:8000/play/a08b/index.m3u8?hls
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-7-lam.png" group-title="DEPORTES",ESPN 7 
-http://45.173.75.4:2061/play/a016
+http://201.240.104.137:8000/play/a0a9/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
 http://190.93.229.30:8000/play/a0cf/index.m3u8u?hls
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FHD
+http://201.240.104.137:8000/play/a08d/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium HD
 http://8.243.126.131:8000/play/a0no/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium SD
@@ -545,8 +541,15 @@ http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-premium-ar.png",Fox Sports Premium
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports HD
 http://190.108.93.180:8000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports SD
+http://201.240.104.137:8000/play/a0aa/index.m3u8?hls
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports+
+http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports 2
+http://201.240.104.137:8000/play/a0bv/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
 https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
@@ -555,7 +558,7 @@ https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 http://futbol9865.ultratv13.workers.dev/cGxheWxpc3Q6MTc4MTY4NTc5NA.bdac7d01d37ea38e12b9ff14ba500efe/56.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-1-es.png",DAZN 1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+http://23.237.104.106:8080/DAZN_0/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-2-es.png",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-3-es.png",DAZN 3
