@@ -186,7 +186,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS",EuroNews
-http://209.87.175.160:5001/play/a0mg/index.m3u8
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/russia-today-int.png" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -221,6 +221,8 @@ http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile HD
+https://edgectc.com/TV_CHILE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -463,9 +465,13 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE America
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPANA",Antena 3 Internacional
 http://148.230.149.45:1021/play/a00y/index.m3u8
@@ -498,13 +504,15 @@ http://92.176.119.180:2095/play/a1g2
 http://92.176.119.180:2095/play/a1fq
 
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/clan-es.png" group-title="ESPANA" tvg-name="Clan",Clan
-https://92.176.119.180:2095/play/a1fu
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports 
 http://38.199.4.105:9999/play/a0hy/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports FAN
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
 http://201.240.104.137:8000/play/a0av/index.m3u8?hls
