@@ -124,8 +124,6 @@ http://190.108.93.180:8000/play/a017/index.m3u8
 http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="PERU",DSports HD
 http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
@@ -276,6 +274,8 @@ http://190.7.19.197:232/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe HD
+http://streamvidex.qzz.io/latamplay/telefe/index.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe SD
 http://45.170.130.224:8000/play/a03n/index.m3u8
 
@@ -449,6 +449,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable
 http://201.151.118.136:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="Vix1.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 1
+https://streamvidex.qzz.io/videx/vix1/index.m3u8
+#EXTINF:-1 tvg-id="Vix2.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 2
+https://streamvidex.qzz.io/videx/vix2/index.m3u8
+#EXTINF:-1 tvg-id="Vix3.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 3
+https://streamvidex.qzz.io/videx/vix3/index.m3u8
+#EXTINF:-1 tvg-id="Vix4.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 4
+https://streamvidex.qzz.io/videx/vix4/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -552,9 +560,6 @@ http://181.13.252.102:8000/play/a02t/index.m3u8
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports HD
-http://190.108.93.180:8000/play/a054/index.m3u8
-
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports SD
 http://201.240.104.137:8000/play/a0aa/index.m3u8?hls
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports+
 http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
