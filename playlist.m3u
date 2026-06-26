@@ -571,16 +571,16 @@ http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports 2
 http://201.240.104.137:8000/play/a0bv/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
+#EXTINF:-1 tvg-id="daznF1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
 https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-1-es.png",DAZN 1
+#EXTINF:-1 tvg-id="dazn1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-1-es.png",DAZN 1
 http://23.237.104.106:8080/DAZN_1/index.m3u8
-#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-2-es.png",DAZN 2
+#EXTINF:-1 tvg-id="dazn2.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-2-es.png",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-3-es.png",DAZN 3
+#EXTINF:-1 tvg-id="dazn3.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-3-es.png",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-4-es.png",DAZN 4
+#EXTINF:-1 tvg-id="dazn4.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-4-es.png",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
