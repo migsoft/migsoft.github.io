@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV Perú 
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú 
 http://8.243.126.131:8000/play/a04k/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
@@ -21,6 +21,8 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.
 
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV
 http://8.243.126.131:8000/play/a01z/index.m3u8?hls
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV SD
+http://190.108.83.69:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR
 http://148.222.230.197:8000/play/a0lo/index.m3u8?hls
@@ -29,6 +31,8 @@ http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
 http://190.238.43.117:9000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
+http://190.108.83.69:8000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
 http://190.117.20.37:8000/play/a07z/index.m3u8
 
@@ -52,7 +56,7 @@ http://45.236.151.86:3232/play/a19u/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO
 http://148.222.230.197:8000/play/a0j5/index.m3u8?hls
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO HD
-http://38.210.4.182:8000/play/a0ye/index.m3u8?hls
+http://190.108.83.69:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO SD
 http://201.240.104.137:8000/play/a0as/index.m3u8?hls
 
@@ -133,9 +137,9 @@ http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
 http://179.1.146.22:8000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
-http://45.186.254.75:8000/play/a09i/index.m3u8
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
 http://190.238.43.117:9000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
+http://190.108.83.69:8000/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP
 http://181.224.200.5:2277/play/a04b/index.m3u8
@@ -223,8 +227,8 @@ http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile HD
-https://edgectc.com/TV_CHILE_HD/index.m3u8
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile SD
+http://168.228.44.241:9998/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -450,8 +454,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://streamvidex.qzz.io/videx/canal5mx/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
 http://209.87.175.160:5001/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
@@ -459,15 +461,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable
 http://201.151.118.136:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="Vix1.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 1
-http://streamvidex.qzz.io/videx/vix1/index.m3u8
-#EXTINF:-1 tvg-id="Vix2.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 2
-http://streamvidex.qzz.io/videx/vix2/index.m3u8
-#EXTINF:-1 tvg-id="Vix3.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 3
-http://streamvidex.qzz.io/videx/vix3/index.m3u8
-#EXTINF:-1 tvg-id="Vix4.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 4
-http://streamvidex.qzz.io/videx/vix4/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -591,8 +584,6 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://45.228.233.60:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN HD
-http://streamvidex.qzz.io/videx/tudnmx/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
