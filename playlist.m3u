@@ -28,7 +28,7 @@ http://148.222.230.197:8000/play/a0lo/index.m3u8?hls
 http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://8.243.126.131:8000/play/a01r/index.m3u8?hls
+http://190.238.43.117:9000/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
 http://190.117.20.37:8000/play/a07z/index.m3u8
 
@@ -423,12 +423,16 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7 HD
+http://209.87.175.160:5001/play/a0me/index.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas HD
+http://209.87.175.160:5001/play/a0mz/index.m3u8
 
 #EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
-http://38.65.175.87:8000/play/a0bq/index.m3u8u?hls
+http://209.87.175.160:5001/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -446,7 +450,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://201.151.118.136:8000/play/a004/index.m3u8
+http://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
+http://209.87.175.160:5001/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
@@ -454,13 +460,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable
 http://201.151.118.136:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="Vix1.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 1
+#EXTINF:-1 tvg-id="Vix1.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 1
 http://streamvidex.qzz.io/videx/vix1/index.m3u8
-#EXTINF:-1 tvg-id="Vix2.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 2
+#EXTINF:-1 tvg-id="Vix2.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 2
 http://streamvidex.qzz.io/videx/vix2/index.m3u8
-#EXTINF:-1 tvg-id="Vix3.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 3
+#EXTINF:-1 tvg-id="Vix3.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 3
 http://streamvidex.qzz.io/videx/vix3/index.m3u8
-#EXTINF:-1 tvg-id="Vix4.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Vix 4
+#EXTINF:-1 tvg-id="Vix4.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/vix-lam.png" group-title="MEXICO",Vix 4
 http://streamvidex.qzz.io/videx/vix4/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1
@@ -473,7 +479,7 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-2-es.png" group-title="ESPANA" tvg-name="La 2",La 2 HD
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8   
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ESPANA",RTVE 24H 
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ESPANA",24h HD
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE America
@@ -586,7 +592,7 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://45.228.233.60:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN HD
-http://201.151.118.136:8000/play/a00g/index.m3u8
+http://streamvidex.qzz.io/videx/tudnmx/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
