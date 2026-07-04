@@ -153,8 +153,6 @@ http://191.97.61.32:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP SD
 http://190.238.43.117:9000/play/a0eg/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
 
@@ -162,7 +160,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 http://8.243.126.131:8000/play/a04j/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS",ATV+
-http://148.222.230.197:8000/play/a0g9/index.m3u8?hls
+http://190.238.43.117:9000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
 http://190.60.48.151:8010/play/a0ay/index.m3u8
@@ -202,6 +200,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS",EuroNews
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS",EuroNews HD
+http://209.87.175.160:5001/play/a0mg/index.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/russia-today-int.png" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
