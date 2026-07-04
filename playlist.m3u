@@ -52,7 +52,7 @@ http://45.236.151.86:3232/play/a19w/index.m3u8
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8   
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax
-http://201.240.104.137:8000/play/a07d/index.m3u8?hls
+http://191.97.61.32:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax HD
 http://8.243.126.131:8000/play/a01s/index.m3u8?hls
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="PERU",Willax SD
@@ -62,8 +62,6 @@ http://45.236.151.86:3232/play/a19u/index.m3u8
 http://191.97.61.32:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO HD
 http://190.108.83.69:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO SD
-http://201.240.104.137:8000/play/a0as/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/32.1-latelehd.png" group-title="PERU",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
@@ -462,7 +460,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://209.87.175.160:5001/play/a0ll/index.m3u8
+http://168.228.44.241:9998/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
+http://168.228.44.241:9998/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
@@ -572,11 +572,11 @@ http://181.13.252.102:8000/play/a02t/index.m3u8
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports HD
-http://201.240.104.137:8000/play/a0aa/index.m3u8?hls
+http://190.238.43.117:9000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports+
-http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
+http://190.238.43.117:9000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports 2
-http://201.240.104.137:8000/play/a0bv/index.m3u8?hls
+http://190.238.43.117:9000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-id="daznF1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
 https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
