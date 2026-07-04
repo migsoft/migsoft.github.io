@@ -139,7 +139,7 @@ http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
-http://179.1.146.22:8000/play/a0hx/index.m3u8
+http://191.97.61.32:8000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
 http://190.238.43.117:9000/play/a0e6/index.m3u8
@@ -609,7 +609,7 @@ http://148.222.230.197:8000/play/a0il/index.m3u8?hls
 http://190.7.19.197:232/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
-http://179.1.146.22:8000/play/a0bg/index.m3u8
+http://8.243.126.131:8000/play/a061/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
