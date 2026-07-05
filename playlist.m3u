@@ -436,7 +436,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7 HD
 http://209.87.175.160:5001/play/a0me/index.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7 Internacional
+#EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
 http://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
@@ -449,9 +449,6 @@ http://209.87.175.160:5001/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO",Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-clic-mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
@@ -596,6 +593,7 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://45.228.233.60:8000/play/a05f/index.m3u8
+
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN HD
 http://190.115.3.141:9000/play/a0xy/index.m3u8
 
