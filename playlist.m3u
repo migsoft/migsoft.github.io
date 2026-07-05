@@ -436,6 +436,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7 HD
 http://209.87.175.160:5001/play/a0me/index.m3u8
 
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7 Internacional
+http://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas HD
@@ -462,7 +465,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
-http://168.228.44.241:9998/play/a09i/index.m3u8
+http://209.87.175.160:5001/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
@@ -592,6 +595,8 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
 http://45.228.233.60:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN HD
+http://190.115.3.141:9000/play/a0xy/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -601,7 +606,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportv" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-br.png",Sportv
-http://45.176.240.128:8889/play/a03a/index.m3u8
+http://45.176.240.128:8889/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="Sportv 2" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv2-br.png",Sportv 2
 http://45.176.240.128:8889/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv3-br.png",Sportv 3
@@ -617,6 +622,14 @@ http://45.176.240.128:8889/play/a015/index.m3u8
 http://45.176.240.128:8889/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 BR
 http://45.176.240.128:8889/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="clarosp.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-1-lam.png" group-title="DEPORTES",Claro Sports 1
+http://190.115.3.141:9000/play/a0qe/index.m3u8
+#EXTINF:-1 tvg-id="clarosp1.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-2-lam.png" group-title="DEPORTES",Claro Sports 2
+http://190.115.3.141:9000/play/a0wr/index.m3u8
+#EXTINF:-1 tvg-id="clarosp2.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-3-lam.png" group-title="DEPORTES",Claro Sports 3
+http://190.115.3.141:9000/play/a0vc/index.m3u8
+
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
