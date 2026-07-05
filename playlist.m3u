@@ -600,6 +600,24 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png",beIN Sports XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sportv" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-br.png",Sportv
+http://45.176.240.128:8889/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="Sportv 2" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv2-br.png",Sportv 2
+http://45.176.240.128:8889/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="Sportv 3" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv3-br.png",Sportv 3
+http://45.176.240.128:8889/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="1621dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN BR
+http://45.176.240.128:8889/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2 BR
+http://45.176.240.128:8889/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 BR
+http://45.176.240.128:8889/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-4-lam.png" group-title="DEPORTES",ESPN 4 BR
+http://45.176.240.128:8889/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 BR
+http://45.176.240.128:8889/play/a00u/index.m3u8
+
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax HD
