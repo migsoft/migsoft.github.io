@@ -542,7 +542,7 @@ http://201.240.104.137:8000/play/a0av/index.m3u8?hls
 http://201.240.104.137:8000/play/a07z/index.m3u8?hls
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 
 http://201.240.104.137:8000/play/a08a/index.m3u8?hls
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-espn-4.png" group-title="DEPORTES",ESPN 4 
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-4-lam.png" group-title="DEPORTES",ESPN 4 
 http://201.240.104.137:8000/play/a089/index.m3u8?hls
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 
 http://201.240.104.137:8000/play/a07w/index.m3u8?hls
@@ -572,11 +572,11 @@ http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-premium-ar.png",Fox Sports Premium
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports HD
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DEPORTES",DSports HD
 http://190.238.43.117:9000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
 http://190.238.43.117:9000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="DEPORTES",DSports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
 http://190.238.43.117:9000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-id="daznF1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
@@ -622,11 +622,11 @@ http://45.176.240.128:8889/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 BR
 http://45.176.240.128:8889/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="clarosp.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-lam.png" group-title="DEPORTES",Claro Sports
+#EXTINF:-1 tvg-id="clarosports.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-lam.png" group-title="DEPORTES",Claro Sports
 http://190.115.3.141:9000/play/a0qe/index.m3u8
-#EXTINF:-1 tvg-id="clarosp2.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-1-lam.png" group-title="DEPORTES",Claro Sports 2
+#EXTINF:-1 tvg-id="clarosports1.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-1-lam.png" group-title="DEPORTES",Claro Sports 1
 http://190.115.3.141:9000/play/a0wr/index.m3u8
-#EXTINF:-1 tvg-id="clarosp3.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-2-lam.png" group-title="DEPORTES",Claro Sports 3
+#EXTINF:-1 tvg-id="clarosports2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-2-lam.png" group-title="DEPORTES",Claro Sports 2
 http://190.115.3.141:9000/play/a0vc/index.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
