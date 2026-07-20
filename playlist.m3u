@@ -62,6 +62,8 @@ http://45.236.151.86:3232/play/a19u/index.m3u8
 http://191.97.61.32:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO HD
 http://190.108.83.69:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU",PBO SD
+http://201.240.104.137:8000/play/a0as/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/32.1-latelehd.png" group-title="PERU",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
@@ -78,11 +80,11 @@ http://148.222.230.197:8000/play/a0gc/index.m3u8?hls
 http://45.186.254.75:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV
-http://38.210.4.182:8000/play/a0ou/index.m3u8?hls
-#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV HD
-http://148.222.230.197:8000/play/a0ls/index.m3u8?hls
-#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV SD
 http://201.240.104.137:8000/play/a09m/index.m3u8?hls
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV HD
+http://190.238.43.117:9000/play/a0ic/index.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV SD
+http://179.1.146.22:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
 https://media.streambrothers.com:19360/8158/8158.m3u8
@@ -134,7 +136,9 @@ http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life
-http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
+http://190.108.93.180:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life HD
+http://179.1.146.22:8000/play/a0ri/index.m3u8
 
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
 http://191.97.61.32:8000/play/a0dk/index.m3u8
@@ -230,12 +234,10 @@ http://190.238.43.117:9000/play/a0g7/index.m3u8
 http://190.238.43.117:9000/play/a0g2/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
+http://190.238.43.117:9000/play/a0fa/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile SD
-http://168.228.44.241:9998/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -253,14 +255,14 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://190.93.229.30:8000/play/a0j9/index.m3u8u?hls
-#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
 http://190.238.43.117:9000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
+http://179.1.146.22:8000/play/a0qd/index.m3u8
 
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://179.1.146.22:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://190.93.229.30:8000/play/a0j2/index.m3u8u?hls
+http://190.238.43.117:9000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
