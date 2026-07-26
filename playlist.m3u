@@ -95,7 +95,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e0/25/e0253d3e-bf0d-4d6a-9a8b-9c5495bfcdbe.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru HD
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru SD
 https://livestream.perucast.com/low/stream_low/index.m3u8
@@ -139,12 +139,16 @@ http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 http://190.108.93.180:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life HD
 http://179.1.146.22:8000/play/a0ri/index.m3u8
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life SD
+http://191.97.63.182:8888/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
 http://191.97.61.32:8000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
 http://190.238.43.117:9000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N HD
+http://190.93.229.30:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
 http://190.108.83.69:8000/play/a07r/index.m3u8
 
@@ -553,12 +557,10 @@ http://201.240.104.137:8000/play/a0a9/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
 http://190.93.229.30:8000/play/a0cf/index.m3u8u?hls
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FHD
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FD
 http://201.240.104.137:8000/play/a08d/index.m3u8?hls
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium HD
-http://8.243.126.131:8000/play/a0no/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium SD
-http://148.222.230.197:8000/play/a0p2/index.m3u8?hls
+http://8.243.126.131:8000/play/a0no/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-ar.png",FOX Sports
 http://177.53.153.207:8000/play/a008/index.m3u8
@@ -611,16 +613,12 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv3-br.png",Sportv 3
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="1621dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN BR
-http://45.185.11.126:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2 BR
-http://45.176.240.128:8889/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 BR
-http://45.176.240.128:8889/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-4-lam.png" group-title="DEPORTES",ESPN 4 BR
 http://45.185.11.126:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 BR
 http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="1621dtv.br" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-6-lam.png" group-title="DEPORTES",ESPN 6 BR
+http://45.185.11.126:8000/play/a084/index.m3u8
 
 #EXTINF:-1 tvg-id="clarosports.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-lam.png" group-title="DEPORTES",Claro Sports
 http://190.115.3.141:9000/play/a0qe/index.m3u8
@@ -628,6 +626,8 @@ http://190.115.3.141:9000/play/a0qe/index.m3u8
 http://190.115.3.141:9000/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-id="clarosports2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-2-lam.png" group-title="DEPORTES",Claro Sports 2
 http://190.115.3.141:9000/play/a0wr/index.m3u8
+#EXTINF:-1 tvg-id="clarosports2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/claro-sports-2-lam.png" group-title="DEPORTES",Claro TV 4K
+http://45.185.11.126:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
