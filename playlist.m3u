@@ -24,10 +24,10 @@ http://8.243.126.131:8000/play/a01z/index.m3u8?hls
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV HD
 http://191.97.61.32:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV SD
-http://190.108.83.69:8000/play/a099/index.m3u8
+http://190.108.80.138:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR
-http://148.222.230.197:8000/play/a0lo/index.m3u8?hls
+http://8.243.126.131:8000/play/a04m/index.m3u8?hls
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR HD
 http://190.108.80.138:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR SD
@@ -75,14 +75,14 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV 
 http://45.236.151.86:3232/play/a14q/index.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV HD
-http://148.222.230.197:8000/play/a0gc/index.m3u8?hls
+http://190.108.80.138:8000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="PERU",GlobalTV SD
 http://45.186.254.75:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV
 http://201.240.104.137:8000/play/a09m/index.m3u8?hls
 #EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV HD
-http://190.238.43.117:9000/play/a0ic/index.m3u8
+http://190.108.80.138:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV SD
 http://179.1.146.22:8000/play/a08a/index.m3u8
 
@@ -127,7 +127,7 @@ http://200.60.124.25:8000/play/a0gj/index.m3u8?hls
 http://190.108.93.180:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes 
-http://190.108.93.180:8000/play/a017/index.m3u8
+http://8.243.126.131:8000/play/a052/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
 http://201.240.104.137:8000/play/a07a/index.m3u8?hls
@@ -357,7 +357,7 @@ http://190.14.249.223:17032/play/a082/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://i.imgur.com/MiYlN0t.png" group-title="COLOMBIA",Canal 1
-http://38.44.109.41:8003/play/a020/index.m3u8
+http://181.78.21.38:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://image.roku.com/developer_channels/prod/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -369,7 +369,7 @@ http://190.60.46.226:8888/play/a04j/index.m3u8
 http://38.44.109.41:8003/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="COLOMBIA",Trece
-http://38.44.109.41:8003/play/a01w/index.m3u8
+http://181.78.21.38:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://storage-ott.cdnmedia.tv/trecetv/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="COLOMBIA",Trece+
 http://38.44.109.41:8003/play/a01w/index.m3u8
@@ -393,6 +393,10 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_2.m3u8
 
 #EXTINF:-1 tvg-id="625" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-us.png" group-title="USA",Univision
 http://200.115.120.1:8000/play/ca106/index.m3u8
+#EXTINF:-1 tvg-id="625" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-us.png" group-title="USA",Univision HD
+http://181.78.21.38:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="625" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-us.png" group-title="USA",Univision SD
+http://190.108.80.138:8000/play/a0ge/index.m3u8
 
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-crime-lam.png?raw=true" group-title="USA",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
