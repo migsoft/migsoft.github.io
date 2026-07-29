@@ -103,9 +103,6 @@ https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/VivaTV.png" group-title="PERU",Vivatv 
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",BHTV.pe
-https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="PERU",Ovacion
 https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w752333413.m3u8
 
@@ -196,7 +193,7 @@ http://181.78.20.119:58002/play/a061/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="NOTICIAS",N+ Foro
-http://38.65.175.87:8000/play/a0ny/index.m3u8u?hls
+http://209.87.175.160:5001/play/a0md/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/mm/milenio-tv-mx.png" group-title="NOTICIAS",Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -222,6 +219,8 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV HD
+http://38.190.4.166:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
 http://streaming013.gestec-video.com/hls/negociostv.m3u8
@@ -248,7 +247,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+http://181.174.228.40:8000/play/a0mm/index.m3u8
 
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV HD
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -475,8 +474,10 @@ http://209.87.175.160:5001/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable
-http://201.151.118.136:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Sat
+http://45.238.141.222:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Xip
+http://45.238.141.222:8000/play/a0pl/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
