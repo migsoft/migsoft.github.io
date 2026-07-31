@@ -633,8 +633,6 @@ http://190.115.3.141:9000/play/a0wr/index.m3u8
 http://45.185.11.126:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
-http://45.186.254.75:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax HD
 http://181.78.84.78:8910/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax SD
 http://190.61.40.18:5585/play/a0ic/index.m3u8
@@ -678,43 +676,21 @@ http://190.117.20.37:8000/play/a071/index.m3u8
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
-http://177.10.184.193:8000/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT HD
-http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
-#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT SD
-http://200.229.147.142:8000/play/a01h/index.m3u8
+http://38.44.109.41:8003/play/a0fk/index.m3u8
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
-http://200.229.147.142:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX HD
-http://177.10.184.193:8000/play/a0d2/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX SD
 http://190.117.20.37:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal
 http://45.186.254.75:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal HD
-http://45.173.75.4:2061/play/a09e
-#EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal SD
-http://177.10.184.193:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/golden-mx.png" group-title="CINEMA",Golden
 http://45.186.254.75:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/golden-mx.png" group-title="CINEMA",Golden HD
-http://45.173.75.4:2061/play/a06c
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/golden-mx.png" group-title="CINEMA",Golden SD
-http://177.10.184.193:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
 http://38.199.4.105:9999/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC SD
-http://181.78.211.244:8005/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula-hd.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",DePelícula
-http://200.229.147.142:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula-hd.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",DePelícula HD
-http://45.173.75.4:2061/play/a0ay
-#EXTINF:-1 tvg-id="de-pelicula-hd.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",DePelícula SD
 http://45.186.254.75:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CINEMA ESTE HD
@@ -772,7 +748,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 http://38.199.4.105:9999/play/a0gw/index.m3u8
 
 #EXTINF:-1 tvg-id="222dtv.cl" group-title="MISCELANEOS" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-e1.png",E!
-http://177.10.184.193:8000/play/a04w/index.m3u8
+http://38.44.109.41:8003/play/a0er/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/sony-channel-lam.png" group-title="MISCELANEOS",Sony Channel
 http://38.44.109.41:8003/play/a0hy/index.m3u8
@@ -781,41 +757,37 @@ http://38.44.109.41:8003/play/a0hy/index.m3u8
 http://38.44.109.41:8003/play/a0c5/index.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" group-title="MISCELANEOS",National Geographic
-http://45.173.75.4:2061/play/a05x
+http://38.44.109.41:8003/play/a0ht/index.m3u8
 
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history1.png" group-title="MISCELANEOS",History
 http://38.44.109.41:8003/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history21.png" group-title="MISCELANEOS",H2
-http://177.10.184.193:8000/play/a04b/index.m3u8
+http://38.44.109.41:8003/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-channel-ar.png" group-title="MISCELANEOS",Discovery Channel
-http://190.117.20.37:8000/play/a0e5/index.m3u8
+http://38.44.109.41:8003/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/id-investigation-discovery-ar.png" group-title="MISCELANEOS",Discovery ID HD
-http://177.10.184.193:8000/play/a0a8/index.m3u8
+http://38.44.109.41:8003/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-kids-ar.png" group-title="MISCELANEOS",Discovery Kids HD
-http://177.10.184.193:8000/play/a02s/index.m3u8
+http://38.44.109.41:8003/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-science-ar.png" group-title="MISCELANEOS",Discovery Science
-http://177.10.184.193:8000/play/a02m/index.m3u8
+http://38.44.109.41:8003/play/a0eq/index.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo
-http://177.10.184.193:8000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo HD
-http://190.93.229.30:8000/play/a0aj/index.m3u8u?hls
+http://38.44.109.41:8003/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MISCELANEOS",Discovery Turbo SD
 http://190.117.20.37:8000/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-world-hd-ar.png" group-title="MISCELANEOS",Discovery World HD  
-http://177.10.184.193:8000/play/a0a5/index.m3u8
+http://38.44.109.41:8003/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/disney-channel-ar.png" group-title="MISCELANEOS",Disney  
-http://177.10.184.193:8000/play/a05h/index.m3u8
+http://38.44.109.41:8003/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/disney-jr-ar.png" group-title="MISCELANEOS",Disney JR
-http://177.10.184.193:8000/play/a03f/index.m3u8
+http://38.44.109.41:8003/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" group-title="MISCELANEOS",Nat Geo HD
-http://177.10.184.193:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="730dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" group-title="MISCELANEOS",National Geographic
-http://177.10.184.193:8000/play/a03n/index.m3u8
+http://38.44.109.41:8003/play/a0ht/index.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-thumbnail.png" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
