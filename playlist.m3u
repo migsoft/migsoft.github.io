@@ -694,15 +694,15 @@ http://38.199.4.105:9999/play/a0h8/index.m3u8
 http://45.186.254.75:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CINEMA ESTE HD
-http://177.10.184.193:8000/play/a0a9/index.m3u8
+http://45.228.233.60:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL COMEDY HD
-http://177.10.184.193:8000/play/a09x/index.m3u8
+http://45.228.233.60:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="1574dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CRIME HD
-http://177.10.184.193:8000/play/a09w/index.m3u8
+http://45.228.233.60:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="576dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL PREMIERE O HD
-http://177.10.184.193:8000/play/a09u/index.m3u8
+http://45.228.233.60:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL REALITY HD
-http://177.10.184.193:8000/play/a09v/index.m3u8
+http://45.228.233.60:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network (Rakuten TV)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
