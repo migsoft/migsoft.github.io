@@ -502,13 +502,13 @@ https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPANA",Antena 3 Internacional
-http://148.230.149.45:1021/play/a00y/index.m3u8
+http://190.108.93.71:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries
 http://148.230.149.45:1021/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="ESPANA",Hola! TV
-http://38.65.175.87:8000/play/a0db/index.m3u8u?hls
+http://190.108.93.71:8000/play/a0be/index.m3u8
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
 http://92.176.119.180:2095/play/a1fo
@@ -578,9 +578,9 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DEPORTES",DSports HD
-http://190.238.43.117:9000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
 http://190.238.43.117:9000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
+http://190.238.43.117:9000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
 http://190.238.43.117:9000/play/a09f/index.m3u8
 
