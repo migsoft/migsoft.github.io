@@ -4,7 +4,7 @@
 http://38.190.100.202:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
-http://38.226.49.253:8000/play/a0gb/index.m3u8?hls
+http://190.108.93.71:8000/play/a0dy/index.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="PERU",Ipe 
 http://38.190.100.202:8000/play/a05a/index.m3u8
@@ -666,10 +666,6 @@ http://45.228.233.60:8000/play/a00k/index.m3u8
 http://45.186.254.75:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/star-int.png",Star Channel
-http://200.229.147.142:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/star-int.png",Star Channel HD
-http://45.173.75.4:2061/play/a08l
-#EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/star-int.png",Star Channel SD
 http://190.117.20.37:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/paramount-channel-int.png" group-title="CINEMA",Paramount Network
