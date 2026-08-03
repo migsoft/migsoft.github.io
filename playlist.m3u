@@ -169,21 +169,19 @@ http://177.53.153.207:8000/play/a019/index.m3u8
 http://190.60.48.151:8010/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
-http://190.7.19.197:232/play/a03z/index.m3u8
+http://181.209.105.115:2525/play/a24/index.m3u8
 
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
-http://190.7.19.197:232/play/a043/index.m3u8
+http://181.209.105.115:2525/play/lanacion/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
-http://190.7.19.197:232/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN HD
 http://177.53.153.207:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
-http://190.7.19.197:232/play/a040/index.m3u8
+http://181.209.105.115:2525/play/c5n/index.m3u8
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
-http://190.7.19.197:232/play/a041/index.m3u8
+http://181.209.105.115:2525/play/cronica/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -220,8 +218,6 @@ https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV HD
 http://38.190.4.166:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
@@ -286,7 +282,7 @@ http://181.209.105.115:2525/play/eltrece/index.m3u8
 http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
-http://190.7.19.197:232/play/a03c/index.m3u8
+http://181.209.105.115:2525/play/tvpublica/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
 http://45.170.130.224:8000/play/a02o/index.m3u8
@@ -297,7 +293,7 @@ http://181.209.105.115:2525/play/telefe/index.m3u8
 http://45.170.130.224:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve
-http://190.7.19.197:232/play/a03k/index.m3u8
+http://181.209.105.115:2525/play/elnueve/index.m3u8
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png" group-title="ARGENTINA",Net TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
