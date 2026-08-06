@@ -330,7 +330,7 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 http://190.60.39.220:8000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
-http://147.75.116.250:8586/play/a01n
+http://209.61.12.132:9000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
 http://181.78.8.199:8000/play/a0d0/index.m3u8
@@ -472,60 +472,60 @@ http://45.238.141.222:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Xip
 http://45.238.141.222:8000/play/a0pl/index.m3u8
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPAÑA" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPANA" tvg-name="La 1",La 1 HD
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPAÑA" tvg-name="La 1",La 1 HD
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-2-es.png" group-title="ESPANA" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-2-es.png" group-title="ESPAÑA" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-2-es.png" group-title="ESPANA" tvg-name="La 2",La 2 HD
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-2-es.png" group-title="ESPAÑA" tvg-name="La 2",La 2 HD
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8   
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ESPANA",24h HD
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ESPAÑA",24h HD
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE America
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPAÑA",TVE America
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
-#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPANA",TVE Internacional America
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ESPAÑA",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
-#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA",Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPANA",Star TVE HD
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA",Star TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
-#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPANA",Antena 3 Internacional
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPAÑA",Antena 3 Internacional
 http://190.108.93.71:8000/play/a0de/index.m3u8
 
-#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPANA",Atreseries
+#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPAÑA",Atreseries
 http://191.97.15.251:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="ESPANA",Hola! TV
+#EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="ESPAÑA",Hola! TV
 http://190.108.93.71:8000/play/a0be/index.m3u8
 
-#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPANA",FDF
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="http://i.imgur.com/kgnflq9.png" group-title="ESPAÑA",FDF
 http://92.176.119.180:2095/play/a1fo
 
-#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPANA",Boing
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="ESPAÑA",Boing
 http://92.176.119.180:2095/play/a1fy
 
-#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="ESPANA",Divinity
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="ESPAÑA",Divinity
 http://92.176.119.180:2095/play/a1g1
 
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="http://i.imgur.com/40s4zlU.png" group-title="ESPANA",Energy
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="http://i.imgur.com/40s4zlU.png" group-title="ESPAÑA",Energy
 http://92.176.119.180:2095/play/a17a
 
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="http://i.imgur.com/vquicgg.png" group-title="ESPANA",BeMad
+#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="http://i.imgur.com/vquicgg.png" group-title="ESPAÑA",BeMad
 http://92.176.119.180:2095/play/a16r
 
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/cuatro-es.png" group-title="ESPANA",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/cuatro-es.png" group-title="ESPAÑA",Cuatro
 http://92.176.119.180:2095/play/a1g2
 
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPANA",Telecinco
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="http://i.imgur.com/jn8hmGr.png" group-title="ESPAÑA",Telecinco
 http://92.176.119.180:2095/play/a1fq
 
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/clan-es.png" group-title="ESPANA" tvg-name="Clan",Clan
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/clan-es.png" group-title="ESPAÑA" tvg-name="Clan",Clan
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports 
@@ -627,23 +627,19 @@ http://190.115.3.141:9000/play/a0wr/index.m3u8
 http://45.185.11.126:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
-http://181.78.84.78:8910/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax SD
-http://190.61.40.18:5585/play/a0ic/index.m3u8
+http://209.61.12.132:9000/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
 http://190.7.19.197:232/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
-http://190.61.40.18:5585/play/a0jt/index.m3u8
+http://209.61.12.132:9000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://181.78.50.191:7225/play/a04y
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies HD
-http://190.61.40.18:5585/play/a0o9/index.m3u8
+http://209.61.12.132:9000/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV
 http://181.78.50.191:7225/play/a082
