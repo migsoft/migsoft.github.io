@@ -152,7 +152,7 @@ http://190.238.43.117:9000/play/a0g2/index.m3u8
 http://190.238.43.117:9000/play/a0fa/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
-http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
+http://138.59.177.78:9999/play/a0av/index.m3u8
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -872,13 +872,17 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS",ABC News
-https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_4.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="NEWS",Newsmax
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/1.m3u8
+https://wurlcheddar.global.transmit.live/us-east-1-b/manifest/689ceac9301c34d3919676f3/ef2e159f-8a52-43fe-a741-e88f69f254e5/v1/Cheddar/samsung_us/latest/main/hls/video-avc1.640029-mp4a.40.2-4.m3u8?h=1080&playlistUri=https%253A%252F%252Fdea927ef.wurl.com%252Fv1%252FCheddar%252Fsamsung_us%252FV00000002%252F0%252FHLS%252Fplaylist_4300k.m3u8&sessionStart=1786115730118&streamPath=v1%2FCheddar%2Fsamsung_us%2Flatest%2Fmain%2Fhls%2Fplaylist.m3u8&uid=__USER_ID__&w=1920
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News HD
+https://hls.livecdn.io/cheddar.com/cheddar/cheddar.com/cheddarTS_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News SD
+https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/cnn-international-int.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -898,7 +902,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cbs-news-us.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NEWS",France 24 HD
+#EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NEWS",France 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NEWS",Euronews HD
