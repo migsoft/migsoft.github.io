@@ -139,90 +139,6 @@ http://179.1.146.22:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="PERU",Plus Tv Life SD
 http://191.97.63.182:8888/play/a0mv/index.m3u8
 
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
-http://191.97.61.32:8000/play/a0dk/index.m3u8
-
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
-http://190.238.43.117:9000/play/a0e6/index.m3u8
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N HD
-http://190.93.229.30:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
-http://190.108.83.69:8000/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP
-http://181.224.200.5:2277/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP HD
-http://191.97.61.32:8000/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP SD
-http://190.238.43.117:9000/play/a0eg/index.m3u8
-
-#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
-
-#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-tvpe-noticias1.png" group-title="NOTICIAS",TV PERU Noticias 
-http://38.87.224.19:2220/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS",ATV+
-http://177.53.153.207:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
-http://190.60.48.151:8010/play/a0ay/index.m3u8
-
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
-http://181.209.105.115:2525/play/a24/index.m3u8
-
-#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
-http://181.209.105.115:2525/play/lanacion/index.m3u8
-
-#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
-http://177.53.153.207:8000/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8
-
-#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
-http://181.209.105.115:2525/play/cronica/index.m3u8
-
-#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NTN24
-http://181.78.20.119:58002/play/a061/index.m3u8
-
-#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://cdn-1.webcatalog.io/catalog/adn40/adn40-icon-filled-256.png" group-title="NOTICIAS",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="NOTICIAS",N+ Foro
-http://209.87.175.160:5001/play/a0md/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/mm/milenio-tv-mx.png" group-title="NOTICIAS",Milenio
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NOTICIAS",24h 
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS",EuroNews
-http://209.87.175.160:5001/play/a0mg/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="560" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/russia-today-int.png" group-title="NOTICIAS",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="NOTICIAS",Deutsche Welle
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="NOTICIAS",Deutsche Welle HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NOTICIAS",France 24 ES
-https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NOTICIAS",France 24 HD
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
-http://38.190.4.166:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
-http://streaming013.gestec-video.com/hls/negociostv.m3u8
-
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://190.238.43.117:9000/play/a0g1/index.m3u8
 
@@ -369,6 +285,47 @@ http://38.44.109.41:8003/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COLOMBIA",Win+
 http://190.232.196.93:8000/play/a05d/index.m3u8
 
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
+http://209.87.175.160:5001/play/a0me/index.m3u8
+
+#EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas Internacional
+http://209.87.175.160:5001/play/a0mz/index.m3u8
+
+#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
+http://209.87.175.160:5001/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-clic-mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO",Azteca Uno -1h
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
+http://168.228.44.241:9998/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
+http://209.87.175.160:5001/play/a0ll/index.m3u8
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Sat
+http://45.238.141.222:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Xip
+http://45.238.141.222:8000/play/a0pl/index.m3u8
+
 #EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/telemundo-us.png" group-title="USA",Telemundo HD
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
@@ -430,47 +387,6 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="USA",Starz Encore Westerns
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
-
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
-http://209.87.175.160:5001/play/a0me/index.m3u8
-
-#EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
-
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas Internacional
-http://209.87.175.160:5001/play/a0mz/index.m3u8
-
-#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once
-http://209.87.175.160:5001/play/a0bq/index.m3u8
-
-#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-clic-mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO",Azteca Uno -1h
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://168.228.44.241:9998/play/a0cy/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
-http://209.87.175.160:5001/play/a0ll/index.m3u8
-
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Sat
-http://45.238.141.222:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Xip
-http://45.238.141.222:8000/play/a0pl/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tve-1-es.png" group-title="ESPAÑA" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -832,6 +748,165 @@ https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-id="TRACE Sports Stars" group-title="MOTOR" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series HD
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Crimen HD
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Romance HD
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Clásicos HD
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Acción
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Thriller-Terror
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Curro Jiménez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
+
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
+http://191.97.61.32:8000/play/a0dk/index.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
+http://190.238.43.117:9000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N HD
+http://190.93.229.30:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
+http://190.108.83.69:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP
+http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP HD
+http://191.97.61.32:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP SD
+http://190.238.43.117:9000/play/a0eg/index.m3u8
+
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
+
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-tvpe-noticias1.png" group-title="NOTICIAS",TV PERU Noticias 
+http://38.87.224.19:2220/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS",ATV+
+http://177.53.153.207:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
+http://190.60.48.151:8010/play/a0ay/index.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
+http://181.209.105.115:2525/play/a24/index.m3u8
+
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
+http://181.209.105.115:2525/play/lanacion/index.m3u8
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
+http://177.53.153.207:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
+http://181.209.105.115:2525/play/c5n/index.m3u8
+
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
+http://181.209.105.115:2525/play/cronica/index.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NTN24
+http://181.78.20.119:58002/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://cdn-1.webcatalog.io/catalog/adn40/adn40-icon-filled-256.png" group-title="NOTICIAS",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="NOTICIAS",N+ Foro
+http://209.87.175.160:5001/play/a0md/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/mm/milenio-tv-mx.png" group-title="NOTICIAS",Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NOTICIAS",24h 
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS",EuroNews
+http://209.87.175.160:5001/play/a0mg/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="560" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/russia-today-int.png" group-title="NOTICIAS",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="NOTICIAS",Deutsche Welle
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="NOTICIAS",Deutsche Welle HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NOTICIAS",France 24 ES
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NOTICIAS",France 24 HD
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="NOTICIAS",Hispan TV
+http://38.190.4.166:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
+http://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NEWS",FOX Live Now HD
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="NEWS",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS",ABC News
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="NEWS",Newsmax
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/1.m3u8
+
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/cnn-international-int.png" group-title="NEWS",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://foroalfa.org/imagenes/ilustraciones/1515.jpg" group-title="NEWS",USA Today
+https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NEWS",Deutsche Welle EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-logo="https://www.vhv.rs/dpng/d/492-4928236_al-jazeera-news-logo-hd-png-download.png" group-title="NEWS",Al Jazeera
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK WORLD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="NEWS",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cbs-news-us.png" group-title="NEWS",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NEWS",France 24 HD
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NEWS",Euronews HD
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="Arirang TV HD" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NEWS",Arirang TV HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20220713T034547SQUARE.png_20220713034548.png" group-title="MUSICA",TRACE Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 channel-id="samsung-ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20220412T141131SQUARE.png_20220412141134.png" group-title="MUSICA",TRACE Urban
@@ -908,80 +983,6 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/webapp/master.m3u8
 https://lotus.stingray.com/manifest/ose-137ads-montreal/webapp/master.m3u8
 #EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hip Hop
 https://lotus.stingray.com/manifest/ose-133ads-montreal/webapp/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime cine y series HD
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Crimen HD
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Romance HD
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Clásicos HD
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Acción
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Comedia
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",Runtime Thriller-Terror
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Ana y los 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
-#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUNTIME",RunTime Curro Jiménez
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NEWS",FOX Live Now HD
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="NEWS",NBC News Now
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS",ABC News
-https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="NEWS",Newsmax
-https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/1.m3u8
-
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/cnn-international-int.png" group-title="NEWS",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://foroalfa.org/imagenes/ilustraciones/1515.jpg" group-title="NEWS",USA Today
-https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NEWS",Deutsche Welle EN
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-logo="https://www.vhv.rs/dpng/d/492-4928236_al-jazeera-news-logo-hd-png-download.png" group-title="NEWS",Al Jazeera
-https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="NHK WORLD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="NEWS",NHK World
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cbs-news-us.png" group-title="NEWS",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NEWS",France 24 HD
-https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NEWS",Euronews HD
-https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
-
-#EXTINF:-1 tvg-id="Arirang TV HD" tvg-logo="https://yt3.ggpht.com/-VN7gdtvZfLs/AAAAAAAAAAI/AAAAAAAAAAA/4NV0UtHrQLw/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NEWS",Arirang TV HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rppnoticias/picture?width=200&height=200" group-title="RADIO" tvg-name="RPP Noticias Perú",RPP Noticias Perú
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
