@@ -193,24 +193,22 @@ https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
-http://181.209.105.115:2525/play/eltrece/index.m3u8
+http://190.128.214.97:64333/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional
 http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
-http://181.209.105.115:2525/play/tvpublica/index.m3u8
+http://190.128.214.97:64333/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
 http://45.170.130.224:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://181.209.105.115:2525/play/telefe/index.m3u8
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe SD
 http://45.170.130.224:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve
-http://181.209.105.115:2525/play/elnueve/index.m3u8
+http://177.53.153.207:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png" group-title="ARGENTINA",Net TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -222,10 +220,10 @@ https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/encuentro-ar.png" group-title="ARGENTINA",Encuentro
-http://181.209.105.115:2525/play/encuentro/index.m3u8
+http://190.128.214.97:64333/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/deportv-ar.png" group-title="ARGENTINA",DeporTV
-http://181.209.105.115:2525/play/deportv/index.m3u8
+http://177.53.153.207:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-orbe21-ar.png" group-title="ARGENTINA",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
@@ -549,7 +547,7 @@ http://209.61.12.132:9000/play/a083/index.m3u8
 http://190.232.196.93:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
-http://181.209.105.115:2525/play/cinear/index.m3u8
+http://177.53.153.207:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
 http://209.61.12.132:9000/play/a09k/index.m3u8
@@ -558,6 +556,8 @@ http://190.232.196.93:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine HD
+http://200.60.124.25:8000/play/a0no/index.m3u8
 
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
 http://209.61.12.132:9000/play/a08i/index.m3u8
@@ -591,6 +591,8 @@ http://190.232.196.93:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/paramount-channel-int.png" group-title="CINEMA",Paramount Network
 http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/paramount-channel-int.png" group-title="CINEMA",Paramount HD
+http://190.232.196.93:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
 http://38.44.109.41:8003/play/a0fk/index.m3u8
