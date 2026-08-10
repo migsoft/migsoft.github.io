@@ -551,8 +551,6 @@ http://177.53.153.207:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
 http://209.61.12.132:9000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal HD
-http://190.232.196.93:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="1505dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="CINEMA",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -561,38 +559,26 @@ http://200.60.124.25:8000/play/a0no/index.m3u8
 
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
 http://209.61.12.132:9000/play/a08i/index.m3u8
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies HD
-http://190.232.196.93:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV 
 http://181.78.50.191:7225/play/a082
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV HD
 http://190.60.39.220:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://images.seeklogo.com/logo-png/17/1/hbo-logo-png_seeklogo-178109.png" group-title="CINEMA",HBO 
 http://190.60.48.151:8010/play/a09i/index.m3u8
-#EXTINF:-1 tvg-id="hbo.py" tvg-logo="https://images.seeklogo.com/logo-png/17/1/hbo-logo-png_seeklogo-178109.png" group-title="CINEMA",HBO HD
-http://190.232.196.93:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" group-title="CINEMA",HBO2
 http://45.228.233.60:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" group-title="CINEMA",HBO2 HD
-http://190.232.196.93:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="CINEMA",HBO Xtreme
 http://45.186.254.75:8000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="CINEMA",HBO Xtreme HD
-http://190.232.196.93:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/star-int.png",Star Channel
 http://190.117.20.37:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="108mvstr.pe" group-title="CINEMA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/star-int.png",Star Channel HD
-http://190.232.196.93:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/paramount-channel-int.png" group-title="CINEMA",Paramount Network
 http://181.224.200.5:2277/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/paramount-channel-int.png" group-title="CINEMA",Paramount HD
-http://190.232.196.93:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
 http://38.44.109.41:8003/play/a0fk/index.m3u8
@@ -898,8 +884,6 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://wurlcheddar.global.transmit.live/us-east-1-b/manifest/689ceac9301c34d3919676f3/ef2e159f-8a52-43fe-a741-e88f69f254e5/v1/Cheddar/samsung_us/latest/main/hls/video-avc1.640029-mp4a.40.2-4.m3u8?h=1080&playlistUri=https%253A%252F%252Fdea927ef.wurl.com%252Fv1%252FCheddar%252Fsamsung_us%252FV00000002%252F0%252FHLS%252Fplaylist_4300k.m3u8&sessionStart=1786115730118&streamPath=v1%2FCheddar%2Fsamsung_us%2Flatest%2Fmain%2Fhls%2Fplaylist.m3u8&uid=__USER_ID__&w=1920
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News HD
 https://hls.livecdn.io/cheddar.com/cheddar/cheddar.com/cheddarTS_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News SD
-https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/cnn-international-int.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
