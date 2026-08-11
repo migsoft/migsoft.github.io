@@ -194,18 +194,22 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
 http://191.97.14.164:9000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
+http://177.53.153.207:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional
 http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
+http://177.53.153.207:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública SD
 http://190.128.214.97:64333/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
-http://45.170.130.224:8000/play/a02o/index.m3u8
+http://177.53.153.207:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://45.170.130.224:8000/play/a03n/index.m3u8
+http://177.53.153.207:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve
 http://177.53.153.207:8000/play/a00e/index.m3u8
@@ -429,7 +433,7 @@ http://92.176.119.180:2095/play/a1fy
 http://92.176.119.180:2095/play/a1g1
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="http://i.imgur.com/40s4zlU.png" group-title="ESPAÑA",Energy
-http://92.176.119.180:2095/play/a17a
+http://193.31.50.84:9981/stream/channelid/1622418641?ticket=FC53995ECF742D8B9C5D4A021D31A8A5E7173D3B&profile=pass
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="http://i.imgur.com/vquicgg.png" group-title="ESPAÑA",BeMad
 http://92.176.119.180:2095/play/a16r
