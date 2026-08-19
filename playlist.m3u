@@ -192,13 +192,13 @@ https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STGOTV.cl" tvg-logo="https://pbs.twimg.com/media/DmuwuKqXsAUevyn.jpg" group-title="CHILE",STGO TV
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece
-http://191.97.14.164:9000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
 http://177.53.153.207:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional
 http://45.186.254.75:8000/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional SD
+http://191.97.14.164:9000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
 http://177.53.153.207:8000/play/a00h/index.m3u8
@@ -826,19 +826,19 @@ http://177.53.153.207:8000/play/a019/index.m3u8
 http://190.60.48.151:8010/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
-http://181.209.105.115:2525/play/a24/index.m3u8
+http://138.121.113.175:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
-http://181.209.105.115:2525/play/lanacion/index.m3u8
+http://138.121.113.175:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
 http://177.53.153.207:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8
+http://138.121.113.175:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
-http://181.209.105.115:2525/play/cronica/index.m3u8
+http://138.121.113.175:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
