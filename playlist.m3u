@@ -139,16 +139,16 @@ http://179.1.146.22:8000/play/a0ri/index.m3u8
 http://191.97.63.182:8888/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://190.238.43.117:9000/play/a0g1/index.m3u8
+http://45.236.151.86:3232/play/a0vq/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
-http://190.238.43.117:9000/play/a0g7/index.m3u8
+http://45.236.151.86:3232/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://190.238.43.117:9000/play/a0g2/index.m3u8
+http://45.236.151.86:3232/play/a0vr/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://190.238.43.117:9000/play/a0fa/index.m3u8
+http://45.236.151.86:3232/play/a0vg/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -235,7 +235,7 @@ https://mistserver.telpin.com.ar:8443/hls/telpinlive/main_stream.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
 http://181.118.156.46:8000/play/a060/index.m3u8?hls
 #EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
-http://190.60.39.220:8000/play/a00b/index.m3u8
+http://45.236.151.86:3232/play/a183/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2
 http://179.1.139.84:8000/play/a03s/index.m3u8
@@ -249,9 +249,9 @@ http://209.61.12.132:9000/play/a062/index.m3u8
 http://181.78.8.199:8000/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN
-http://181.78.8.199:8000/play/a09l/index.m3u8
+http://190.60.39.220:8000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN HD
-http://190.60.39.220:8000/play/a008/index.m3u8
+http://190.60.39.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="COLOMBIA",RCN SD
 http://191.97.13.26:9003/play/a013/index.m3u8
 
@@ -262,7 +262,7 @@ http://190.60.39.220:8000/play/a08w/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://i.imgur.com/MiYlN0t.png" group-title="COLOMBIA",Canal 1
-http://181.78.21.38:8000/play/a0cu/index.m3u8
+http://45.236.151.86:3232/play/a181/index.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://image.roku.com/developer_channels/prod/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -277,10 +277,10 @@ http://38.44.109.41:8003/play/a018/index.m3u8
 http://181.78.21.38:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://storage-ott.cdnmedia.tv/trecetv/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="COLOMBIA",Trece+
-http://190.60.36.103:8000/play/a06w/index.m3u8
+http://190.60.39.220:8000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COLOMBIA",Win+
-http://190.232.196.93:8000/play/a05d/index.m3u8
+http://190.60.39.220:8000/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
 http://209.87.175.160:5001/play/a0me/index.m3u8
@@ -442,7 +442,7 @@ http://92.176.119.180:2095/play/a1fq
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports 
-http://38.199.4.105:9999/play/a0hy/index.m3u8
+http://190.128.214.97:64333/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
@@ -466,11 +466,9 @@ http://201.240.104.137:8000/play/a08b/index.m3u8?hls
 http://201.240.104.137:8000/play/a0a9/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
-http://190.93.229.30:8000/play/a0cf/index.m3u8u?hls
+http://38.44.109.41:8003/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FD
 http://201.240.104.137:8000/play/a08d/index.m3u8?hls
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium SD
-http://8.243.126.131:8000/play/a0no/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-ar.png",FOX Sports
 http://177.53.153.207:8000/play/a008/index.m3u8
@@ -487,7 +485,7 @@ http://177.10.184.193:8000/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DEPORTES",DSports HD
 http://38.252.213.209:8000/play/a08e
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
-http://190.238.43.117:9000/play/a09d/index.m3u8
+http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
 http://38.252.213.209:8000/play/a00f
 
