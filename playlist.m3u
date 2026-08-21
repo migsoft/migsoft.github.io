@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-pe.png" group-title="PERU",TV Perú 
 http://38.190.100.202:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-internacional-pe.png" group-title="PERU",TV PERU Internacional 
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/styles/note/public/tvpeint.png" group-title="PERU",TV PERU Internacional
 http://190.108.93.71:8000/play/a0dy/index.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="PERU",Ipe 
