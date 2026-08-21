@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú 
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-pe.png" group-title="PERU",TV Perú 
 http://38.190.100.202:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU",TV PERU Internacional 
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-internacional-pe.png" group-title="PERU",TV PERU Internacional 
 http://190.108.93.71:8000/play/a0dy/index.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="PERU",Ipe 
@@ -34,7 +34,7 @@ http://190.108.80.138:8000/play/a0it/index.m3u8
 http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://190.238.43.117:9000/play/a0ee/index.m3u8
+http://181.119.93.83:8000/play/a14e
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://191.97.61.32:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
@@ -93,8 +93,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e0/25/e0253d3e-bf0d-4d6a-9a8b-9c5495bfcdbe.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e0/25/e0253d3e-bf0d-4d6a-9a8b-9c5495bfcdbe.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa HD
-http://190.232.196.93:8000/play/exitosahd/index.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="PERU",Señal Peru
 https://livestream.perucast.com/hls/stream.m3u8
@@ -171,14 +169,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
-http://190.238.43.117:9000/play/a0dj/index.m3u8
-#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina HD
 http://179.1.146.22:8000/play/a0qd/index.m3u8
 
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX
 http://179.1.146.22:8000/play/a0qe/index.m3u8
-#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",ViaX HD
-http://190.238.43.117:9000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
