@@ -286,7 +286,7 @@ http://190.60.39.220:8000/play/a088/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+http://200.108.187.214:8000/play/a0mf/index.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -441,14 +441,14 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
-http://201.240.104.137:8000/play/a0av/index.m3u8?hls
+http://138.121.113.175:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2
-http://201.240.104.137:8000/play/a07z/index.m3u8?hls
+http://138.121.113.175:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 
-http://201.240.104.137:8000/play/a08a/index.m3u8?hls
+http://138.121.113.175:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-4-lam.png" group-title="DEPORTES",ESPN 4 
-http://201.240.104.137:8000/play/a089/index.m3u8?hls
+http://138.121.113.175:8000/play/a08h/index.m3u8
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 
 http://201.240.104.137:8000/play/a07w/index.m3u8?hls
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-6-lam.png" group-title="DEPORTES",ESPN 6 
@@ -459,7 +459,7 @@ http://201.240.104.137:8000/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
 http://38.44.109.41:8003/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FD
-http://201.240.104.137:8000/play/a08d/index.m3u8?hls
+http://138.121.113.175:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-ar.png",FOX Sports
 http://177.53.153.207:8000/play/a008/index.m3u8
@@ -471,14 +471,14 @@ http://177.53.153.207:8000/play/a006/index.m3u8
 http://177.53.153.207:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="fox-sports.mx" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-premium-ar.png",Fox Sports Premium
-http://177.10.184.193:8000/play/a0e1/index.m3u8
+http://138.121.113.175:8000/play/a0au/index.m3u8
 
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DEPORTES",DSports HD
-http://38.252.213.209:8000/play/a08e
+http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
 http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
-http://38.252.213.209:8000/play/a00f
+http://138.121.113.175:8000/play/a0ca/index.m3u8
 
 #EXTINF:-1 tvg-id="daznF1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
 https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
@@ -493,9 +493,6 @@ http://23.237.104.106:8080/DAZN_3/index.m3u8
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
-http://45.228.233.60:8000/play/a05f/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN HD
 http://190.115.3.141:9000/play/a0xy/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
