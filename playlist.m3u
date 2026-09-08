@@ -106,18 +106,18 @@ https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w752333413.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="PERU",Liga 1
-http://45.236.151.86:3232/play/a1hd/index.m3u8
+http://190.108.91.206:9050/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="PERU",Liga 1 HD
-http://148.222.230.197:8000/play/a0oh/index.m3u8?hls
+http://179.43.96.253:8000/play/a2bv/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="PERU",Liga 1 SD
-http://200.60.124.25:8000/play/a0qt/index.m3u8?hls
+http://177.53.152.117:8000/play/a0av/index.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX
 http://190.117.20.37:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX HD
 http://179.43.96.253:8000/play/a2af/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX SD
-http://200.60.124.25:8000/play/a0gj/index.m3u8?hls
+http://190.108.91.206:9050/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8548bb65276145.Y3JvcCw5MTcsNzE4LDE4MSww.png" group-title="PERU",GolPeru
 http://190.108.93.180:8000/play/a017/index.m3u8
@@ -879,7 +879,7 @@ https://hls.livecdn.io/cheddar.com/cheddar/cheddar.com/cheddarTS_1080p/chunks.m3
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://foroalfa.org/imagenes/ilustraciones/1515.jpg" group-title="NEWS",USA Today
-https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
+https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NEWS",Deutsche Welle EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
