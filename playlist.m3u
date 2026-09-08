@@ -556,15 +556,15 @@ http://201.240.104.137:8000/play/a06k/index.m3u8?hls
 http://45.186.254.75:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CINEMA ESTE HD
-http://45.228.233.60:8000/play/a059/index.m3u8
+http://201.207.54.159:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL COMEDY HD
-http://45.228.233.60:8000/play/a03u/index.m3u8
+http://201.207.54.159:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="1574dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CRIME HD
-http://45.228.233.60:8000/play/a03t/index.m3u8
+http://201.207.54.159:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="576dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL PREMIERE O HD
-http://45.228.233.60:8000/play/a03r/index.m3u8
+http://201.207.54.159:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL REALITY HD
-http://45.228.233.60:8000/play/a03s/index.m3u8
+http://201.207.54.159:8000/play/a07m/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network (Rakuten TV)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="CINEMA",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -607,16 +607,16 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="634" group-title="MISCELANEOS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png",A&E
-http://38.199.4.105:9999/play/a0gw/index.m3u8
+http://200.62.239.170:830/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="222dtv.cl" group-title="MISCELANEOS" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-e1.png",E!
-http://38.44.109.41:8003/play/a0er/index.m3u8
+http://200.62.239.170:830/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/sony-channel-lam.png" group-title="MISCELANEOS",Sony Channel
-http://38.44.109.41:8003/play/a0hy/index.m3u8
+http://200.62.239.170:830/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-series-ar.png" group-title="MISCELANEOS",TNT Series
-http://38.44.109.41:8003/play/a0c5/index.m3u8
+http://200.62.239.170:830/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-thumbnail.png" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
