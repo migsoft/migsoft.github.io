@@ -556,7 +556,7 @@ http://201.240.104.137:8000/play/a06k/index.m3u8?hls
 http://45.186.254.75:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="1572dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CINEMA ESTE HD
-http://201.207.54.159:8000/play/a09d/index.m3u8
+http://181.119.210.234:4000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL COMEDY HD
 http://201.207.54.159:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="1574dtv.cl" group-title="CINEMA" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-universal-tv1.png",UNIVERSAL CRIME HD
