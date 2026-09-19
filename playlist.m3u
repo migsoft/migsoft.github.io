@@ -13,7 +13,7 @@ http://38.190.100.202:8000/play/a05a/index.m3u8
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
-http://190.108.93.71:8000/play/a0dt/index.m3u8
+http://170.244.209.30:8000/play/a150/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
 http://38.190.100.202:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV SD
@@ -24,7 +24,7 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV HD
 http://191.97.61.32:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV SD
-http://190.108.80.138:8000/play/a0if/index.m3u8
+http://170.244.209.30:8000/play/a12r/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR
 http://38.190.100.202:8000/play/a0a4/index.m3u8
@@ -34,7 +34,7 @@ http://190.108.80.138:8000/play/a0it/index.m3u8
 http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://181.119.93.83:8000/play/a14e
+http://170.244.209.30:8000/play/a12q/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://191.97.61.32:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
@@ -395,8 +395,8 @@ https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA",Star TVE HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
-#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPAÑA",Antena 3 Internacional
-http://190.108.93.71:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/antena-3-es.png" group-title="ESPAÑA",Antena 3
+http://170.244.209.30:8000/play/a12w/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/atreseries-es.png" group-title="ESPAÑA",Atreseries
 http://191.97.15.251:8000/play/a028/index.m3u8
