@@ -4,7 +4,7 @@
 http://38.190.100.202:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/styles/note/public/tvpeint.png" group-title="PERU",TV PERU Internacional
-http://190.108.93.71:8000/play/a0dy/index.m3u8
+http://190.97.251.144:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="PERU",Ipe 
 http://38.190.100.202:8000/play/a05a/index.m3u8
@@ -13,7 +13,7 @@ http://38.190.100.202:8000/play/a05a/index.m3u8
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
-http://170.244.209.30:8000/play/a150/index.m3u8
+http://190.97.251.144:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
 http://38.190.100.202:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV SD
@@ -24,7 +24,7 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV HD
 http://191.97.61.32:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV SD
-http://170.244.209.30:8000/play/a12r/index.m3u8
+http://190.97.251.144:8000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR
 http://38.190.100.202:8000/play/a0a4/index.m3u8
@@ -34,7 +34,7 @@ http://190.108.80.138:8000/play/a0it/index.m3u8
 http://190.117.20.37:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana
-http://170.244.209.30:8000/play/a12q/index.m3u8
+http://190.97.251.144:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana HD
 http://191.97.61.32:8000/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="PERU",Panamericana SD
