@@ -32,6 +32,8 @@ http://190.108.91.206:9050/play/a0aa/index.m3u8
 http://190.117.20.37:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://pbs.twimg.com/profile_images/1552089735782449159/iK8eX8ug_400x400.jpg" group-title="PERU",Vision Sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/telemundo-us.png" group-title="PERU",Telemundo
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 
 
@@ -126,7 +128,7 @@ http://190.117.20.37:8000/play/a071/index.m3u8
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
-http://38.44.109.41:8003/play/a0fk/index.m3u8
+http://190.117.20.37:8000/play/a0i2/index.m3u8
 
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
 http://190.117.20.37:8000/play/a0dr/index.m3u8
@@ -136,9 +138,6 @@ http://45.186.254.75:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/golden-mx.png" group-title="CINEMA",Golden
 http://45.186.254.75:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
-http://201.240.104.137:8000/play/a06k/index.m3u8?hls
 
 
 
@@ -155,7 +154,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NOTICIAS",FOX Live Now HD
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="659" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="NOTICIAS" tvg-name="Euronews ES",Euronews
-http://209.87.175.160:5001/play/a0mg/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="NOTICIAS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
