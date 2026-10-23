@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-pe.png" group-title="PERU",TV Perú 
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://cdn.aptoide.com/imgs/7/3/8/73859a7647f30417ba937dcfdbc3b79c_icon.png" group-title="PERU",TV Perú 
 http://38.190.100.202:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/styles/note/public/tvpeint.png" group-title="PERU",TV PERU Internacional
@@ -12,11 +12,11 @@ http://38.190.100.202:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Cultura 24
 https://cloud.live.opencaster.com/playlist_480/index.m3u8
 
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="PERU",America TV
 http://190.97.251.144:8000/play/a0e2/index.m3u8
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV HD
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="PERU",America TV HD
 http://38.190.100.202:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="PERU",America TV SD
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="PERU",America TV SD
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="PERU",ATV
@@ -88,7 +88,7 @@ http://179.1.146.22:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
-#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://pbs.twimg.com/profile_images/1552089735782449159/iK8eX8ug_400x400.jpg" group-title="PERU",Vision Sur
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://www.vonedigital.com/wp-content/uploads/2020/05/Vision-One-logo-512x512-1.png" group-title="PERU",Vision Sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e0/25/e0253d3e-bf0d-4d6a-9a8b-9c5495bfcdbe.png" group-title="PERU" tvg-name="Exitosa Noticias Peru",Exitosa
@@ -122,7 +122,7 @@ http://190.108.91.206:9050/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8548bb65276145.Y3JvcCw5MTcsNzE4LDE4MSww.png" group-title="PERU",GolPeru
 http://190.108.93.180:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="PERU",Movistar Deportes 
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://spng.pngfind.com/pngs/s/327-3279418_3000px-movistar-logo-movistar-logo-hd-png-download.png" group-title="PERU",Movistar Deportes 
 http://38.190.100.202:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="PERU",Peru Magico
@@ -141,7 +141,7 @@ http://191.97.63.182:8888/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
 http://201.182.249.201:8000/play/a0ma/index.m3u8
 
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega-cl.png" group-title="CHILE",Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
 http://201.182.249.201:8000/play/a0mh/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
@@ -159,7 +159,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+ HD
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la-red-cl.png" group-title="CHILE",La Red HD
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://images.squarespace-cdn.com/content/v1/63fd26adf5155526a92d6e4e/136c4d16-634b-446b-bcf3-d55712c5b768/logo-web2.png" group-title="CHILE",La Red HD
 http://181.174.228.40:8000/play/a0mm/index.m3u8
 
 #EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV HD
@@ -228,9 +228,9 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telpin
 https://mistserver.telpin.com.ar:8443/hls/telpinlive/main_stream.m3u8
 
-#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol
 http://181.118.156.46:8000/play/a060/index.m3u8?hls
-#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png" group-title="COLOMBIA",Caracol HD
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD
 http://45.236.151.86:3232/play/a183/index.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracolTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png" group-title="COLOMBIA",Caracol HD2
@@ -279,7 +279,7 @@ http://190.60.39.220:8000/play/a08e/index.m3u8
 http://190.60.39.220:8000/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
-https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+http://38.252.215.33:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
@@ -431,9 +431,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/tnt-sports-lam.png" group-title="DEPORTES",TNT Sports 
 http://190.128.214.97:64333/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://dev.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="DEPORTES",TYC Sports
 http://200.123.40.1:8000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES",TYC Sports FAN
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://dev.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="DEPORTES",TYC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
@@ -501,7 +501,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://201.240.104.137:8000/play/a0a0/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
-http://179.64.36.245:8000/play/a024/index.m3u8
+http://38.252.215.33:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
 http://201.240.104.137:8000/play/a07v/index.m3u8?hls
@@ -535,9 +535,9 @@ http://190.117.20.37:8000/play/a071/index.m3u8
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
-http://38.44.109.41:8003/play/a0fk/index.m3u8
+http://190.117.20.37:8000/play/a0i2/index.m3u8
 
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CINEMA",FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://cdn-icons-png.magnific.com/256/10995/10995780.png" group-title="CINEMA",FX
 http://190.117.20.37:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal
