@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="PERU",TV PERU
 http://38.190.100.202:8000/play/a058/index.m3u8
@@ -157,5 +157,34 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://static.vecteezy.com/system/resources/previews/073/494/749/non_2x/cnn-logo-rounded-glossy-icon-with-transparent-background-free-png.png" group-title="NOTICIAS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
+http://191.97.61.32:8000/play/a0dk/index.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
+http://191.97.61.32:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N HD
+http://190.117.20.37:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N SD
+http://190.108.83.69:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP
+http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP HD
+http://191.97.61.32:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="NOTICIAS" tvg-name="RPP",RPP SD
+http://190.117.20.37:8000/play/a0hy/index.m3u8
+
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="NOTICIAS",Latina Noticias
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
+
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-tvpe-noticias1.png" group-title="NOTICIAS",TV PERU Noticias 
+http://38.87.224.19:2220/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS",ATV+
+http://177.53.153.207:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
+http://181.66.249.246:8000/play/a00m/index.m3u8
 
 
