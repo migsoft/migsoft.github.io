@@ -85,9 +85,6 @@ http://190.108.80.138:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa TV SD
 http://179.1.146.22:8000/play/a08a/index.m3u8
 
-#EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="PERU" tvg-name="NET Channel Perú",NET Channel Perú
-https://media.streambrothers.com:19360/8158/8158.m3u8
-
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://www.vonedigital.com/wp-content/uploads/2020/05/Vision-One-logo-512x512-1.png" group-title="PERU",Vision Sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
