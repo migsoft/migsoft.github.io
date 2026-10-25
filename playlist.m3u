@@ -136,16 +136,16 @@ http://179.1.146.22:8000/play/a0ri/index.m3u8
 http://191.97.63.182:8888/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://201.182.249.201:8000/play/a0ma/index.m3u8
+http://190.233.81.191:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
-http://201.182.249.201:8000/play/a0mh/index.m3u8
+http://190.233.81.191:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://201.182.249.201:8000/play/a0mb/index.m3u8
+http://190.233.81.191:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://201.182.249.201:8000/play/a0ma/index.m3u8
+http://190.233.81.191:8000/play/a0be/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -544,7 +544,7 @@ http://45.186.254.75:8000/play/a04e/index.m3u8
 http://45.186.254.75:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINEMA",AMC
-http://201.240.104.137:8000/play/a06k/index.m3u8?hls
+http://190.233.81.191:8000/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula-hd.mx" group-title="CINEMA" tvg-logo="https://conexiondigitaljerez.com/wp-content/uploads/2022/02/54-b.png",DePelícula
 http://45.186.254.75:8000/play/a03m/index.m3u8
