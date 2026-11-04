@@ -136,16 +136,16 @@ http://179.1.146.22:8000/play/a0ri/index.m3u8
 http://191.97.63.182:8888/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://190.233.81.191:8000/play/a0ei/index.m3u8
+http://181.79.81.17:10000/play/a1jp/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
-http://190.233.81.191:8000/play/a0bx/index.m3u8
+http://181.79.81.17:10000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://190.233.81.191:8000/play/a07h/index.m3u8
+http://181.79.81.17:10000/play/a1jq/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://190.233.81.191:8000/play/a0be/index.m3u8
+http://181.79.81.17:10000/play/a1h6/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -277,6 +277,7 @@ http://190.60.39.220:8000/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
 http://38.252.215.33:8000/play/a02h/index.m3u8
+http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
@@ -485,7 +486,7 @@ https://live91.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234
 https://live91.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
-http://200.229.147.210:9999/play/a01v/index.m3u8
+http://168.228.44.241:9997/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -496,6 +497,8 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://201.240.104.137:8000/play/a0a0/index.m3u8?hls
+http://200.59.191.177:8000/play/a0pk/index.m3u8
+
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
 http://38.252.215.33:8000/play/a01p/index.m3u8
