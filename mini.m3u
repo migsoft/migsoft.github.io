@@ -54,16 +54,16 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://190.233.81.191:8000/play/a0ei/index.m3u8
+http://181.79.81.17:10000/play/a1jp/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://190.233.81.191:8000/play/a0be/index.m3u8
+http://181.79.81.17:10000/play/a1h6/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
-http://190.233.81.191:8000/play/a0bx/index.m3u8
+http://181.79.81.17:10000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://190.233.81.191:8000/play/a07h/index.m3u8
+http://181.79.81.17:10000/play/a1jq/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -146,7 +146,7 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
 http://190.117.20.37:8000/play/a0i2/index.m3u8
 
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://cdn-icons-png.magnific.com/256/10995/10995780.png" group-title="CINEMA",FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png" group-title="CINEMA",FX
 http://190.117.20.37:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal
@@ -178,13 +178,13 @@ http://181.66.249.246:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://logowik.com/content/uploads/images/cnn-en-espanol7573.jpg" group-title="NOTICIAS",CNN en Español
 http://191.97.61.32:8000/play/a0dk/index.m3u8
 
-#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NOTICIAS",Deutsche Welle
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="NOTICIAS",Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://www.pressenza.com/wp-content/uploads/2025/06/Russia-today-logo.svg_.png" group-title="NOTICIAS" tvg-name="RT en Español",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="NOTICIAS" tvg-name="France 24 Español",France 24 Español
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NOTICIAS" tvg-name="France 24 Español",France 24 Español
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
