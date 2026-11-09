@@ -597,7 +597,8 @@ https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
 https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="527" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-spanish-int.png" group-title="MISCELANEOS",CGTN ES
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=94508861f7a190f671235ab4ddba88e2&wsTime=1794257696
+
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-documentary-int.png" group-title="MISCELANEOS",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
