@@ -136,16 +136,16 @@ http://179.1.146.22:8000/play/a0ri/index.m3u8
 http://191.97.63.182:8888/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://181.79.81.17:10000/play/a1jp/index.m3u8
+http://45.188.229.33:8000/play/a134/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
-http://181.79.81.17:10000/play/a1jw/index.m3u8
+http://45.188.229.33:8000/play/a13b/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://181.79.81.17:10000/play/a1jq/index.m3u8
+http://45.188.229.33:8000/play/a135/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://181.79.81.17:10000/play/a1h6/index.m3u8
+http://45.188.229.33:8000/play/a12g/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -190,7 +190,7 @@ http://45.188.229.33:8000/play/a1dk/index.m3u8
 http://45.186.254.75:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
-http://138.59.227.20:8000/play/a095/index.m3u8
+http://45.188.229.33:8000/play/a1av/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
 http://45.188.229.33:8000/play/a1au/index.m3u8
@@ -214,7 +214,7 @@ https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/c
 http://158.172.155.130:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/deportv-ar.png" group-title="ARGENTINA",DeporTV
-http://138.59.227.20:8000/play/a07f/index.m3u8
+http://45.188.229.33:8000/play/a1cq/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-orbe21-ar.png" group-title="ARGENTINA",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
@@ -297,7 +297,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://168.228.44.241:9998/play/a0cy/index.m3u8
+http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0ll
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
@@ -485,7 +485,7 @@ https://live91.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234
 https://live91.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
-http://168.228.44.241:9997/play/a061/index.m3u8
+http://148.227.219.186:3000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -787,7 +787,7 @@ http://181.78.20.119:58002/play/a061/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="NOTICIAS",N+ Foro
-http://200.57.28.141:8540/play/a0mt
+http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0ny
 
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.radio.net/175/mileniomonterrey.png" group-title="NOTICIAS",Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
