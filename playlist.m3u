@@ -652,7 +652,7 @@ http://38.252.215.33:8000/play/a00z/index.m3u8
 http://200.123.40.1:8000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="CULTURA",Discovery Turbo
-http://201.182.249.201:8000/play/a0oi/index.m3u8
+http://209.45.101.130:8040/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="CULTURA",Discovery Turbo SD
 http://190.117.20.37:8000/play/a07r/index.m3u8
 
@@ -660,7 +660,7 @@ http://190.117.20.37:8000/play/a07r/index.m3u8
 http://200.123.40.1:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-kids-ar.png" group-title="CULTURA",Discovery Kids
-http://200.123.40.1:8000/play/a0al/index.m3u8
+http://209.45.101.130:8040/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/disney-channel-ar.png" group-title="CULTURA",Disney  
 http://200.123.40.1:8000/play/a04d/index.m3u8
