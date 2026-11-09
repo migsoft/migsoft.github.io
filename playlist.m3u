@@ -184,7 +184,7 @@ https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m30upk7m&q=&d=w
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece HD
-http://138.59.227.20:8000/play/a07b/index.m3u8
+http://45.188.229.33:8000/play/a1dk/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional
 http://45.186.254.75:8000/play/a0bj/index.m3u8
@@ -193,13 +193,13 @@ http://45.186.254.75:8000/play/a0bj/index.m3u8
 http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
-http://138.59.227.20:8000/play/a094/index.m3u8
+http://45.188.229.33:8000/play/a1au/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
-http://138.59.227.20:8000/play/a08a/index.m3u8
+http://45.188.229.33:8000/play/a1dm/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/elnueve-ar.png" group-title="ARGENTINA",El Nueve
-http://138.59.227.20:8000/play/a08k/index.m3u8
+http://45.188.229.33:8000/play/a1a5/index.m3u8
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png" group-title="ARGENTINA",Net TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -276,7 +276,6 @@ http://190.60.39.220:8000/play/a08e/index.m3u8
 http://190.60.39.220:8000/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-7-mx.png" group-title="MEXICO" tvg-name="Azteca Mexico",Azteca 7
-http://38.252.215.33:8000/play/a02h/index.m3u8
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
@@ -496,9 +495,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
-http://201.240.104.137:8000/play/a0a0/index.m3u8?hls
 http://200.59.191.177:8000/play/a0pk/index.m3u8
-
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
 http://38.252.215.33:8000/play/a01p/index.m3u8
@@ -766,23 +763,18 @@ http://177.53.153.207:8000/play/a019/index.m3u8
 http://181.66.249.246:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="NOTICIAS",A24
-http://179.64.36.245:8000/play/a01o/index.m3u8
 http://138.59.227.20:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="NOTICIAS",LN+
-http://179.64.36.245:8000/play/a01s/index.m3u8
 http://138.59.227.20:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="NOTICIAS",TN
-http://177.53.153.207:8000/play/a01v/index.m3u8
-http://138.59.227.20:8000/play/a097/index.m3u8
+http://45.188.229.33:8000/play/a1ax/index.m3u8
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="NOTICIAS",C5N
-http://179.64.36.245:8000/play/a01p/index.m3u8
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="NOTICIAS",Crónica TV
-http://179.64.36.245:8000/play/a01q/index.m3u8
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="NOTICIAS",Canal 26

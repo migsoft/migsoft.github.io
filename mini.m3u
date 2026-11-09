@@ -54,16 +54,16 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="CHILE",TVN
-http://181.79.81.17:10000/play/a1jp/index.m3u8
+http://45.188.229.33:8000/play/a134/index.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
-http://181.79.81.17:10000/play/a1h6/index.m3u8
+http://45.188.229.33:8000/play/a12g/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
-http://181.79.81.17:10000/play/a1jw/index.m3u8
+http://45.188.229.33:8000/play/a13b/index.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
-http://181.79.81.17:10000/play/a1jq/index.m3u8
+http://45.188.229.33:8000/play/a135/index.m3u8
 
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
 http://138.59.177.78:9999/play/a0av/index.m3u8
@@ -146,7 +146,7 @@ http://181.224.200.5:2277/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/34.1.png" group-title="CINEMA",TNT
 http://190.117.20.37:8000/play/a0i2/index.m3u8
 
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png" group-title="CINEMA",FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="CINEMA",FX
 http://190.117.20.37:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.co" group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXsP3u7w3glvglhrn4G0WnDYyUECSdxJNRDQD4PRKR0zEfhLwZMJuW9u2eJIFEKP1gfxMb1heuzdK5N2d5NyHUCtgFGFvbtB2rz6hEASm56gkws611xealEPW5OPrtociTI9prSRM5l4/s320/universalch-2011.png",Universal
