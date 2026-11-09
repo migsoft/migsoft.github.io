@@ -107,7 +107,7 @@ http://190.108.91.206:9050/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="PERU",Liga 1 HD
 http://179.43.96.253:8000/play/a2bv/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="PERU",Liga 1 SD
-http://177.53.152.117:8000/play/a0av/index.m3u8
+http://209.45.101.130:8040/play/a0cz/index.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="PERU",Liga1 MAX
 http://190.117.20.37:8000/play/a08c/index.m3u8
@@ -470,7 +470,7 @@ http://38.187.22.140:25501/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
 http://200.123.40.1:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
-http://201.240.104.137:8000/play/a0bw/index.m3u8?hls
+http://45.188.229.33:8000/play/a1ix/index.m3u8
 
 #EXTINF:-1 tvg-id="daznF1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-f1-es.png",DAZN F1
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
