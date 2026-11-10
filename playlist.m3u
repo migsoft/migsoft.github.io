@@ -236,7 +236,7 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 http://190.60.39.220:8000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA",Cablenoticias
-http://209.61.12.132:9000/play/a062/index.m3u8
+http://181.225.189.6:4000/play/a008
 
 #EXTINF:-1 tvg-id="138dtv.co" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA",Canal Institucional
 http://181.78.8.199:8000/play/a0d0/index.m3u8
@@ -297,7 +297,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5
-http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0ll
+http://45.190.187.183:8080/play/a1nr
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 HD
+http://38.59.135.250:8001/play/a0ll/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 SD
+http://38.59.135.250:8001/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
@@ -597,7 +603,7 @@ https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
 https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="527" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-spanish-int.png" group-title="MISCELANEOS",CGTN ES
-https://espanol-liveali-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=94508861f7a190f671235ab4ddba88e2&wsTime=1794257696
+http://181.225.189.6:4000/play/a02z
 
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-documentary-int.png" group-title="MISCELANEOS",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
@@ -687,6 +693,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MOTOR",Discovery Turbo
+http://181.225.189.6:4000/play/a035
+
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MOTOR",Discovery Turbo SD
 http://200.62.239.170:830/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerNation" group-title="MOTOR" tvg-logo="https://i.imgur.com/jguTO8E.png",PowerNation
