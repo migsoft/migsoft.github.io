@@ -59,25 +59,25 @@ http://209.45.101.130:8040/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="CHILE",Canal 13
 http://209.45.101.130:8040/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.megamedia.cl/sites/default/files/2022-11/mega.png" group-title="CHILE",Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Mega-TV-Chile-en-vivo-Online-1536x864.png" group-title="CHILE",Mega
 http://209.45.101.130:8040/play/a04s/index.m3u8
 
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="CHILE",CHV
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Chilevision-en-vivo-Online-1536x864.png" group-title="CHILE",CHV
 http://209.45.101.130:8040/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE",TV Chile
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1-1536x864.png" group-title="CHILE",TV Chile
 http://45.190.187.183:8080/play/a1fj
 
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="CHILE",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online-1536x864.png" group-title="CHILE",TV+
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
 
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://images.squarespace-cdn.com/content/v1/63fd26adf5155526a92d6e4e/136c4d16-634b-446b-bcf3-d55712c5b768/logo-web2.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Red-TV-Chile-en-vivo-Online--1536x864.png" group-title="CHILE",La Red
 http://181.174.228.40:8000/play/a0mm/index.m3u8
 
-#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE",UCV HD
+#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online-1536x864.png" group-title="CHILE",UCV HD
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="CHILE",Zona Latina
@@ -91,7 +91,7 @@ http://179.1.146.22:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARGENTINA",El Trece Internacional
 http://45.186.254.75:8000/play/a0bj/index.m3u8
 
-#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/television-publica-ar.png" group-title="ARGENTINA",TV Pública
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-12-Trenque-Lauquen-en-vivo-Online-1536x864.png" group-title="ARGENTINA",TV Pública
 http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" group-title="ARGENTINA",América TV
@@ -196,5 +196,5 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="NOTICIAS" tvg-name="Euronews ES",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8
 
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://static.vecteezy.com/system/resources/previews/073/494/749/non_2x/cnn-logo-rounded-glossy-icon-with-transparent-background-free-png.png" group-title="NOTICIAS",CNN
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/CNN-en-Espa%C3%B1ol-en-directo-Online-1536x864.png" group-title="NOTICIAS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
