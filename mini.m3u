@@ -9,7 +9,7 @@ http://38.190.100.202:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online-1536x864.png" group-title="PERU",ATV
 http://38.190.100.202:8000/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ATV-Noticias-en-vivo-Online-1536x864.png" group-title="PERU",ATV+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERU",ATV+
 http://177.53.153.207:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="PERU",ATV SUR
@@ -169,7 +169,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Per%C3%BA-Noticias-en-vivo-Online-1.png" group-title="NOTICIAS",TV PERU Noticias
 http://38.87.224.19:2220/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ATV-Noticias-en-vivo-Online-1536x864.png" group-title="NOTICIAS",ATV+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS",ATV+
 http://177.53.153.207:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
