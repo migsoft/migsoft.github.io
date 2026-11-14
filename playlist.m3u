@@ -281,7 +281,7 @@ http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-id="azteca internacional.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/azteca-international-lam.png?raw=true" group-title="MEXICO" tvg-name="Azteca internacional",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/las-estrellas-mx.png" group-title="MEXICO",Canal de las Estrellas
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Las-Estrellas-TV-en-directo-Online-1536x864.png" group-title="MEXICO",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO",Mexiquense TV
@@ -290,7 +290,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaClic.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-clic-mx.png" group-title="MEXICO" tvg-name="Azteca Clic",Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico-1536x864.png" group-title="MEXICO" tvg-name="Azteca Uno Mexico",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/azteca-uno-mx.png" group-title="MEXICO",Azteca Uno -1h
@@ -305,7 +305,7 @@ http://38.59.135.250:8001/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/canal-5-mx.png" group-title="MEXICO",Canal 5 SD
 http://38.59.135.250:8001/play/a0fl/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/imagen-television-mx.png" group-title="MEXICO",Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online-1536x864.png" group-title="MEXICO",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/mexico/unicable-mx.png" group-title="MEXICO",Unicable Sat
@@ -620,7 +620,7 @@ http://200.123.40.1:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-series-ar.png" group-title="MISCELANEOS",TNT Series
 http://200.123.40.1:8000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-thumbnail.png" group-title="MISCELANEOS",Televisa Telenovelas
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tln-mx.png" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg TV Europe" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="MISCELANEOS",Bloomberg TV
@@ -687,16 +687,16 @@ https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="MotorRacing" group-title="MOTOR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png",MotorRacing
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
+https://control.prolivestream.com/ssai/49/240/playlist.m3u8?channel_name=MotorRacing&content_genre=Motor+Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1794622729741244&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F150.0.0.0+Safari%2F537.36&ip=179.7.180.178&dnt=1&app_name=Free+Live+Sports&app_bundle=freelivesports.tv&ifa_type=dpid&did=06f324628007c0ae86d5d1ac82a1aa8b&lmt=1
 
 #EXTINF:-1 tvg-id="FuelTV.de" group-title="MOTOR" tvg-logo="https://cache-plus.fuel.tv/images/fueltv_stacked.png",FuelTV
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MOTOR",Discovery Turbo
-http://181.225.189.6:4000/play/a035
+http://45.190.187.183:8080/play/a17h
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MOTOR",Discovery Turbo SD
-http://200.62.239.170:830/play/a02i/index.m3u8
+http://200.123.40.1:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerNation" group-title="MOTOR" tvg-logo="https://i.imgur.com/jguTO8E.png",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
@@ -860,7 +860,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="NEWS",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/CBS-News-Live-TV-Online-1-1536x864.png" group-title="NEWS",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="FR | FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="NEWS",France 24
