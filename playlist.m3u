@@ -828,6 +828,9 @@ http://181.225.189.6:4000/play/a02y
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS" tvg-name="Negocios TV",Negocios TV
 http://streaming013.gestec-video.com/hls/negociostv.m3u8
 
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/mrXMW7H.png" group-title="NOTICIAS",Newsmax
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index-1080p.m3u8
+
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/300x300.png?type=smartCast_channelTile" group-title="NEWS",FOX Live Now HD
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
@@ -838,7 +841,11 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_4.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="NEWS",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/2.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax2TV.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="NEWS",Newsmax2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png" group-title="NEWS",Cheddar News
 https://wurlcheddar.global.transmit.live/us-east-1-b/manifest/689ceac9301c34d3919676f3/ef2e159f-8a52-43fe-a741-e88f69f254e5/v1/Cheddar/samsung_us/latest/main/hls/video-avc1.640029-mp4a.40.2-4.m3u8?h=1080&playlistUri=https%253A%252F%252Fdea927ef.wurl.com%252Fv1%252FCheddar%252Fsamsung_us%252FV00000002%252F0%252FHLS%252Fplaylist_4300k.m3u8&sessionStart=1786115730118&streamPath=v1%2FCheddar%2Fsamsung_us%2Flatest%2Fmain%2Fhls%2Fplaylist.m3u8&uid=__USER_ID__&w=1920
