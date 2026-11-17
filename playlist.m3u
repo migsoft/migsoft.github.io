@@ -435,18 +435,18 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 http://190.128.214.97:64333/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" group-title="DEPORTES",TYC Sports
-http://200.123.40.1:8000/play/a05e/index.m3u8
+http://8.242.175.210:8000/play/a0r2
 #EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-2-ar.png" group-title="DEPORTES",TYC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
-http://200.123.40.1:8000/play/a04g/index.m3u8
+http://8.242.175.210:8000/play/a0uv
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2
-http://200.123.40.1:8000/play/a04h/index.m3u8
+http://8.242.175.210:8000/play/a0qj
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 
-http://200.123.40.1:8000/play/a04i/index.m3u8
+http://8.242.175.210:8000/play/a0s6
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-4-lam.png" group-title="DEPORTES",ESPN 4 
-http://200.123.40.1:8000/play/a04j/index.m3u8
+http://8.242.175.210:8000/play/a0s9
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-5-lam.png" group-title="DEPORTES",ESPN 5 
 http://190.108.91.206:9050/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-6-lam.png" group-title="DEPORTES",ESPN 6 
@@ -455,9 +455,7 @@ http://190.108.91.206:9050/play/a02w/index.m3u8
 http://190.108.91.206:9050/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
-http://200.123.40.1:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium FD
-http://200.123.40.1:8000/play/a04k/index.m3u8
+http://8.242.175.210:8000/play/a0r2
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-ar.png",FOX Sports
 http://200.123.40.1:8000/play/a04q/index.m3u8
@@ -474,7 +472,7 @@ http://138.121.113.175:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="DEPORTES",DSports 1
 http://38.187.22.140:25501/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="DEPORTES",DSports 2
-http://200.123.40.1:8000/play/a046/index.m3u8
+http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-plus-lam.png" group-title="DEPORTES",DSports+
 http://45.188.229.33:8000/play/a1ix/index.m3u8
 
@@ -642,21 +640,21 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/national-geographic-lam.png" group-title="CULTURA",National Geographic
-http://200.123.40.1:8000/play/a053/index.m3u8
+http://8.242.175.210:8000/play/a0pt
 
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history1.png" group-title="CULTURA",History
-http://200.123.40.1:8000/play/a051/index.m3u8
+http://8.242.175.210:8000/play/a0tw
 
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-history21.png" group-title="CULTURA",H2
-http://200.123.40.1:8000/play/a052/index.m3u8
+http://45.130.161.15:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-channel-ar.png" group-title="CULTURA",Discovery Channel
-http://200.123.40.1:8000/play/a047/index.m3u8
+http://45.130.161.15:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/id-investigation-discovery-ar.png" group-title="CULTURA",Discovery ID HD
-http://38.252.215.33:8000/play/a00z/index.m3u8
+http://8.242.175.210:8000/play/a0sl
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-science-ar.png" group-title="CULTURA",Discovery Science
-http://200.123.40.1:8000/play/a049/index.m3u8
+http://45.130.161.15:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="CULTURA",Discovery Turbo
 http://209.45.101.130:8040/play/a08q/index.m3u8
@@ -664,15 +662,15 @@ http://209.45.101.130:8040/play/a08q/index.m3u8
 http://190.117.20.37:8000/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-world-hd-ar.png" group-title="CULTURA",Discovery World HD  
-http://200.123.40.1:8000/play/a04c/index.m3u8
+http://8.242.175.210:8000/play/a0n8
 
 #EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/discovery-kids-ar.png" group-title="CULTURA",Discovery Kids
 http://209.45.101.130:8040/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/disney-channel-ar.png" group-title="CULTURA",Disney  
-http://200.123.40.1:8000/play/a04d/index.m3u8
+http://8.242.175.210:8000/play/a0ua
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/disney-jr-ar.png" group-title="CULTURA",Disney JR
-http://200.123.40.1:8000/play/a04e/index.m3u8
+http://8.242.175.210:8000/play/a0up
 
 #EXTINF:-1 tvg-id="Motorvision" group-title="MOTOR" tvg-logo="https://i.imgur.com/aeDaRl4.png",MotorVision ES
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
