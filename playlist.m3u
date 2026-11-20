@@ -744,9 +744,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 
 
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
-http://191.97.61.32:8000/play/a0dk/index.m3u8
-
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N
 http://191.97.61.32:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="NOTICIAS",Canal N HD
@@ -769,6 +766,9 @@ http://38.87.224.19:2220/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/5/0/csm_2013-205_import_bf5689baea.png" group-title="NOTICIAS",ATV+
 http://177.53.153.207:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="NOTICIAS",CNN en Español
+http://191.97.61.32:8000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="NOTICIAS",CNN Chile
 http://181.66.249.246:8000/play/a00m/index.m3u8
