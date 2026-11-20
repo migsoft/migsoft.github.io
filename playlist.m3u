@@ -609,16 +609,16 @@ http://181.225.189.6:4000/play/a02z
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="634" group-title="MISCELANEOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png",A&E
-http://200.123.40.1:8000/play/a03y/index.m3u8
+http://187.249.105.226:8500/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="222dtv.cl" group-title="MISCELANEOS" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-e1.png",E!
-http://200.123.40.1:8000/play/a04f/index.m3u8
+http://187.249.105.226:8500/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/sony-channel-lam.png" group-title="MISCELANEOS",Sony Channel
-http://200.123.40.1:8000/play/a055/index.m3u8
+http://187.249.105.226:8500/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-series-ar.png" group-title="MISCELANEOS",TNT Series
-http://200.123.40.1:8000/play/a05c/index.m3u8
+http://187.249.105.226:8500/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tln-mx.png" group-title="MISCELANEOS",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
