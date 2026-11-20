@@ -439,7 +439,7 @@ http://45.188.229.33:8000/play/a18u/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-lam.png" group-title="DEPORTES",ESPN 
-http://45.188.229.33:8000/play/a1jj/index.m3u8
+http://186.33.24.150:4000/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-2-lam.png" group-title="DEPORTES",ESPN 2
 http://45.188.229.33:8000/play/a1jq/index.m3u8
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-3-lam.png" group-title="DEPORTES",ESPN 3 
@@ -454,7 +454,7 @@ http://190.108.91.206:9050/play/a02w/index.m3u8
 http://190.108.91.206:9050/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/espn-premium-lam.png" group-title="DEPORTES",ESPN Premium
-http://45.188.229.33:8000/play/a13l/index.m3u8
+http://186.33.24.150:4000/play/a0c5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/fox-sports-ar.png",FOX Sports
@@ -480,7 +480,8 @@ http://45.188.229.33:8000/play/a1ix/index.m3u8
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-id="dazn1.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-1-es.png",DAZN 1
-https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+http://186.33.24.150:4000/play/a0h2/index.m3u8
+
 #EXTINF:-1 tvg-id="dazn2.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-2-es.png",DAZN 2
 https://live91.videxhd.sbs/tvtvhd/dazn2/index.m3u8?api=1234
 #EXTINF:-1 tvg-id="dazn3.es" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/dazn-3-es.png",DAZN 3
@@ -489,7 +490,7 @@ https://live91.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234
 https://live91.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tudn-us.png",TUDN 
-http://148.227.219.186:3000/play/a06a/index.m3u8
+http://154.12.110.160:8100/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -501,7 +502,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cinemax-ar.png" group-title="CINEMA",Cinemax
 http://200.59.191.177:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-ar-ar.png" group-title="CINEMA",Cine AR
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://fa-media.s3.amazonaws.com/menu/fgjli79v3a_amcnila-2024-01-tren-logos-footer-cz-10.png" group-title="CINEMA",Film & Arts
 http://209.45.101.130:8040/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cine-canal-ar.png" group-title="CINEMA",Cinecanal
@@ -513,10 +514,10 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 http://200.60.124.25:8000/play/a0no/index.m3u8
 
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Sony_Movies_Logo.svg-1200x1204-503884418.png" group-title="CINEMA",Sony Movies
-http://209.61.12.132:9000/play/a08i/index.m3u8
+http://154.12.110.160:8100/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV 
-http://181.78.50.191:7225/play/a082
+http://154.12.110.160:8100/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/31/1/warner-channel-logo-png_seeklogo-314531.png" group-title="CINEMA",Warner TV HD
 http://190.60.39.220:8000/play/a071/index.m3u8
 
