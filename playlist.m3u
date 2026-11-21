@@ -492,6 +492,8 @@ https://live91.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
 
 #EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tudn-us.png",TUDN 
 http://154.12.110.160:8100/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="TUDN (México)" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tudn-us.png",TUDN HD
+http://186.33.24.150:4000/play/a0h8/index.m3u8
 
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="DEPORTES" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
@@ -696,7 +698,7 @@ https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fuel
 http://45.190.187.183:8080/play/a17h
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/world-latin-america/discovery-turbo-lat.png" group-title="MOTOR",Discovery Turbo SD
-http://200.123.40.1:8000/play/a04b/index.m3u8
+http://154.12.110.160:8100/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerNation" group-title="MOTOR" tvg-logo="https://i.imgur.com/jguTO8E.png",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
